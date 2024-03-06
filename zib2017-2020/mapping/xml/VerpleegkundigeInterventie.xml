@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>DCM::Concept</ConceptID_2017>
+    <ConceptName_2017>Concept</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::Concept</ConceptID_2020>
+    <ConceptName_2020>Concept</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-728</Bits>
+    <Omschrijving>Tekstwijziging defintie van concept. </Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.1</ConceptID_2017>
+    <ConceptName_2017>VerpleegkundigeInterventie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.1</ConceptID_2020>
+    <ConceptName_2020>VerpleegkundigeInterventie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.2</ConceptID_2017>
+    <ConceptName_2017>Interventie</ConceptName_2017>
+    <Codelists_2017>InterventieNICCodelijst ; InterventieSnomedCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:14.2.2</ConceptID_2020>
+    <ConceptName_2020>Interventie</ConceptName_2020>
+    <Codelists_2020>InterventieSnomedCodelijst</Codelists_2020>
+    <Bits>ZIB-728 ; ZIB-1252</Bits>
+    <Omschrijving>beschrijving concept aangepast en NIC codelijst is vervallen</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.3</ConceptID_2017>
+    <ConceptName_2017>Interval</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.3</ConceptID_2020>
+    <ConceptName_2020>Interval</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.4</ConceptID_2017>
+    <ConceptName_2017>Frequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.4</ConceptID_2020>
+    <ConceptName_2020>Frequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.5</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.5</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.6</ConceptID_2017>
+    <ConceptName_2017>Indicatie::Probleem</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.6</ConceptID_2020>
+    <ConceptName_2020>Indicatie::Probleem</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.7</ConceptID_2017>
+    <ConceptName_2017>Zorgverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.7</ConceptID_2020>
+    <ConceptName_2020>Zorgverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.8</ConceptID_2017>
+    <ConceptName_2017>Aanvrager::Zorgverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.8</ConceptID_2020>
+    <ConceptName_2020>Aanvrager::Zorgverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.9</ConceptID_2017>
+    <ConceptName_2017>VerpleegkundigeActie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:14.2.9</ConceptID_2020>
+    <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-728</Bits>
+    <Omschrijving>Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. </Omschrijving>
+    <TypeChange>CONCEPT REMOVED</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.10</ConceptID_2017>
+    <ConceptName_2017>Activiteit</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:14.2.10</ConceptID_2020>
+    <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-728</Bits>
+    <Omschrijving>Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. </Omschrijving>
+    <TypeChange>CONCEPT REMOVED</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.11</ConceptID_2017>
+    <ConceptName_2017>ActieStartDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:14.2.11</ConceptID_2020>
+    <ConceptName_2020>ActieStartDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-821</Bits>
+    <Omschrijving>datum in toekomst nu toegestaan</Omschrijving>
+    <TypeChange>DATETIME IN FUTURE ALLOWED</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [datetime]&gt; TODAY&gt; remove check for dates in future on 2017 zib</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.12</ConceptID_2017>
+    <ConceptName_2017>ActieEindDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:14.2.12</ConceptID_2020>
+    <ConceptName_2020>ActieEindDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-821</Bits>
+    <Omschrijving>datum in toekomst nu toegestaan</Omschrijving>
+    <TypeChange>DATETIME IN FUTURE ALLOWED</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [datetime]&gt; TODAY&gt; remove check for dates in future on 2017 zib</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.13</ConceptID_2017>
+    <ConceptName_2017>MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.13</ConceptID_2020>
+    <ConceptName_2020>MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.14</ConceptID_2017>
+    <ConceptName_2017>Behandeldoel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.14</ConceptID_2020>
+    <ConceptName_2020>Behandeldoel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.15</ConceptID_2017>
+    <ConceptName_2017>Uitvoerder</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.15</ConceptID_2020>
+    <ConceptName_2020>Uitvoerder</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.16</ConceptID_2017>
+    <ConceptName_2017>Verzorger::ContactPersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.16</ConceptID_2020>
+    <ConceptName_2020>Verzorger::ContactPersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.17</ConceptID_2017>
+    <ConceptName_2017>Patient</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.17</ConceptID_2020>
+    <ConceptName_2020>Patient</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VerpleegkundigeInterventie</ZibName>
+    <ConceptID_2017>NL-CM:14.2.18</ConceptID_2017>
+    <ConceptName_2017>Instructie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:14.2.18</ConceptID_2020>
+    <ConceptName_2020>Instructie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

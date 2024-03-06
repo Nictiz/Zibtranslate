@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.1</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingKind</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.1</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingKind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.2</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingKindDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.2</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingKindDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.4</ConceptID_2017>
+    <ConceptName_2017>ZindelijkheidUrine</ConceptName_2017>
+    <Codelists_2017>ZindelijkheidUrineCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.4</ConceptID_2020>
+    <ConceptName_2020>ZindelijkheidUrine</ConceptName_2020>
+    <Codelists_2020>ZindelijkheidUrineCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.5</ConceptID_2017>
+    <ConceptName_2017>ZindelijkheidFeces</ConceptName_2017>
+    <Codelists_2017>ZindelijkheidFecesCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.5</ConceptID_2020>
+    <ConceptName_2020>ZindelijkheidFeces</ConceptName_2020>
+    <Codelists_2020>ZindelijkheidFecesCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.6</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingMotoriek</ConceptName_2017>
+    <Codelists_2017>OntwikkelingMotoriekCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.6</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingMotoriek</ConceptName_2020>
+    <Codelists_2020>OntwikkelingMotoriekCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.7</ConceptID_2017>
+    <ConceptName_2017>LeeftijdEersteMenstruatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.7</ConceptID_2020>
+    <ConceptName_2020>LeeftijdEersteMenstruatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.8</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingSociaal</ConceptName_2017>
+    <Codelists_2017>OntwikkelingSociaalCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.8</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingSociaal</ConceptName_2020>
+    <Codelists_2020>OntwikkelingSociaalCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.9</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingTaal</ConceptName_2017>
+    <Codelists_2017>OntwikkelingTaalCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.32.9</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingTaal</ConceptName_2020>
+    <Codelists_2020>OntwikkelingTaalCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>OntwikkelingKind</ZibName>
+    <ConceptID_2017>NL-CM:4.32.10</ConceptID_2017>
+    <ConceptName_2017>OntwikkelingVerstandelijk</ConceptName_2017>
+    <Codelists_2017>OntwikkelingVerstandelijkCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.32.10</ConceptID_2020>
+    <ConceptName_2020>OntwikkelingVerstandelijk</ConceptName_2020>
+    <Codelists_2020>OntwikkelingVerstandelijkCodelijst</Codelists_2020>
+    <Bits>ZIB-844</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [364644000  Functional observable] -&gt; [311465003 Cognitive functions]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [311465003 Cognitive functions] -&gt; [364644000  Functional observable]</TRANSLATIE_spec_terug>
+  </row>
+</data>

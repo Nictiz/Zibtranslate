@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.1</ConceptID_2017>
+    <ConceptName_2017>Blaasfunctie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.14.1</ConceptID_2020>
+    <ConceptName_2020>Blaasfunctie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-732</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode  [28278009 Micturition] -&gt; [364196001 Micturition feature]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [364196001 Micturition feature] -&gt; [28278009 Micturition]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.2</ConceptID_2017>
+    <ConceptName_2017>UrineContinentie</ConceptName_2017>
+    <Codelists_2017>UrineContinentieCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.14.2</ConceptID_2020>
+    <ConceptName_2020>UrineContinentie</ConceptName_2020>
+    <Codelists_2020>UrineContinentieCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.3</ConceptID_2017>
+    <ConceptName_2017>Urostoma::Stoma</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.14.3</ConceptID_2020>
+    <ConceptName_2020>Urostoma::Stoma</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:10.1.3</ConceptID_2017>
+    <ConceptName_2017>ProductType</ConceptName_2017>
+    <Codelists_2017>UrineKatheterTypeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.3</ConceptID_2020>
+    <ConceptName_2020>ProductType</ConceptName_2020>
+    <Codelists_2020>UrineKatheterTypeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.4</ConceptID_2017>
+    <ConceptName_2017>UrineKatheter::MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.14.4</ConceptID_2020>
+    <ConceptName_2020>UrineKatheter::MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.5</ConceptID_2017>
+    <ConceptName_2017>Incontinentiemateriaal::MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.14.5</ConceptID_2020>
+    <ConceptName_2020>Incontinentiemateriaal::MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Blaasfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.14.6</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.14.6</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

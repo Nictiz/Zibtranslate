@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.1</ConceptID_2017>
+    <ConceptName_2017>Hartfrequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.1</ConceptID_2020>
+    <ConceptName_2020>Hartfrequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1179</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [106066004 Bevinding betreffende hartritme en/of hartfrequentie]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [106066004 Bevinding betreffende hartritme en/of hartfrequentie] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.2</ConceptID_2017>
+    <ConceptName_2017>HartfrequentieWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.2</ConceptID_2020>
+    <ConceptName_2020>HartfrequentieWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1179</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [364075005 Hartslagfrequentie]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [364075005 Hartslagfrequentie] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.3.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.4</ConceptID_2017>
+    <ConceptName_2017>HartfrequentieDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.3.4</ConceptID_2020>
+    <ConceptName_2020>HartfrequentieDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.5</ConceptID_2017>
+    <ConceptName_2017>HartslagRegelmatigheid</ConceptName_2017>
+    <Codelists_2017>HartslagRegelmatigheidCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.5</ConceptID_2020>
+    <ConceptName_2020>HartslagRegelmatigheid</ConceptName_2020>
+    <Codelists_2020>HartslagRegelmatigheidCodelijst</Codelists_2020>
+    <Bits>ZIB-1179</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [301112006 Bevinding betreffende hartritme]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [301112006 Bevinding betreffende hartritme] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.5</ConceptID_2017>
+    <ConceptName_2017>HartslagRegelmatigheid</ConceptName_2017>
+    <Codelists_2017>HartslagRegelmatigheidCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.5</ConceptID_2020>
+    <ConceptName_2020>HartslagRegelmatigheid</ConceptName_2020>
+    <Codelists_2020>HartslagRegelmatigheidCodelijst</Codelists_2020>
+    <Bits>ZIB-732</Bits>
+    <Omschrijving>Deprecated item in waardelijst vervangen</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.6</ConceptID_2017>
+    <ConceptName_2017>HartslagMeetMethode</ConceptName_2017>
+    <Codelists_2017>HartslagMeetMethodeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.6</ConceptID_2020>
+    <ConceptName_2020>HartslagMeetMethode</ConceptName_2020>
+    <Codelists_2020>HartslagMeetMethodeCodelijst</Codelists_2020>
+    <Bits>ZIB-1179</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [315306007 Onderzoek per methode]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [315306007 Onderzoek per methode] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.6</ConceptID_2017>
+    <ConceptName_2017>HartslagMeetMethode</ConceptName_2017>
+    <Codelists_2017>HartslagMeetMethodeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.3.6</ConceptID_2020>
+    <ConceptName_2020>HartslagMeetMethode</ConceptName_2020>
+    <Codelists_2020>HartslagMeetMethodeCodelijst</Codelists_2020>
+    <Bits>ZIB-509</Bits>
+    <Omschrijving>Bij nl.zorg.Hartfrequentie is de meetmethode 'Palpatie' op deprecated gezet.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Hartfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.3.7</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:12.3.7</ConceptID_2020>
+    <ConceptName_2020>InterpretatieFrequentie</ConceptName_2020>
+    <Codelists_2020>InterpretatieFrequentieCodelijst</Codelists_2020>
+    <Bits>ZIB-881</Bits>
+    <Omschrijving>Extra item HartslagSnelheid (CD) met waardelijst toegevoegd</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

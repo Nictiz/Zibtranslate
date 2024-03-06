@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.1</ConceptID_2017>
+    <ConceptName_2017>Ademhaling</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.5.1</ConceptID_2020>
+    <ConceptName_2020>Ademhaling</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-924</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [422834003 Evaluatie van ademhaling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [422834003 Evaluatie van ademhaling] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.2</ConceptID_2017>
+    <ConceptName_2017>Ademfrequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.2</ConceptID_2020>
+    <ConceptName_2020>Ademfrequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:10.1.3</ConceptID_2017>
+    <ConceptName_2017>ProductType</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.3</ConceptID_2020>
+    <ConceptName_2020>ProductType</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.4</ConceptID_2017>
+    <ConceptName_2017>AdemhalingDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.4</ConceptID_2020>
+    <ConceptName_2020>AdemhalingDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.5</ConceptID_2017>
+    <ConceptName_2017>Ritme</ConceptName_2017>
+    <Codelists_2017>RitmeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.5</ConceptID_2020>
+    <ConceptName_2020>Ritme</ConceptName_2020>
+    <Codelists_2020>RitmeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.6</ConceptID_2017>
+    <ConceptName_2017>Diepte</ConceptName_2017>
+    <Codelists_2017>DiepteCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.6</ConceptID_2020>
+    <ConceptName_2020>Diepte</ConceptName_2020>
+    <Codelists_2020>DiepteCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.7</ConceptID_2017>
+    <ConceptName_2017>AfwijkendAdemhalingspatroon</ConceptName_2017>
+    <Codelists_2017>AfwijkendAdemhalingspatroonCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.7</ConceptID_2020>
+    <ConceptName_2020>AfwijkendAdemhalingspatroon</ConceptName_2020>
+    <Codelists_2020>AfwijkendAdemhalingspatroonCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.8</ConceptID_2017>
+    <ConceptName_2017>ToegediendeZuurstof</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.8</ConceptID_2020>
+    <ConceptName_2020>ToegediendeZuurstof</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.9</ConceptID_2017>
+    <ConceptName_2017>FiO2</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.9</ConceptID_2020>
+    <ConceptName_2020>FiO2</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.10</ConceptID_2017>
+    <ConceptName_2017>FlowRate</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.10</ConceptID_2020>
+    <ConceptName_2020>FlowRate</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.12</ConceptID_2017>
+    <ConceptName_2017>ExtraZuurstofToediening</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.5.12</ConceptID_2020>
+    <ConceptName_2020>ExtraZuurstofToediening</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-924</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [16206004 Zuurstoftoevoer]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [16206004 Zuurstoftoevoer] -&gt; [blank] </TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Ademhaling</ZibName>
+    <ConceptID_2017>NL-CM:12.5.13</ConceptID_2017>
+    <ConceptName_2017>ToedieningHulpmiddel::MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017>ToedieningHulpmiddelCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.5.13</ConceptID_2020>
+    <ConceptName_2020>ToedieningHulpmiddel::MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020>ToedieningHulpmiddelCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

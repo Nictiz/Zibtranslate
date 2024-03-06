@@ -1,0 +1,10 @@
+ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
+Alert,DCM::Instructions,Instructions,,geel: patch wijziging,DCM::Instructions,Instructions,,ZIB-1209,Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie,SIMPLE PATCH CHANGE,Low,,Low,
+Alert,NL-CM:8.3.1,Alert,,groen: geen wijzigingen,NL-CM:8.3.1,Alert,,,,NO CHANGE,,,,
+Alert,NL-CM:8.3.3,Conditie::Probleem ,,geel: patch wijziging,NL-CM:8.3.3,Conditie::Probleem ,,ZIB-1209,Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie,SIMPLE PATCH CHANGE,Low,,Low,
+Alert,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,geel: patch wijziging,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,ZIB-905,Typo in de definite van alertnaam (vastgelegd) is aangepast,SIMPLE PATCH CHANGE,Low,,Low,
+Alert,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,oranje: minor change,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,ZIB-905 ; ZIB-813,De vanuit het programma antibioticaresistentie (ABR) aangeleverde lijst met 7 BMRO groepen zijn toegevoegd/aangepast in de AlertNaamCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Alert,NL-CM:8.3.5,BeginDatumTijd ,,groen: geen wijzigingen,NL-CM:8.3.5,BeginDatumTijd ,,,,NO CHANGE,,,,
+Alert,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,groen: geen wijzigingen,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,,,NO CHANGE,,,,
+Alert,NL-CM:8.3.7,**concept toegevoegd in 2020**,,rood: major change,NL-CM:8.3.7,Toelichting,,ZIB-682,Element is toegevoegd aan het rootconcept,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
+Alert,NL-CM:8.3.8,**concept toegevoegd in 2020**,,rood: major change,NL-CM:8.3.8,EindDatumTijd ,,ZIB-526,Toevoegen EindDatum bij zibs die ook BeginDatum kennen,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]

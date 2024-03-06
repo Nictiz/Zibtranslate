@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.1</ConceptID_2017>
+    <ConceptName_2017>AlcoholGebruik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.3.1</ConceptID_2020>
+    <ConceptName_2020>AlcoholGebruik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.2</ConceptID_2017>
+    <ConceptName_2017>AlcoholGebruikStatus</ConceptName_2017>
+    <Codelists_2017>AlcoholGebruikStatusCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.3.2</ConceptID_2020>
+    <ConceptName_2020>AlcoholGebruikStatus</ConceptName_2020>
+    <Codelists_2020>AlcoholGebruikStatusCodelijst</Codelists_2020>
+    <Bits>ZIB-1199 ; ZIB-686</Bits>
+    <Omschrijving>Verouderde SCT code vervangen door nieuwe in codelijst</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.3</ConceptID_2017>
+    <ConceptName_2017>WaarnemingGebruik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.3.3</ConceptID_2020>
+    <ConceptName_2020>WaarnemingGebruik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.4</ConceptID_2017>
+    <ConceptName_2017>StartDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.3.4</ConceptID_2020>
+    <ConceptName_2020>StartDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.5</ConceptID_2017>
+    <ConceptName_2017>StopDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.3.5</ConceptID_2020>
+    <ConceptName_2020>StopDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AlcoholGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.3.6</ConceptID_2017>
+    <ConceptName_2017>Hoeveelheid</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.3.6</ConceptID_2020>
+    <ConceptName_2020>Hoeveelheid</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

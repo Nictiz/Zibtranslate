@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.1</ConceptID_2017>
+    <ConceptName_2017>Naamgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.1</ConceptID_2020>
+    <ConceptName_2020>Naamgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.2</ConceptID_2017>
+    <ConceptName_2017>Geslachtsnaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.2</ConceptID_2020>
+    <ConceptName_2020>Geslachtsnaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.3</ConceptID_2017>
+    <ConceptName_2017>GeslachtsnaamPartner</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.3</ConceptID_2020>
+    <ConceptName_2020>GeslachtsnaamPartner</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.4</ConceptID_2017>
+    <ConceptName_2017>Voornamen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.4</ConceptID_2020>
+    <ConceptName_2020>Voornamen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.5</ConceptID_2017>
+    <ConceptName_2017>Initialen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.5</ConceptID_2020>
+    <ConceptName_2020>Initialen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.6</ConceptID_2017>
+    <ConceptName_2017>Roepnaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.6</ConceptID_2020>
+    <ConceptName_2020>Roepnaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.7</ConceptID_2017>
+    <ConceptName_2017>Naamgebruik</ConceptName_2017>
+    <Codelists_2017>NaamgebruikCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.7</ConceptID_2020>
+    <ConceptName_2020>Naamgebruik</ConceptName_2020>
+    <Codelists_2020>NaamgebruikCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.8</ConceptID_2017>
+    <ConceptName_2017>AchternaamPartner</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.8</ConceptID_2020>
+    <ConceptName_2020>AchternaamPartner</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.9</ConceptID_2017>
+    <ConceptName_2017>VoorvoegselsPartner</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.9</ConceptID_2020>
+    <ConceptName_2020>VoorvoegselsPartner</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.10</ConceptID_2017>
+    <ConceptName_2017>Achternaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.10</ConceptID_2020>
+    <ConceptName_2020>Achternaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.11</ConceptID_2017>
+    <ConceptName_2017>Voorvoegsels</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.4.11</ConceptID_2020>
+    <ConceptName_2020>Voorvoegsels</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Naamgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.4.12</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:20.4.12</ConceptID_2020>
+    <ConceptName_2020>Titels</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1067</Bits>
+    <Omschrijving>element titels toegevoegd aan informatiemodel</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

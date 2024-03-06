@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.1</ConceptID_2017>
+    <ConceptName_2017>VoedingspatroonZuigeling</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.1</ConceptID_2020>
+    <ConceptName_2020>VoedingspatroonZuigeling</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-921</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [
+289145007 Bevinding betreffende voedingspatroon van zuigeling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [
+289145007 Bevinding betreffende voedingspatroon van zuigeling]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.2</ConceptID_2017>
+    <ConceptName_2017>Voeding</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.2</ConceptID_2020>
+    <ConceptName_2020>Voeding</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-921</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [230126006 Bevinding betreffende voeden van zuigeling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [230126006 Bevinding betreffende voeden van zuigeling]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.3</ConceptID_2017>
+    <ConceptName_2017>VoedingSoort</ConceptName_2017>
+    <Codelists_2017>VoedingSoortCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.3</ConceptID_2020>
+    <ConceptName_2020>VoedingSoort</ConceptName_2020>
+    <Codelists_2020>VoedingSoortCodelijst</Codelists_2020>
+    <Bits>ZIB-933</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [109021000146107 Infant food type]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [109021000146107 Infant food type]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.3</ConceptID_2017>
+    <ConceptName_2017>VoedingSoort</ConceptName_2017>
+    <Codelists_2017>VoedingSoortCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.3</ConceptID_2020>
+    <ConceptName_2020>VoedingSoort</ConceptName_2020>
+    <Codelists_2020>VoedingSoortCodelijst</Codelists_2020>
+    <Bits>ZIB-933</Bits>
+    <Omschrijving>Codelijst aangepast</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.4</ConceptID_2017>
+    <ConceptName_2017>VoedingMethode</ConceptName_2017>
+    <Codelists_2017>VoedingMethodeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.4</ConceptID_2020>
+    <ConceptName_2020>VoedingMethode</ConceptName_2020>
+    <Codelists_2020>VoedingMethodeCodelijst</Codelists_2020>
+    <Bits>ZIB-933</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [169740003 Wijze van voeden van zuigeling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [169740003 Wijze van voeden van zuigeling]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.5</ConceptID_2017>
+    <ConceptName_2017>VoedingFrequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.31.5</ConceptID_2020>
+    <ConceptName_2020>VoedingFrequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.6</ConceptID_2017>
+    <ConceptName_2017>VoedingspatroonZuigelingDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.31.6</ConceptID_2020>
+    <ConceptName_2020>VoedingspatroonZuigelingDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.7</ConceptID_2017>
+    <ConceptName_2017>VoedingToevoeging</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.7</ConceptID_2020>
+    <ConceptName_2020>VoedingToevoeging</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-933</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [373453009 Nutritional supplement]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [373453009 Nutritional supplement]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.8</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.31.8</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>VoedingspatroonZuigeling</ZibName>
+    <ConceptID_2017>NL-CM:4.31.9</ConceptID_2017>
+    <ConceptName_2017>Voedingsadvies</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.31.9</ConceptID_2020>
+    <ConceptName_2020>Voedingsadvies</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-933</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [386461003 Voorlichten over zuigelingenvoeding]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [386461003 Voorlichten over zuigelingenvoeding]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+</data>

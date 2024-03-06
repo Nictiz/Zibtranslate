@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Bereik</ZibName>
+    <ConceptID_2017>NL-CM:20.1.1</ConceptID_2017>
+    <ConceptName_2017>Bereik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:20.1.1</ConceptID_2020>
+    <ConceptName_2020>Bereik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-805</Bits>
+    <Omschrijving>Bereik invariant toegevoegd in UML modellering (Of een nominale waarde OF een minimale EN een maximale)
+waarde moet gekozen worden)</Omschrijving>
+    <TypeChange>OTHER INFORMATIONMODEL CHANGE</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bereik</ZibName>
+    <ConceptID_2017>NL-CM:20.1.2</ConceptID_2017>
+    <ConceptName_2017>minimumWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.1.2</ConceptID_2020>
+    <ConceptName_2020>minimumWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bereik</ZibName>
+    <ConceptID_2017>NL-CM:20.1.3</ConceptID_2017>
+    <ConceptName_2017>maximumWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.1.3</ConceptID_2020>
+    <ConceptName_2020>maximumWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bereik</ZibName>
+    <ConceptID_2017>NL-CM:20.1.4</ConceptID_2017>
+    <ConceptName_2017>nominaleWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:20.1.4</ConceptID_2020>
+    <ConceptName_2020>nominaleWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-805</Bits>
+    <Omschrijving>Tekst defintie concept  gewijzigd.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.1</ConceptID_2017>
+    <ConceptName_2017>Mobiliteit</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.3.1</ConceptID_2020>
+    <ConceptName_2020>Mobiliteit</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.3</ConceptID_2017>
+    <ConceptName_2017>Lopen</ConceptName_2017>
+    <Codelists_2017>LopenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.3</ConceptID_2020>
+    <ConceptName_2020>Lopen</ConceptName_2020>
+    <Codelists_2020>LopenCodelijst</Codelists_2020>
+    <Bits>ZIB-1113</Bits>
+    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
+    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.4</ConceptID_2017>
+    <ConceptName_2017>MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.3.4</ConceptID_2020>
+    <ConceptName_2020>MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.5</ConceptID_2017>
+    <ConceptName_2017>UitvoerenTransfer</ConceptName_2017>
+    <Codelists_2017>UitvoerenTransferCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.5</ConceptID_2020>
+    <ConceptName_2020>UitvoerenTransfer</ConceptName_2020>
+    <Codelists_2020>UitvoerenTransferCodelijst</Codelists_2020>
+    <Bits>ZIB-1113</Bits>
+    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
+    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.5</ConceptID_2017>
+    <ConceptName_2017>UitvoerenTransfer</ConceptName_2017>
+    <Codelists_2017>UitvoerenTransferCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.5</ConceptID_2020>
+    <ConceptName_2020>UitvoerenTransfer</ConceptName_2020>
+    <Codelists_2020>UitvoerenTransferCodelijst</Codelists_2020>
+    <Bits>ZIB-732</Bits>
+    <Omschrijving>Deprecated code in codelijst</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.8</ConceptID_2017>
+    <ConceptName_2017>HoudingVeranderen</ConceptName_2017>
+    <Codelists_2017>HoudingVeranderenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.8</ConceptID_2020>
+    <ConceptName_2020>HoudingVeranderen</ConceptName_2020>
+    <Codelists_2020>HoudingVeranderenCodelijst</Codelists_2020>
+    <Bits>ZIB-1113</Bits>
+    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
+    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.12</ConceptID_2017>
+    <ConceptName_2017>HoudingHandhaven</ConceptName_2017>
+    <Codelists_2017>HoudingHandhavenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.12</ConceptID_2020>
+    <ConceptName_2020>HoudingHandhaven</ConceptName_2020>
+    <Codelists_2020>HoudingHandhavenCodelijst</Codelists_2020>
+    <Bits>ZIB-1113</Bits>
+    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
+    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.16</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.3.16</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Mobiliteit</ZibName>
+    <ConceptID_2017>NL-CM:4.3.18</ConceptID_2017>
+    <ConceptName_2017>Traplopen</ConceptName_2017>
+    <Codelists_2017>TraplopenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.3.18</ConceptID_2020>
+    <ConceptName_2020>Traplopen</ConceptName_2020>
+    <Codelists_2020>TraplopenCodelijst</Codelists_2020>
+    <Bits>ZIB-1113</Bits>
+    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
+    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+  </row>
+</data>

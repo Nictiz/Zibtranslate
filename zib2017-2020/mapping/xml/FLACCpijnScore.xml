@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.1</ConceptID_2017>
+    <ConceptName_2017>FLACCpijnScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.1</ConceptID_2020>
+    <ConceptName_2020>FLACCpijnScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108291000146105 FLACC-pijnmeetinstrument]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [108291000146105 FLACC-pijnmeetinstrument] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.2</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.2</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [49091000146109 'faces, legs, activity, cry and consolability'-score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [49091000146109 'faces, legs, activity, cry and consolability'-score] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.3</ConceptID_2017>
+    <ConceptName_2017>Gezicht</ConceptName_2017>
+    <Codelists_2017>GezichtCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.3</ConceptID_2020>
+    <ConceptName_2020>Gezicht</ConceptName_2020>
+    <Codelists_2020>GezichtCodelijst</Codelists_2020>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12013003 FLACCpijnScore Gezicht]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12013003 FLACCpijnScore Gezicht] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.4</ConceptID_2017>
+    <ConceptName_2017>Benen</ConceptName_2017>
+    <Codelists_2017>BenenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.4</ConceptID_2020>
+    <ConceptName_2020>Benen</ConceptName_2020>
+    <Codelists_2020>BenenCodelijst</Codelists_2020>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12013004 FLACCpijnScore Benen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12013004 FLACCpijnScore Benen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.5</ConceptID_2017>
+    <ConceptName_2017>Activiteit</ConceptName_2017>
+    <Codelists_2017>ActiviteitCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.5</ConceptID_2020>
+    <ConceptName_2020>Activiteit</ConceptName_2020>
+    <Codelists_2020>ActiviteitCodelijst</Codelists_2020>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12013005 FLACCpijnScore Activiteit]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12013005 FLACCpijnScore Activiteit] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.6</ConceptID_2017>
+    <ConceptName_2017>Huilen</ConceptName_2017>
+    <Codelists_2017>HuilenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.6</ConceptID_2020>
+    <ConceptName_2020>Huilen</ConceptName_2020>
+    <Codelists_2020>HuilenCodelijst</Codelists_2020>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12013006 FLACCpijnScore Huilen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12013006 FLACCpijnScore Huilen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.9</ConceptID_2017>
+    <ConceptName_2017>Troostbaar</ConceptName_2017>
+    <Codelists_2017>TroostbaarCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.13.9</ConceptID_2020>
+    <ConceptName_2020>Troostbaar</ConceptName_2020>
+    <Codelists_2020>TroostbaarCodelijst</Codelists_2020>
+    <Bits>ZIB-926 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12013009 FLACCpijnScore Troostbaar]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12013009 FLACCpijnScore Troostbaar] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.11</ConceptID_2017>
+    <ConceptName_2017>ScoreDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.13.11</ConceptID_2020>
+    <ConceptName_2020>ScoreDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>FLACCpijnScore</ZibName>
+    <ConceptID_2017>NL-CM:12.13.12</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.13.12</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

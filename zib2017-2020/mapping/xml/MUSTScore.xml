@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.1</ConceptID_2017>
+    <ConceptName_2017>MUSTScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.5.1</ConceptID_2020>
+    <ConceptName_2020>MUSTScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-922</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [414648004 Malnutrition Universal Screening Tool] -&gt; [444297006 MUST (Malnutrition universal screening tool) score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [444297006 MUST (Malnutrition universal screening tool) score] -&gt; [414648004 Malnutrition Universal Screening Tool]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.2</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.5.2</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-922</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [444297006 'Malnutrition Universal Screening Tool'-score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [444297006 'Malnutrition Universal Screening Tool'-score] -&gt; [blank] </TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.3</ConceptID_2017>
+    <ConceptName_2017>BMIScore</ConceptName_2017>
+    <Codelists_2017>BMIScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.5.3</ConceptID_2020>
+    <ConceptName_2020>BMIScore</ConceptName_2020>
+    <Codelists_2020>BMIScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-922</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005003 MUSTScore BMIScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4005003 MUSTScore BMIScore] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.4</ConceptID_2017>
+    <ConceptName_2017>GewichtsverliesScore</ConceptName_2017>
+    <Codelists_2017>MUSTGewichtsverliesScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.5.4</ConceptID_2020>
+    <ConceptName_2020>GewichtsverliesScore</ConceptName_2020>
+    <Codelists_2020>MUSTGewichtsverliesScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-922</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005004 MUSTScore GewichtsverliesScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4005004 MUSTScore GewichtsverliesScore] -&gt;[blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.5</ConceptID_2017>
+    <ConceptName_2017>ZiekteScore</ConceptName_2017>
+    <Codelists_2017>ZiekteScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.5.5</ConceptID_2020>
+    <ConceptName_2020>ZiekteScore</ConceptName_2020>
+    <Codelists_2020>ZiekteScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-922</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005005 MUSTScore ZiekteScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4005005 MUSTScore ZiekteScore] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.6</ConceptID_2017>
+    <ConceptName_2017>MUSTScoreDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.5.6</ConceptID_2020>
+    <ConceptName_2020>MUSTScoreDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MUSTScore</ZibName>
+    <ConceptID_2017>NL-CM:4.5.7</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.5.7</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

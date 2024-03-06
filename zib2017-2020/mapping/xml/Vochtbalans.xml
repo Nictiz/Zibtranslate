@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.1</ConceptID_2017>
+    <ConceptName_2017>Vochtbalans</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.15.1</ConceptID_2020>
+    <ConceptName_2020>Vochtbalans</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-1188</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [710853006 Evaluatie van vochtbalans]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [710853006 Evaluatie van vochtbalans]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.2</ConceptID_2017>
+    <ConceptName_2017>VochtbalansStarttijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.15.2</ConceptID_2020>
+    <ConceptName_2020>VochtbalansStarttijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-1188</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [442371002 Start time of procedure]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [442371002 Start time of procedure]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.3</ConceptID_2017>
+    <ConceptName_2017>VochtbalansStoptijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.15.3</ConceptID_2020>
+    <ConceptName_2020>VochtbalansStoptijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-1188</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [442137000 Completion time of procedure]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [442137000 Completion time of procedure]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.4</ConceptID_2017>
+    <ConceptName_2017>VochtTotaalIn</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.15.4</ConceptID_2020>
+    <ConceptName_2020>VochtTotaalIn</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.5</ConceptID_2017>
+    <ConceptName_2017>VochtTotaalUit</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.15.5</ConceptID_2020>
+    <ConceptName_2020>VochtTotaalUit</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Vochtbalans</ZibName>
+    <ConceptID_2017>NL-CM:12.15.6</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.15.6</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

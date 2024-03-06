@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.1</ConceptID_2017>
+    <ConceptName_2017>AllergieIntolerantie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.1</ConceptID_2020>
+    <ConceptName_2020>AllergieIntolerantie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.2</ConceptID_2017>
+    <ConceptName_2017>VeroorzakendeStof</ConceptName_2017>
+    <Codelists_2017>VeroorzakendeStofAllergeneStoffenCodelijst
+VeroorzakendeStofHPKCodelijst
+VeroorzakendeStofSNKCodelijst
+VeroorzakendeStofSSKCodelijst
+VeroorzakendeStofThesaurus122Codelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:8.2.2</ConceptID_2020>
+    <ConceptName_2020>VeroorzakendeStof</ConceptName_2020>
+    <Codelists_2020>VeroorzakendeStofAllergeneStoffenCodelijst ; VeroorzakendeStofHPKCodelijst ; VeroorzakendeStofSNKCodelijst ; VeroorzakendeStofSSKCodelijst ; VeroorzakendeStofThesaurus122Codelijst</Codelists_2020>
+    <Bits>ZIB-1369</Bits>
+    <Omschrijving>In de bij het concept  wordt verwezen naar een vervallen referentieset: 42931000146101. Deze is  vervangen door: 98061000146100.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.4</ConceptID_2017>
+    <ConceptName_2017>AllergieCategorie</ConceptName_2017>
+    <Codelists_2017>AllergieCategorieCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.4</ConceptID_2020>
+    <ConceptName_2020>AllergieCategorie</ConceptName_2020>
+    <Codelists_2020>AllergieCategorieCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.5</ConceptID_2017>
+    <ConceptName_2017>AllergieStatus</ConceptName_2017>
+    <Codelists_2017>AllergieStatusCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.5</ConceptID_2020>
+    <ConceptName_2020>AllergieStatus</ConceptName_2020>
+    <Codelists_2020>AllergieStatusCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.6</ConceptID_2017>
+    <ConceptName_2017>BeginDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.6</ConceptID_2020>
+    <ConceptName_2020>BeginDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.7</ConceptID_2017>
+    <ConceptName_2017>MateVanKritiekZijn</ConceptName_2017>
+    <Codelists_2017>MateVanKritiekZijnCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.7</ConceptID_2020>
+    <ConceptName_2020>MateVanKritiekZijn</ConceptName_2020>
+    <Codelists_2020>MateVanKritiekZijnCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.8</ConceptID_2017>
+    <ConceptName_2017>LaatsteReactieDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.8</ConceptID_2020>
+    <ConceptName_2020>LaatsteReactieDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.9</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.9</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.10</ConceptID_2017>
+    <ConceptName_2017>Reactie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.10</ConceptID_2020>
+    <ConceptName_2020>Reactie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.11</ConceptID_2017>
+    <ConceptName_2017>Symptoom</ConceptName_2017>
+    <Codelists_2017>SymptoomCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:8.2.11</ConceptID_2020>
+    <ConceptName_2020>Symptoom</ConceptName_2020>
+    <Codelists_2020>SymptoomCodelijst</Codelists_2020>
+    <Bits>ZIB-732</Bits>
+    <Omschrijving>SNOMED CT code bij item in valueset vervangen</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.12</ConceptID_2017>
+    <ConceptName_2017>SpecifiekeStof</ConceptName_2017>
+    <Codelists_2017>SpecifiekeStofAllergeneStoffenCodelijst
+SpecifiekeStofHPKCodelijst
+SpecifiekeStofSNKCodelijst
+SpecifiekeStofSSKCodelijst
+SpecifiekeStofThesaurus122Codelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:8.2.12</ConceptID_2020>
+    <ConceptName_2020>SpecifiekeStof</ConceptName_2020>
+    <Codelists_2020>SpecifiekeStofAllergeneStoffenCodelijst ; SpecifiekeStofHPKCodelijst ; SpecifiekeStofSNKCodelijst ; SpecifiekeStofSSKCodelijst ; SpecifiekeStofThesaurus122Codelijst</Codelists_2020>
+    <Bits>ZIB-1856</Bits>
+    <Omschrijving>In de bij het concept  wordt verwezen naar een vervallen referentieset: 42931000146101. Deze is  vervangen door: 98061000146100.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.13</ConceptID_2017>
+    <ConceptName_2017>ReactieBeschrijving</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.13</ConceptID_2020>
+    <ConceptName_2020>ReactieBeschrijving</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.14</ConceptID_2017>
+    <ConceptName_2017>Ernst</ConceptName_2017>
+    <Codelists_2017>ErnstCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.14</ConceptID_2020>
+    <ConceptName_2020>Ernst</ConceptName_2020>
+    <Codelists_2020>ErnstCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.15</ConceptID_2017>
+    <ConceptName_2017>WijzeVanBlootstelling</ConceptName_2017>
+    <Codelists_2017>WijzeVanBlootstellingCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.15</ConceptID_2020>
+    <ConceptName_2020>WijzeVanBlootstelling</ConceptName_2020>
+    <Codelists_2020>WijzeVanBlootstellingCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>AllergieIntolerantie</ZibName>
+    <ConceptID_2017>NL-CM:8.2.17</ConceptID_2017>
+    <ConceptName_2017>ReactieTijdstip</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.2.17</ConceptID_2020>
+    <ConceptName_2020>ReactieTijdstip</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

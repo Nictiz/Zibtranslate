@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>DCM::Instructions</ConceptID_2017>
+    <ConceptName_2017>Instructions</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::Instructions</ConceptID_2020>
+    <ConceptName_2020>Instructions</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1209</Bits>
+    <Omschrijving>Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.1</ConceptID_2017>
+    <ConceptName_2017>Alert</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.3.1</ConceptID_2020>
+    <ConceptName_2020>Alert</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.3</ConceptID_2017>
+    <ConceptName_2017>Conditie::Probleem </ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:8.3.3</ConceptID_2020>
+    <ConceptName_2020>Conditie::Probleem </ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1209</Bits>
+    <Omschrijving>Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.4</ConceptID_2017>
+    <ConceptName_2017>AlertNaam </ConceptName_2017>
+    <Codelists_2017>AlertNaamCodelijst</Codelists_2017>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:8.3.4</ConceptID_2020>
+    <ConceptName_2020>AlertNaam </ConceptName_2020>
+    <Codelists_2020>AlertNaamCodelijst</Codelists_2020>
+    <Bits>ZIB-905</Bits>
+    <Omschrijving>Typo in de definite van alertnaam (vastgelegd) is aangepast</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.4</ConceptID_2017>
+    <ConceptName_2017>AlertNaam </ConceptName_2017>
+    <Codelists_2017>AlertNaamCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:8.3.4</ConceptID_2020>
+    <ConceptName_2020>AlertNaam </ConceptName_2020>
+    <Codelists_2020>AlertNaamCodelijst</Codelists_2020>
+    <Bits>ZIB-905 ; ZIB-813</Bits>
+    <Omschrijving>De vanuit het programma antibioticaresistentie (ABR) aangeleverde lijst met 7 BMRO groepen zijn toegevoegd/aangepast in de AlertNaamCodelijst.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.5</ConceptID_2017>
+    <ConceptName_2017>BeginDatumTijd </ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.3.5</ConceptID_2020>
+    <ConceptName_2020>BeginDatumTijd </ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.6</ConceptID_2017>
+    <ConceptName_2017>AlertType </ConceptName_2017>
+    <Codelists_2017>AlertTypeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:8.3.6</ConceptID_2020>
+    <ConceptName_2020>AlertType </ConceptName_2020>
+    <Codelists_2020>AlertTypeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.7</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:8.3.7</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-682</Bits>
+    <Omschrijving>Element is toegevoegd aan het rootconcept</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Alert</ZibName>
+    <ConceptID_2017>NL-CM:8.3.8</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:8.3.8</ConceptID_2020>
+    <ConceptName_2020>EindDatumTijd </ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-526</Bits>
+    <Omschrijving>Toevoegen EindDatum bij zibs die ook BeginDatum kennen</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

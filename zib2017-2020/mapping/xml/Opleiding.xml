@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Opleiding</ZibName>
+    <ConceptID_2017>NL-CM:7.10.1</ConceptID_2017>
+    <ConceptName_2017>Opleiding</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.10.1</ConceptID_2020>
+    <ConceptName_2020>Opleiding</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Opleiding</ZibName>
+    <ConceptID_2017>NL-CM:7.10.2</ConceptID_2017>
+    <ConceptName_2017>Schooltype</ConceptName_2017>
+    <Codelists_2017>SchooltypeCBSCodelijst;SchooltypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.10.2</ConceptID_2020>
+    <ConceptName_2020>Schooltype</ConceptName_2020>
+    <Codelists_2020>SchooltypeCBSCodelijst;SchooltypeCodelijst</Codelists_2020>
+    <Bits>ZIB-957 ; ZIB-1096</Bits>
+    <Omschrijving>Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Opleiding</ZibName>
+    <ConceptID_2017>NL-CM:7.10.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.10.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

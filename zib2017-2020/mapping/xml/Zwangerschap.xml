@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.1</ConceptID_2017>
+    <ConceptName_2017>Zwangerschap</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.14.1</ConceptID_2020>
+    <ConceptName_2020>Zwangerschap</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1201</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [364320009 Pregnancy observable] -&gt; [118185001 bevinding betreffende zwangerschap]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [118185001 bevinding betreffende zwangerschap] -&gt; [364320009 Pregnancy observable]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.2</ConceptID_2017>
+    <ConceptName_2017>Zwanger</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.14.2</ConceptID_2020>
+    <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>Boolean concept zwanger is verwijderd.</Omschrijving>
+    <TypeChange>CONCEPT REMOVED</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger]</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.3</ConceptID_2017>
+    <ConceptName_2017>ATermeDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:7.14.3</ConceptID_2020>
+    <ConceptName_2020>ATermeDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-907</Bits>
+    <Omschrijving>Kleine tekstwijzing in engelse vertaling "term date" naar ''due date''.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.4</ConceptID_2017>
+    <ConceptName_2017>Zwangerschapsduur</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.14.4</ConceptID_2020>
+    <ConceptName_2020>Zwangerschapsduur</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.5</ConceptID_2017>
+    <ConceptName_2017>Graviditeit</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.14.5</ConceptID_2020>
+    <ConceptName_2020>Graviditeit</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [161732006 Gravida]; LOINC DefintionCode[11996-6 Pregnancies] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [161732006 Gravida] -&gt;[blank] ; LOINC DefintionCode [blank] -&gt; [11996-6 Pregnancies]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.6</ConceptID_2017>
+    <ConceptName_2017>Pariteit</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.14.6</ConceptID_2020>
+    <ConceptName_2020>Pariteit</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [364325004 Pariteit]; LOINC DefintionCode[11977-6 Parity] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [364325004 Pariteit] -&gt; [blank] ; LOINC DefintionCode [blank] -&gt; [11977-6 Parity]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.7</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.14.7</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [161714006 Estimated date of delivery]; LOINC DefintionCode[11778-8 Delivery date Estimated] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [161714006 Estimated date of delivery] -&gt; [blank] ; LOINC DefintionCode [blank] -&gt; [11778-8 Delivery date Estimated]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.8</ConceptID_2017>
+    <ConceptName_2017>DatumLaatsteMenstruatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.14.8</ConceptID_2020>
+    <ConceptName_2020>DatumLaatsteMenstruatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>AtermeDatum container met onderliggende elementen zijn toegevoegd aan de zib. </Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.9</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.14.9</ConceptID_2020>
+    <ConceptName_2020>ATermeDatumItems</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>AtermeDatum container met onderliggende elementen zijn toegevoegd aan de zib. </Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.10</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.14.10</ConceptID_2020>
+    <ConceptName_2020>BepalingsMethode</ConceptName_2020>
+    <Codelists_2020>BepalingsMethodeCodelijst</Codelists_2020>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>AtermeDatum container met onderliggende elementen zijn toegevoegd aan de zib. </Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zwangerschap</ZibName>
+    <ConceptID_2017>NL-CM:7.14.11</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.14.11</ConceptID_2020>
+    <ConceptName_2020>DatumBepaling</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-890</Bits>
+    <Omschrijving>AtermeDatum container met onderliggende elementen zijn toegevoegd aan de zib. </Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

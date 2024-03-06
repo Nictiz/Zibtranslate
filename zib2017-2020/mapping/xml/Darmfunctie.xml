@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.1</ConceptID_2017>
+    <ConceptName_2017>Darmfunctie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.15.1</ConceptID_2020>
+    <ConceptName_2020>Darmfunctie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-732</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [11198001 defecation] -&gt; [111989001 Defecation]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [111989001 Defecation]  -&gt; [11198001 defecation]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.2</ConceptID_2017>
+    <ConceptName_2017>FecesContinentie</ConceptName_2017>
+    <Codelists_2017>FecesContinentieCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.2</ConceptID_2020>
+    <ConceptName_2020>FecesContinentie</ConceptName_2020>
+    <Codelists_2020>FecesContinentieCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.3</ConceptID_2017>
+    <ConceptName_2017>Stoma</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.3</ConceptID_2020>
+    <ConceptName_2020>Stoma</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.4</ConceptID_2017>
+    <ConceptName_2017>Frequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.4</ConceptID_2020>
+    <ConceptName_2020>Frequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.6</ConceptID_2017>
+    <ConceptName_2017>Incontinentiemateriaal::MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.6</ConceptID_2020>
+    <ConceptName_2020>Incontinentiemateriaal::MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.7</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.7</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.9</ConceptID_2017>
+    <ConceptName_2017>DefecatieConsistentie</ConceptName_2017>
+    <Codelists_2017>DefecatieConsistentieCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.9</ConceptID_2020>
+    <ConceptName_2020>DefecatieConsistentie</ConceptName_2020>
+    <Codelists_2020>DefecatieConsistentieCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Darmfunctie</ZibName>
+    <ConceptID_2017>NL-CM:4.15.10</ConceptID_2017>
+    <ConceptName_2017>DefecatieKleur</ConceptName_2017>
+    <Codelists_2017>DefecatieKleurCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.15.10</ConceptID_2020>
+    <ConceptName_2020>DefecatieKleur</ConceptName_2020>
+    <Codelists_2020>DefecatieKleurCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

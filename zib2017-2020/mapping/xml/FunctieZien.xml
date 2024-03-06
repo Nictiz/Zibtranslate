@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>FunctieZien</ZibName>
+    <ConceptID_2017>NL-CM:4.16.1</ConceptID_2017>
+    <ConceptName_2017>FunctieZien</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.16.1</ConceptID_2020>
+    <ConceptName_2020>FunctieZien</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>FunctieZien</ZibName>
+    <ConceptID_2017>NL-CM:4.16.2</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.16.2</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>FunctieZien</ZibName>
+    <ConceptID_2017>NL-CM:4.16.3</ConceptID_2017>
+    <ConceptName_2017>VisueleFunctie</ConceptName_2017>
+    <Codelists_2017>VisueleFunctieCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.16.3</ConceptID_2020>
+    <ConceptName_2020>VisueleFunctie</ConceptName_2020>
+    <Codelists_2020>VisueleFunctieCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>FunctieZien</ZibName>
+    <ConceptID_2017>NL-CM:10.1.3</ConceptID_2017>
+    <ConceptName_2017>ProductType</ConceptName_2017>
+    <Codelists_2017>ZienHulpmiddelTypeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.3</ConceptID_2020>
+    <ConceptName_2020>ProductType</ConceptName_2020>
+    <Codelists_2020>ZienHulpmiddelTypeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>FunctieZien</ZibName>
+    <ConceptID_2017>NL-CM:4.16.4</ConceptID_2017>
+    <ConceptName_2017>ZienHulpmiddel::MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.16.4</ConceptID_2020>
+    <ConceptName_2020>ZienHulpmiddel::MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

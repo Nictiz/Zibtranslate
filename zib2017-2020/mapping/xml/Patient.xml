@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>DCM::EvidenceBase</ConceptID_2017>
+    <ConceptName_2017>Evidence Base</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::EvidenceBase</ConceptID_2020>
+    <ConceptName_2020>Evidence Base</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-647</Bits>
+    <Omschrijving>Concept definitie en evidence base aangepast </Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>DCM::Concept</ConceptID_2017>
+    <ConceptName_2017>Concept</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::Concept</ConceptID_2020>
+    <ConceptName_2020>Concept</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-647</Bits>
+    <Omschrijving>Concept definitie en evidence base aangepast</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.1</ConceptID_2017>
+    <ConceptName_2017>Patient</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:0.1.1</ConceptID_2020>
+    <ConceptName_2020>Patient</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1189</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [116154003 Patiënt]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [116154003 Patiënt] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.4</ConceptID_2017>
+    <ConceptName_2017>AddressInformation</ConceptName_2017>
+    <Codelists_2017>nl.zorg.part.Adresgegevens</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.4</ConceptID_2020>
+    <ConceptName_2020>AddressInformation</ConceptName_2020>
+    <Codelists_2020>nl.zorg.part.Adresgegevens</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.5</ConceptID_2017>
+    <ConceptName_2017>ContactInformation</ConceptName_2017>
+    <Codelists_2017>nl.zorg.part.Contactgegevens</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.5</ConceptID_2020>
+    <ConceptName_2020>ContactInformation</ConceptName_2020>
+    <Codelists_2020>nl.zorg.part.Contactgegevens</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.6</ConceptID_2017>
+    <ConceptName_2017>NameInformation</ConceptName_2017>
+    <Codelists_2017>nl.zorg.part.Naamgegevens</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:0.1.6</ConceptID_2020>
+    <ConceptName_2020>NameInformation</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-961</Bits>
+    <Omschrijving>Kardinaliteit van het element Naamgegevens gewijzigd van 1 naar 0..1</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE </TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.7</ConceptID_2017>
+    <ConceptName_2017>PatientIdentificationNumber</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.7</ConceptID_2020>
+    <ConceptName_2020>PatientIdentificationNumber</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.9</ConceptID_2017>
+    <ConceptName_2017>Gender</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:0.1.9</ConceptID_2020>
+    <ConceptName_2020>Gender</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1029</Bits>
+    <Omschrijving>Kardinaliteit Geslacht gewijzigd van 1 naar 0..1</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.10</ConceptID_2017>
+    <ConceptName_2017>DateOfBirth</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:0.1.10</ConceptID_2020>
+    <ConceptName_2020>DateOfBirth</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1029</Bits>
+    <Omschrijving>Kardinaliteit Geboortedatum gewijzigd van 1 naar 0..1</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.31</ConceptID_2017>
+    <ConceptName_2017>MultipleBirthIndicator</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.31</ConceptID_2020>
+    <ConceptName_2020>MultipleBirthIndicator</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.32</ConceptID_2017>
+    <ConceptName_2017>OverlijdensIndicator</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.32</ConceptID_2020>
+    <ConceptName_2020>OverlijdensIndicator</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Patient</ZibName>
+    <ConceptID_2017>NL-CM:0.1.33</ConceptID_2017>
+    <ConceptName_2017>DateOfDeath</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:0.1.33</ConceptID_2020>
+    <ConceptName_2020>DateOfDeath</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

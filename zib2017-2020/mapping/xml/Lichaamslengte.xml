@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Lichaamslengte</ZibName>
+    <ConceptID_2017>NL-CM:12.2.1</ConceptID_2017>
+    <ConceptName_2017>Lichaamslengte</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.2.1</ConceptID_2020>
+    <ConceptName_2020>Lichaamslengte</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1185</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [248327008 Algemene bevinding betreffende lichaamslengte]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [248327008 Algemene bevinding betreffende lichaamslengte] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Lichaamslengte</ZibName>
+    <ConceptID_2017>NL-CM:12.2.2</ConceptID_2017>
+    <ConceptName_2017>LengteWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.2.2</ConceptID_2020>
+    <ConceptName_2020>LengteWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamslengte</ZibName>
+    <ConceptID_2017>NL-CM:12.2.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.2.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamslengte</ZibName>
+    <ConceptID_2017>NL-CM:12.2.4</ConceptID_2017>
+    <ConceptName_2017>LengteDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.2.4</ConceptID_2020>
+    <ConceptName_2020>LengteDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamslengte</ZibName>
+    <ConceptID_2017>NL-CM:12.2.5</ConceptID_2017>
+    <ConceptName_2017>Positie</ConceptName_2017>
+    <Codelists_2017>PositieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.2.5</ConceptID_2020>
+    <ConceptName_2020>Positie</ConceptName_2020>
+    <Codelists_2020>PositieCodelijst</Codelists_2020>
+    <Bits>ZIB-1185</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [425260001 Lichaamshouding voor bepalen van lengte]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [425260001 Lichaamshouding voor bepalen van lengte] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+</data>

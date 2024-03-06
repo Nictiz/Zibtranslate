@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>DCM::Issues</ConceptID_2017>
+    <ConceptName_2017>Issues</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::Issues</ConceptID_2020>
+    <ConceptName_2020>Issues</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673</Bits>
+    <Omschrijving>tekstwijziging issue verwijderd</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>DCM::Issues</ConceptID_2017>
+    <ConceptName_2017>Issues</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::Issues</ConceptID_2020>
+    <ConceptName_2020>Issues</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1135</Bits>
+    <Omschrijving>Tekst verwijderd</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.1</ConceptID_2017>
+    <ConceptName_2017>MedischHulpmiddel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.1</ConceptID_2020>
+    <ConceptName_2020>MedischHulpmiddel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.2</ConceptID_2017>
+    <ConceptName_2017>Product</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:10.1.2</ConceptID_2020>
+    <ConceptName_2020>Product</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673</Bits>
+    <Omschrijving>Tekstwijziging 'medical aid' naar 'medical device'.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.3</ConceptID_2017>
+    <ConceptName_2017>ProductType</ConceptName_2017>
+    <Codelists_2017>ProductTypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:10.1.3</ConceptID_2020>
+    <ConceptName_2020>ProductType</ConceptName_2020>
+    <Codelists_2020>ProductTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-1536 ; ZIB-1586</Bits>
+    <Omschrijving>Waarden voor 'geen' toevoegen aan ProductTypeCodelist, OTH toegestaan bij ‘Required Binding'</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.4</ConceptID_2017>
+    <ConceptName_2017>ProductID</ConceptName_2017>
+    <Codelists_2017>GTINProductIDCodelijst
+HIBCProductIDCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.4</ConceptID_2020>
+    <ConceptName_2020>ProductID</ConceptName_2020>
+    <Codelists_2020>GTINProductIDCodelijst
+HIBCProductIDCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.6</ConceptID_2017>
+    <ConceptName_2017>AnatomischeLocatie</ConceptName_2017>
+    <Codelists_2017>HulpmiddelAnatomischeLocatieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:10.1.15</ConceptID_2020>
+    <ConceptName_2020>AnatomischeLocatie::AnatomischeLocatie</ConceptName_2020>
+    <Codelists_2020>LocatieCodelijst</Codelists_2020>
+    <Bits>ZIB-1116</Bits>
+    <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
+    <TypeChange>CHANGE TO SUB HCIM</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>codelist [HulpmiddelAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst ]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[HulpmiddelAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.7</ConceptID_2017>
+    <ConceptName_2017>Indicatie::Probleem</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.7</ConceptID_2020>
+    <ConceptName_2020>Indicatie::Probleem</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.8</ConceptID_2017>
+    <ConceptName_2017>Locatie::Zorgaanbieder</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:10.1.8</ConceptID_2020>
+    <ConceptName_2020>Locatie::Zorgaanbieder</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673</Bits>
+    <Omschrijving>Tekstwijziging 'medical aid' naar 'medical device'.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.9</ConceptID_2017>
+    <ConceptName_2017>Zorgverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:10.1.9</ConceptID_2020>
+    <ConceptName_2020>Zorgverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673 ; ZIB-1120</Bits>
+    <Omschrijving>Tekstwijziging aan defintie concept</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.10</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:10.1.10</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673</Bits>
+    <Omschrijving>Tekstwijziging 'medical aid' naar 'medical device'.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.11</ConceptID_2017>
+    <ConceptName_2017>BeginDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:10.1.11</ConceptID_2020>
+    <ConceptName_2020>BeginDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-673</Bits>
+    <Omschrijving>Tekstwijziging 'medical aid' naar 'medical device'.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.12</ConceptID_2017>
+    <ConceptName_2017>Lateraliteit</ConceptName_2017>
+    <Codelists_2017>MedischHulpmiddelLateraliteitCodelijst </Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:10.1.15</ConceptID_2020>
+    <ConceptName_2020>Lateraliteit::AnatomischeLocatie</ConceptName_2020>
+    <Codelists_2020>LateraliteitCodelijst</Codelists_2020>
+    <Bits>ZIB-1116</Bits>
+    <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
+    <TypeChange>CHANGE TO SUB HCIM</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>codelist [MedischHulpmiddelLateraliteitCodelijst ]-&gt;[LateraliteitCodelijst ]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[MedischHulpmiddelLateraliteitCodelijst ]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.13</ConceptID_2017>
+    <ConceptName_2017>ProductOmschrijving</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:10.1.13</ConceptID_2020>
+    <ConceptName_2020>ProductOmschrijving</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedischHulpmiddel</ZibName>
+    <ConceptID_2017>NL-CM:10.1.14</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:10.1.14</ConceptID_2020>
+    <ConceptName_2020>EindDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-680</Bits>
+    <Omschrijving>Toevoegen EindDatum bij zibs die ook BeginDatum kennen</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

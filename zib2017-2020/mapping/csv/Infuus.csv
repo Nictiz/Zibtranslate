@@ -1,0 +1,13 @@
+ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
+Infuus,NL-CM:10.2.1,Infuus,,groen: geen wijzigingen,NL-CM:10.2.1,Infuus,,,,,,,,
+Infuus,NL-CM:10.2.2,InfuusVloeistof::MedicatieToediening2,,groen: geen wijzigingen,NL-CM:10.2.2,InfuusVloeistof::MedicatieToediening2,,,,,,,,
+Infuus,NL-CM:10.1.3,ProductType,InfuuskatheterTypeCodelijst,oranje: minor change,NL-CM:10.1.3,ProductType,InfuuskatheterTypeCodelijst,ZIB-845,In de codelijst had een concept (Subcutaan infuus) nog de code tbd.Hiervoor is nu de code 465504007  aan toegekend.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Infuus,NL-CM:10.2.3,Infuuskatheter::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.2.3,Infuuskatheter::MedischHulpmiddel,,,,,,,,
+Infuus,NL-CM:10.2.6,Randapparaat::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.2.6,Randapparaat::MedischHulpmiddel,,,,,,,,
+Infuus,NL-CM:10.2.7,ToedieningsSysteem,,groen: geen wijzigingen,NL-CM:10.2.7,ToedieningsSysteem,,,,,,,,
+Infuus,NL-CM:10.2.8,Toelichting,,groen: geen wijzigingen,NL-CM:10.2.8,Toelichting,,,,,,,,
+Infuus,NL-CM:10.2.9,LijnStatus,LijnStatusCodelijst,groen: geen wijzigingen,NL-CM:10.2.9,LijnStatus,LijnStatusCodelijst,,,,,,,
+Infuus,NL-CM:10.2.10,LumenOfLijn,,groen: geen wijzigingen,NL-CM:10.2.10,LumenOfLijn,,,,,,,,
+Infuus,NL-CM:10.2.11,LumenLocatie,LumenLocatieCodelijst,groen: geen wijzigingen,NL-CM:10.2.11,LumenLocatie,LumenLocatieCodelijst,,,,,,,
+Infuus,NL-CM:10.2.12,ToedieningsSysteemToelichting,,groen: geen wijzigingen,NL-CM:10.2.12,ToedieningsSysteemToelichting,,,,,,,,
+Infuus,NL-CM:10.2.13,SlotVloeistof::MedicatieToediening2,,groen: geen wijzigingen,NL-CM:10.2.13,SlotVloeistof::MedicatieToediening2,,,,,,,,

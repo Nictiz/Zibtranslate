@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.1</ConceptID_2017>
+    <ConceptName_2017>Zorgaanbieder</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:17.2.1</ConceptID_2020>
+    <ConceptName_2020>Zorgaanbieder</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1189</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode  [blank] -&gt; [257622000 Zorginstelling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [257622000 Zorginstelling] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.2</ConceptID_2017>
+    <ConceptName_2017>ZorgaanbiederIdentificatienummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:17.2.2</ConceptID_2020>
+    <ConceptName_2020>ZorgaanbiederIdentificatienummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.3</ConceptID_2017>
+    <ConceptName_2017>OrganisatieNaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:17.2.3</ConceptID_2020>
+    <ConceptName_2020>OrganisatieNaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.4</ConceptID_2017>
+    <ConceptName_2017>OrganisatieType</ConceptName_2017>
+    <Codelists_2017>OrganisatieTypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:17.2.4</ConceptID_2020>
+    <ConceptName_2020>OrganisatieType</ConceptName_2020>
+    <Codelists_2020>OrganisatieTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-678 ; ZIB-1171</Bits>
+    <Omschrijving>Toevoegingen aan codeijst</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.5</ConceptID_2017>
+    <ConceptName_2017>Adresgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:17.2.5</ConceptID_2020>
+    <ConceptName_2020>Adresgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-960</Bits>
+    <Omschrijving>Cardinaliteit adresgegevens in de zib's Zorgverlener, Zorgaanbieder en Contactpersoon verruimt van 0..1 naar 0..*</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>ZERO-TO-ONE TO ZERO-TO-MANY</TRANSLATIE_spec_heen>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-MANY TO ZERO-TO-ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.6</ConceptID_2017>
+    <ConceptName_2017>Contactgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:17.2.6</ConceptID_2020>
+    <ConceptName_2020>Contactgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.7</ConceptID_2017>
+    <ConceptName_2017>AfdelingSpecialisme</ConceptName_2017>
+    <Codelists_2017>AfdelingSpecialismeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:17.2.7</ConceptID_2020>
+    <ConceptName_2020>AfdelingSpecialisme</ConceptName_2020>
+    <Codelists_2020>AfdelingSpecialismeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.8</ConceptID_2017>
+    <ConceptName_2017>OrganisatieLocatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:17.2.8</ConceptID_2020>
+    <ConceptName_2020>LocatieNaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-894</Bits>
+    <Omschrijving>OrganisatieLocatie is hernoemd naar LocatieNaam. OrganisatieLocatie is in 2020 een NIEUWE container (NL-CM:17.2.9)</Omschrijving>
+    <TypeChange>CONCEPT NAME CHANGED (NL)</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.9</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:17.2.9</ConceptID_2020>
+    <ConceptName_2020>OrganisatieLocatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-894</Bits>
+    <Omschrijving>nieuwe container voor elementen LocatieNaam en LocatieNummer</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Zorgaanbieder</ZibName>
+    <ConceptID_2017>NL-CM:17.2.10</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:17.2.10</ConceptID_2020>
+    <ConceptName_2020>LocatieNummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-894</Bits>
+    <Omschrijving>Nieuw element LocatieNummer</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

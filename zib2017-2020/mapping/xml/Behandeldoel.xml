@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Behandeldoel</ZibName>
+    <ConceptID_2017>NL-CM:13.5.1</ConceptID_2017>
+    <ConceptName_2017>Behandeldoel</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:13.5.1</ConceptID_2020>
+    <ConceptName_2020>Behandeldoel</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Behandeldoel</ZibName>
+    <ConceptID_2017>NL-CM:13.5.2</ConceptID_2017>
+    <ConceptName_2017>Streefwaarde::AlgemeneMeting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:13.5.2</ConceptID_2020>
+    <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1174</Bits>
+    <Omschrijving>referentie naar zib AlgemeneMeting verwijderd. </Omschrijving>
+    <TypeChange>CONCEPT REMOVED</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen>IF [blank] source-&gt;target ELSE [stuur de data van de algemeneMeting instance als vrije tekst naar een 2020 ontvanger]</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Behandeldoel</ZibName>
+    <ConceptID_2017>NL-CM:13.5.3</ConceptID_2017>
+    <ConceptName_2017>GewensteGezondheidstoestand::FunctioneleOfMentaleStatus</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:13.5.3</ConceptID_2020>
+    <ConceptName_2020>GewensteGezondheidstoestand::FunctioneleOfMentaleStatus</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Behandeldoel</ZibName>
+    <ConceptID_2017>NL-CM:13.5.4</ConceptID_2017>
+    <ConceptName_2017>Probleem</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:13.5.4</ConceptID_2020>
+    <ConceptName_2020>Probleem</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Behandeldoel</ZibName>
+    <ConceptID_2017>NL-CM:13.5.5</ConceptID_2017>
+    <ConceptName_2017>GewenstZorgresultaat</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.5.5</ConceptID_2020>
+    <ConceptName_2020>GewenstZorgresultaat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1174</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] -&gt; [423100009 Results section]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [423100009 Results section] -&gt; [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)]</TRANSLATIE_spec_terug>
+  </row>
+</data>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.1</ConceptID_2017>
+    <ConceptName_2017>GezinssituatieKind</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.16.1</ConceptID_2020>
+    <ConceptName_2020>GezinssituatieKind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [55801000146105 Finding of family details and household composition of child]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [55801000146105 Finding of family details and household composition of child] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.2</ConceptID_2017>
+    <ConceptName_2017>GezinssamenstellingKind</ConceptName_2017>
+    <Codelists_2017>GezinssamenstellingKindCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.16.2</ConceptID_2020>
+    <ConceptName_2020>GezinssamenstellingKind</ConceptName_2020>
+    <Codelists_2020>GezinssamenstellingKindCodelijst</Codelists_2020>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>Codelijst aangepast</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.3</ConceptID_2017>
+    <ConceptName_2017>OuderVerzorger::ContactPersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.3</ConceptID_2020>
+    <ConceptName_2020>OuderVerzorger::ContactPersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.4</ConceptID_2017>
+    <ConceptName_2017>Kind</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.4</ConceptID_2020>
+    <ConceptName_2020>Kind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.5</ConceptID_2017>
+    <ConceptName_2017>Kind::Contactpersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.5</ConceptID_2020>
+    <ConceptName_2020>Kind::Contactpersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.6</ConceptID_2017>
+    <ConceptName_2017>GeboortedatumKind</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.6</ConceptID_2020>
+    <ConceptName_2020>GeboortedatumKind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.7</ConceptID_2017>
+    <ConceptName_2017>AantalBroersEnZussen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.16.7</ConceptID_2020>
+    <ConceptName_2020>AantalBroersEnZussen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [224095004 Number of siblings]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [224095004 Number of siblings] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.8</ConceptID_2017>
+    <ConceptName_2017>BroerOfZus</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.8</ConceptID_2020>
+    <ConceptName_2020>BroerOfZus</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.9</ConceptID_2017>
+    <ConceptName_2017>BroerOfZus::Contactpersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.9</ConceptID_2020>
+    <ConceptName_2020>BroerOfZus::Contactpersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.10</ConceptID_2017>
+    <ConceptName_2017>GeboortedatumZusBroer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.10</ConceptID_2020>
+    <ConceptName_2020>GeboortedatumZusBroer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GezinssituatieKind</ZibName>
+    <ConceptID_2017>NL-CM:7.16.11</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.16.11</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

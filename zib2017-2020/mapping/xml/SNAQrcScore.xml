@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.1</ConceptID_2017>
+    <ConceptName_2017>SNAQrcScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.1</ConceptID_2020>
+    <ConceptName_2020>SNAQrcScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108311000146106 SNAQRC]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [108311000146106 SNAQRC] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.2</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.2</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108901000146105 Short Nutritional Questionnaire for residential care total score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [108901000146105 Short Nutritional Questionnaire for residential care total score] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.3</ConceptID_2017>
+    <ConceptName_2017>GewichtsverliesScore</ConceptName_2017>
+    <Codelists_2017>SNAQrcGewichtsverliesScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.3</ConceptID_2020>
+    <ConceptName_2020>GewichtsverliesScore</ConceptName_2020>
+    <Codelists_2020>SNAQrcGewichtsverliesScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4029003 SNAQrcScore GewichtsverliesScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4029003 SNAQrcScore GewichtsverliesScore] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.4</ConceptID_2017>
+    <ConceptName_2017>EetlustScore</ConceptName_2017>
+    <Codelists_2017>SNAQrcEetlustScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.4</ConceptID_2020>
+    <ConceptName_2020>EetlustScore</ConceptName_2020>
+    <Codelists_2020>SNAQrcEetlustScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4029004 SNAQrcScore EetlustScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4029004 SNAQrcScore EetlustScore] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.5</ConceptID_2017>
+    <ConceptName_2017>BMIScore</ConceptName_2017>
+    <Codelists_2017>SNAQrcBMIScoreCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.5</ConceptID_2020>
+    <ConceptName_2020>BMIScore</ConceptName_2020>
+    <Codelists_2020>SNAQrcBMIScoreCodelijst</Codelists_2020>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4029005 SNAQrcScore BMIScore]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4029005 SNAQrcScore BMIScore] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.6</ConceptID_2017>
+    <ConceptName_2017>SNAQrcScoreDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.29.6</ConceptID_2020>
+    <ConceptName_2020>SNAQrcScoreDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.7</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:4.29.7</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>SNAQrcScore</ZibName>
+    <ConceptID_2017>NL-CM:4.29.8</ConceptID_2017>
+    <ConceptName_2017>HulpBijEten</ConceptName_2017>
+    <Codelists_2017>SNAQrcHulpBijEtenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:4.29.8</ConceptID_2020>
+    <ConceptName_2020>HulpBijEten</ConceptName_2020>
+    <Codelists_2020>SNAQrcHulpBijEtenCodelijst</Codelists_2020>
+    <Bits>ZIB-930 </Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4029008 SNAQrcScore HulpBijEten]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [4029008 SNAQrcScore HulpBijEten] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+</data>

@@ -1,0 +1,9 @@
+ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
+Darmfunctie,NL-CM:4.15.1,Darmfunctie,,oranje: minor change,NL-CM:4.15.1,Darmfunctie,,ZIB-732,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [11198001 defecation] -> [111989001 Defecation],Medium,SCT DefinitionCode  [111989001 Defecation]  -> [11198001 defecation]
+Darmfunctie,NL-CM:4.15.2,FecesContinentie,FecesContinentieCodelijst,groen: geen wijzigingen,NL-CM:4.15.2,FecesContinentie,FecesContinentieCodelijst,,,,,,,
+Darmfunctie,NL-CM:4.15.3,Stoma,,groen: geen wijzigingen,NL-CM:4.15.3,Stoma,,,,,,,,
+Darmfunctie,NL-CM:4.15.4,Frequentie,,groen: geen wijzigingen,NL-CM:4.15.4,Frequentie,,,,,,,,
+Darmfunctie,NL-CM:4.15.6,Incontinentiemateriaal::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.15.6,Incontinentiemateriaal::MedischHulpmiddel,,,,,,,,
+Darmfunctie,NL-CM:4.15.7,Toelichting,,groen: geen wijzigingen,NL-CM:4.15.7,Toelichting,,,,,,,,
+Darmfunctie,NL-CM:4.15.9,DefecatieConsistentie,DefecatieConsistentieCodelijst,groen: geen wijzigingen,NL-CM:4.15.9,DefecatieConsistentie,DefecatieConsistentieCodelijst,,,,,,,
+Darmfunctie,NL-CM:4.15.10,DefecatieKleur,DefecatieKleurCodelijst,groen: geen wijzigingen,NL-CM:4.15.10,DefecatieKleur,DefecatieKleurCodelijst,,,,,,,

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Lichaamstemperatuur</ZibName>
+    <ConceptID_2017>NL-CM:12.6.1</ConceptID_2017>
+    <ConceptName_2017>Lichaamstemperatuur</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.6.1</ConceptID_2020>
+    <ConceptName_2020>Lichaamstemperatuur</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1186</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [56342008 Temperatuur meten]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [56342008 Temperatuur meten] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Lichaamstemperatuur</ZibName>
+    <ConceptID_2017>NL-CM:12.6.2</ConceptID_2017>
+    <ConceptName_2017>TemperatuurWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.6.2</ConceptID_2020>
+    <ConceptName_2020>TemperatuurWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamstemperatuur</ZibName>
+    <ConceptID_2017>NL-CM:12.6.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.6.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamstemperatuur</ZibName>
+    <ConceptID_2017>NL-CM:12.6.4</ConceptID_2017>
+    <ConceptName_2017>TemperatuurDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.6.4</ConceptID_2020>
+    <ConceptName_2020>TemperatuurDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Lichaamstemperatuur</ZibName>
+    <ConceptID_2017>NL-CM:12.6.5</ConceptID_2017>
+    <ConceptName_2017>TemperatuurType</ConceptName_2017>
+    <Codelists_2017>TemperatuurTypeCodelijst</Codelists_2017>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:12.6.5</ConceptID_2020>
+    <ConceptName_2020>TemperatuurType</ConceptName_2020>
+    <Codelists_2020>TemperatuurTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-690</Bits>
+    <Omschrijving>Tekst defintie concept TemperatuurType gewijzigd.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

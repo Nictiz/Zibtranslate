@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.1</ConceptID_2017>
+    <ConceptName_2017>TekstUitslag</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.1</ConceptID_2020>
+    <ConceptName_2020>TekstUitslag</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1187</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [371525003 Clinical procedure report]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [399651003 Date of report] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.2</ConceptID_2017>
+    <ConceptName_2017>TekstResultaat</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:13.2.2</ConceptID_2020>
+    <ConceptName_2020>TekstResultaat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-955</Bits>
+    <Omschrijving>Aanpassing spelfout in defintie concept TekstResultaat.</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.2</ConceptID_2017>
+    <ConceptName_2017>TekstResultaat</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.2</ConceptID_2020>
+    <ConceptName_2020>TekstResultaat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1187</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [423100009 Results section]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [423100009 Results section] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.3</ConceptID_2017>
+    <ConceptName_2017>TekstUitslagDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:13.2.3</ConceptID_2020>
+    <ConceptName_2020>TekstUitslagDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-955</Bits>
+    <Omschrijving>Tekstwijzging defintie concept</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.3</ConceptID_2017>
+    <ConceptName_2017>TekstUitslagDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.3</ConceptID_2020>
+    <ConceptName_2020>TekstUitslagDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1187</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [399651003 Date of report]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [399651003 Date of report] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.4</ConceptID_2017>
+    <ConceptName_2017>TekstUitslagType</ConceptName_2017>
+    <Codelists_2017>TekstUitslagTypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.4</ConceptID_2020>
+    <ConceptName_2020>TekstUitslagType</ConceptName_2020>
+    <Codelists_2020>TekstUitslagTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-630</Bits>
+    <Omschrijving>SNOMED code PET CT aan TekstuitslagTypeCodelijst toegevoegd</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [55811000146107 Number of children living at home]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.5</ConceptID_2017>
+    <ConceptName_2017>Verrichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.5</ConceptID_2020>
+    <ConceptName_2020>Verrichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1187</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [363714003 Interprets] -&gt; [71388002 Verrichting]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [71388002 Verrichting] -&gt; [363714003 Interprets]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.6</ConceptID_2017>
+    <ConceptName_2017>TekstUitslagStatus</ConceptName_2017>
+    <Codelists_2017>TekstStatusCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:13.2.6</ConceptID_2020>
+    <ConceptName_2020>TekstUitslagStatus</ConceptName_2020>
+    <Codelists_2020>TekstStatusCodelijst</Codelists_2020>
+    <Bits>ZIB-1187</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [308552006 Status van verslag]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [308552006 Status van verslag] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TekstUitslag</ZibName>
+    <ConceptID_2017>NL-CM:13.2.7</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:13.2.7</ConceptID_2020>
+    <ConceptName_2020>VisueelResultaat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-631</Bits>
+    <Omschrijving>Element toegevoegd om naar beeldmateriaal te verwijzen.</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank] source-&gt;target ELSE [maak een relatie tussen het beeld of verwijzging naar beeld beschikbaar duidelijk als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

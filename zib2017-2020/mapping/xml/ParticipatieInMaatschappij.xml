@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>ParticipatieInMaatschappij</ZibName>
+    <ConceptID_2017>NL-CM:18.6.1</ConceptID_2017>
+    <ConceptName_2017>ParticipatieInMaatschappij</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:18.6.1</ConceptID_2020>
+    <ConceptName_2020>ParticipatieInMaatschappij</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ParticipatieInMaatschappij</ZibName>
+    <ConceptID_2017>NL-CM:18.6.2</ConceptID_2017>
+    <ConceptName_2017>SociaalNetwerk</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:18.6.2</ConceptID_2020>
+    <ConceptName_2020>SociaalNetwerk</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ParticipatieInMaatschappij</ZibName>
+    <ConceptID_2017>NL-CM:18.6.3</ConceptID_2017>
+    <ConceptName_2017>Vrijetijdsbesteding</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:18.6.3</ConceptID_2020>
+    <ConceptName_2020>Vrijetijdsbesteding</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ParticipatieInMaatschappij</ZibName>
+    <ConceptID_2017>NL-CM:18.6.4</ConceptID_2017>
+    <ConceptName_2017>Arbeidssituatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:18.6.4</ConceptID_2020>
+    <ConceptName_2020>Arbeidssituatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ParticipatieInMaatschappij</ZibName>
+    <ConceptID_2017>NL-CM:18.6.5</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:18.6.5</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

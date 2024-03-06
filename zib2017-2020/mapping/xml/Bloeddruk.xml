@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.1</ConceptID_2017>
+    <ConceptName_2017>Bloeddruk</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.4.1</ConceptID_2020>
+    <ConceptName_2020>Bloeddruk</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-846</Bits>
+    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode  [blank] -&gt; [46973005 Bloeddrukmeting]
+LOINC DefinitionCode [55284-4 Blood pressure systolic and diastolic]-&gt;[85354-9 Blood pressure panel with all children optional]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode  [46973005 Bloeddrukmeting] -&gt; [blank]
+LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -&gt; [55284-4 Blood pressure systolic and diastolic]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.2</ConceptID_2017>
+    <ConceptName_2017>SystolischeBloeddruk</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.2</ConceptID_2020>
+    <ConceptName_2020>SystolischeBloeddruk</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.3</ConceptID_2017>
+    <ConceptName_2017>DiastolischeBloeddruk</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.3</ConceptID_2020>
+    <ConceptName_2020>DiastolischeBloeddruk</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug>SOURCE=TARGET</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.4</ConceptID_2017>
+    <ConceptName_2017>GemiddeldeBloeddruk</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.4</ConceptID_2020>
+    <ConceptName_2020>GemiddeldeBloeddruk</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.5</ConceptID_2017>
+    <ConceptName_2017>BloeddrukDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.5</ConceptID_2020>
+    <ConceptName_2020>BloeddrukDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.6</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.6</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.7</ConceptID_2017>
+    <ConceptName_2017>Meetmethode</ConceptName_2017>
+    <Codelists_2017>MeetmethodeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.7</ConceptID_2020>
+    <ConceptName_2020>Meetmethode</ConceptName_2020>
+    <Codelists_2020>MeetmethodeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.8</ConceptID_2017>
+    <ConceptName_2017>DiastolischEindpunt</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.8</ConceptID_2020>
+    <ConceptName_2020>DiastolischEindpunt</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.9</ConceptID_2017>
+    <ConceptName_2017>ManchetType</ConceptName_2017>
+    <Codelists_2017>ManchetTypeCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.9</ConceptID_2020>
+    <ConceptName_2020>ManchetType</ConceptName_2020>
+    <Codelists_2020>ManchetTypeCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.10</ConceptID_2017>
+    <ConceptName_2017>MeetLocatie</ConceptName_2017>
+    <Codelists_2017>MeetLocatieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.4.10</ConceptID_2020>
+    <ConceptName_2020>MeetLocatie</ConceptName_2020>
+    <Codelists_2020>MeetLocatieCodelijst</Codelists_2020>
+    <Bits>ZIB-962</Bits>
+    <Omschrijving>2 extra items toegevoegd aan MeetmethodeCodelijst.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Bloeddruk</ZibName>
+    <ConceptID_2017>NL-CM:12.4.11</ConceptID_2017>
+    <ConceptName_2017>Houding</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.4.11</ConceptID_2020>
+    <ConceptName_2020>Houding</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

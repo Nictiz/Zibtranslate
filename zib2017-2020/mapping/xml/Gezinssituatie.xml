@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.1</ConceptID_2017>
+    <ConceptName_2017>Gezinssituatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.13.1</ConceptID_2020>
+    <ConceptName_2020>Gezinssituatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [365470003 Bevinding betreffende gegevens over gezin en gezinssamenstelling]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [224130005 Household composition] -&gt; [224118004 Number of offspring]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.2</ConceptID_2017>
+    <ConceptName_2017>AantalKinderen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.2</ConceptID_2020>
+    <ConceptName_2020>AantalKinderen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.3</ConceptID_2017>
+    <ConceptName_2017>Kind</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.3</ConceptID_2020>
+    <ConceptName_2020>Kind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.4</ConceptID_2017>
+    <ConceptName_2017>Geboortedatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.4</ConceptID_2020>
+    <ConceptName_2020>Geboortedatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.5</ConceptID_2017>
+    <ConceptName_2017>Inwonend</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.13.5</ConceptID_2020>
+    <ConceptName_2020>Inwonend</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [224525003 Number in household] -&gt; [107541000146102 Child lives at home]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [107541000146102 Child lives at home] -&gt; [224525003 Number in household]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.6</ConceptID_2017>
+    <ConceptName_2017>ToelichtingGezinssituatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.6</ConceptID_2020>
+    <ConceptName_2020>ToelichtingGezinssituatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.7</ConceptID_2017>
+    <ConceptName_2017>BurgerlijkeStaat</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.7</ConceptID_2020>
+    <ConceptName_2020>BurgerlijkeStaat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.8</ConceptID_2017>
+    <ConceptName_2017>Gezinssamenstelling</ConceptName_2017>
+    <Codelists_2017>GezinssamenstellingCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.13.8</ConceptID_2020>
+    <ConceptName_2020>Gezinssamenstelling</ConceptName_2020>
+    <Codelists_2020>GezinssamenstellingCodelijst</Codelists_2020>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [224118004 Number of offspring] -&gt; [224130005 Household composition]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [425401001 Pain intensity rating scale] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.9</ConceptID_2017>
+    <ConceptName_2017>AantalKinderenInwonend</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.13.9</ConceptID_2020>
+    <ConceptName_2020>AantalKinderenInwonend</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-697</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [55811000146107 Number of children living at home]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [371525003 Clinical procedure report] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.10</ConceptID_2017>
+    <ConceptName_2017>Zorgtaak</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.13.10</ConceptID_2020>
+    <ConceptName_2020>Zorgtaak</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Gezinssituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.13.11</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.13.11</ConceptID_2020>
+    <ConceptName_2020>ToelichtingKind</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-767</Bits>
+    <Omschrijving>Toelichtingsveld bij container 'Kind' aan zib Gezinssituatie toegevoegd. </Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

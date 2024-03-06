@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.1</ConceptID_2017>
+    <ConceptName_2017>ChecklistPijnGedrag</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.1</ConceptID_2020>
+    <ConceptName_2020>ChecklistPijnGedrag</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108331000146104 Pain Behaviour Checklist]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [108331000146104 Pain Behaviour Checklist] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.2</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.2</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [48981000146100 Pain Behaviour Checklist total score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [48981000146100 Pain Behaviour Checklist total score] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.3</ConceptID_2017>
+    <ConceptName_2017>Gezicht</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.3</ConceptID_2020>
+    <ConceptName_2020>Gezicht</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017003 ChecklistPijnGedrag Gezicht]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017003 ChecklistPijnGedrag Gezicht] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.4</ConceptID_2017>
+    <ConceptName_2017>Mond</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.4</ConceptID_2020>
+    <ConceptName_2020>Mond</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017004 ChecklistPijnGedrag Mond]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017004 ChecklistPijnGedrag Mond] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.5</ConceptID_2017>
+    <ConceptName_2017>Grimas</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.5</ConceptID_2020>
+    <ConceptName_2020>Grimas</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017005 ChecklistPijnGedrag Grimas]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017005 ChecklistPijnGedrag Grimas] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.6</ConceptID_2017>
+    <ConceptName_2017>VerdrietigeBlik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.6</ConceptID_2020>
+    <ConceptName_2020>VerdrietigeBlik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017006 ChecklistPijnGedrag VerdrietigeBlik]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017006 ChecklistPijnGedrag VerdrietigeBlik] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.7</ConceptID_2017>
+    <ConceptName_2017>Ogen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.7</ConceptID_2020>
+    <ConceptName_2020>Ogen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017007 ChecklistPijnGedrag Ogen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017007 ChecklistPijnGedrag Ogen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.8</ConceptID_2017>
+    <ConceptName_2017>Paniek</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.8</ConceptID_2020>
+    <ConceptName_2020>Paniek</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017008 ChecklistPijnGedrag Paniek]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017008 ChecklistPijnGedrag Paniek] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.9</ConceptID_2017>
+    <ConceptName_2017>Kreunen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.9</ConceptID_2020>
+    <ConceptName_2020>Kreunen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017009 ChecklistPijnGedrag Kreunen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017009 ChecklistPijnGedrag Kreunen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.10</ConceptID_2017>
+    <ConceptName_2017>Huilen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.10</ConceptID_2020>
+    <ConceptName_2020>Huilen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017010 ChecklistPijnGedrag Huilen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017010 ChecklistPijnGedrag Huilen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.11</ConceptID_2017>
+    <ConceptName_2017>Onrustgeluiden</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.11</ConceptID_2020>
+    <ConceptName_2020>Onrustgeluiden</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017011 ChecklistPijnGedrag Onrustgeluiden]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017011 ChecklistPijnGedrag Onrustgeluiden] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.12</ConceptID_2017>
+    <ConceptName_2017>Tranen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.17.12</ConceptID_2020>
+    <ConceptName_2020>Tranen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>
+ZIB-923</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017012 ChecklistPijnGedrag Tranen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12017012 ChecklistPijnGedrag Tranen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.13</ConceptID_2017>
+    <ConceptName_2017>ScoreDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.17.13</ConceptID_2020>
+    <ConceptName_2020>ScoreDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ChecklistPijngedrag</ZibName>
+    <ConceptID_2017>NL-CM:12.17.14</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.17.14</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

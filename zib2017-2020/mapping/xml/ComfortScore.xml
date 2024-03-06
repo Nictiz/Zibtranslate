@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.1</ConceptID_2017>
+    <ConceptName_2017>ComfortScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.1</ConceptID_2020>
+    <ConceptName_2020>ComfortScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;108301000146109 COMFORT scale]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [108301000146109 COMFORT scale] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.2</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.2</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;48961000146108 COMFORT-score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [48961000146108 COMFORT-score] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.3</ConceptID_2017>
+    <ConceptName_2017>Alertheid</ConceptName_2017>
+    <Codelists_2017>AlertheidCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.3</ConceptID_2020>
+    <ConceptName_2020>Alertheid</ConceptName_2020>
+    <Codelists_2020>AlertheidCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012003 ComfortScore Alertheid]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012003 ComfortScore Alertheid] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.4</ConceptID_2017>
+    <ConceptName_2017>Kalmte_Agitatie</ConceptName_2017>
+    <Codelists_2017>Kalmte_AgitatieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.4</ConceptID_2020>
+    <ConceptName_2020>Kalmte_Agitatie</ConceptName_2020>
+    <Codelists_2020>Kalmte_AgitatieCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012004 ComfortScore Kalmte_Agitatie]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012004 ComfortScore Kalmte_Agitatie] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.5</ConceptID_2017>
+    <ConceptName_2017>Ademhalingsreactie</ConceptName_2017>
+    <Codelists_2017>AdemhalingsreactieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.5</ConceptID_2020>
+    <ConceptName_2020>Ademhalingsreactie</ConceptName_2020>
+    <Codelists_2020>AdemhalingsreactieCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012005 ComfortScore Ademhalingsreactie]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012005 ComfortScore Ademhalingsreactie] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.6</ConceptID_2017>
+    <ConceptName_2017>Huilen</ConceptName_2017>
+    <Codelists_2017>HuilenCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.6</ConceptID_2020>
+    <ConceptName_2020>Huilen</ConceptName_2020>
+    <Codelists_2020>HuilenCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012006 ComfortScore Huilen]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012006 ComfortScore Huilen] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.8</ConceptID_2017>
+    <ConceptName_2017>Lichaamsbeweging</ConceptName_2017>
+    <Codelists_2017>LichaamsbewegingCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.8</ConceptID_2020>
+    <ConceptName_2020>Lichaamsbeweging</ConceptName_2020>
+    <Codelists_2020>LichaamsbewegingCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012008 ComfortScore Lichaamsbeweging]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012008 ComfortScore Lichaamsbeweging] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.9</ConceptID_2017>
+    <ConceptName_2017>Gezichtsspanning</ConceptName_2017>
+    <Codelists_2017>GezichtsspanningCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.9</ConceptID_2020>
+    <ConceptName_2020>Gezichtsspanning</ConceptName_2020>
+    <Codelists_2020>GezichtsspanningCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012009 ComfortScore Gezichtsspanning]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012009 ComfortScore Gezichtsspanning] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.10</ConceptID_2017>
+    <ConceptName_2017>Spierspanning</ConceptName_2017>
+    <Codelists_2017>SpierspanningCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.12.10</ConceptID_2020>
+    <ConceptName_2020>Spierspanning</ConceptName_2020>
+    <Codelists_2020>SpierspanningCodelijst</Codelists_2020>
+    <Bits>ZIB-925</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012010 ComfortScore Spierspanning]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [12012010 ComfortScore Spierspanning] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.11</ConceptID_2017>
+    <ConceptName_2017>ScoreDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.12.11</ConceptID_2020>
+    <ConceptName_2020>ScoreDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>ComfortScore</ZibName>
+    <ConceptID_2017>NL-CM:12.12.12</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.12.12</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>DCM::References</ConceptID_2017>
+    <ConceptName_2017>References</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>DCM::References</ConceptID_2020>
+    <ConceptName_2020>References</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1004</Bits>
+    <Omschrijving>Referenties in sectie 'References' bijgewerkt naar juiste url van de NPCF, NVVE en NPV.  </Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.1</ConceptID_2017>
+    <ConceptName_2017>Wilsverklaring</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.1</ConceptID_2020>
+    <ConceptName_2020>Wilsverklaring</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.2</ConceptID_2017>
+    <ConceptName_2017>WilsverklaringType</ConceptName_2017>
+    <Codelists_2017>WilsverklaringTypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.15.2</ConceptID_2020>
+    <ConceptName_2020>WilsverklaringType</ConceptName_2020>
+    <Codelists_2020>WilsverklaringTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-739</Bits>
+    <Omschrijving>Zelfbindingsverklaring is als item toegevoegd aan WilsverklaringTypeCodelijst.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.3</ConceptID_2017>
+    <ConceptName_2017>Vertegenwoordiger::Contactpersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.3</ConceptID_2020>
+    <ConceptName_2020>Vertegenwoordiger::Contactpersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.4</ConceptID_2017>
+    <ConceptName_2017>Aandoening::Probleem</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.4</ConceptID_2020>
+    <ConceptName_2020>Aandoening::Probleem</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.5</ConceptID_2017>
+    <ConceptName_2017>WilsverklaringDocument</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.5</ConceptID_2020>
+    <ConceptName_2020>WilsverklaringDocument</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.6</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.6</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Wilsverklaring</ZibName>
+    <ConceptID_2017>NL-CM:7.15.7</ConceptID_2017>
+    <ConceptName_2017>WilsverklaringDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.15.7</ConceptID_2020>
+    <ConceptName_2020>WilsverklaringDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

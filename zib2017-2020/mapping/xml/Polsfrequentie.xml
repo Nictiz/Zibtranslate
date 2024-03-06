@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Polsfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.7.1</ConceptID_2017>
+    <ConceptName_2017>Polsfrequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.7.1</ConceptID_2020>
+    <ConceptName_2020>Polsfrequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Polsfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.7.2</ConceptID_2017>
+    <ConceptName_2017>PolsfrequentieWaarde</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.7.2</ConceptID_2020>
+    <ConceptName_2020>PolsfrequentieWaarde</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-705</Bits>
+    <Omschrijving>De cardinaliteit van het element Polsfrequentiewaarde  (0..1) en Hartfrequentiewaarde uit zib Hartfrequentie (1) waren niet consistent. Dit is verbeterd, beiden zijn nu 1.</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Polsfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.7.3</ConceptID_2017>
+    <ConceptName_2017>PolsfrequentieDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.7.3</ConceptID_2020>
+    <ConceptName_2020>PolsfrequentieDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Polsfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.7.4</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.7.4</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Polsfrequentie</ZibName>
+    <ConceptID_2017>NL-CM:12.7.5</ConceptID_2017>
+    <ConceptName_2017>PolsRegelmatigheid</ConceptName_2017>
+    <Codelists_2017>PolsRegelmatigheidCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.7.5</ConceptID_2020>
+    <ConceptName_2020>PolsRegelmatigheid</ConceptName_2020>
+    <Codelists_2020>PolsRegelmatigheidCodelijst</Codelists_2020>
+    <Bits>ZIB-689 </Bits>
+    <Omschrijving>LOINC DefintionCodes concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>LOINC DefinitionCode [blank] -&gt; [44969-4 Heart rate rhythm palpation]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>LOINC DefinitionCode [44969-4 Heart rate rhythm palpation] -&gt; [blank] </TRANSLATIE_spec_terug>
+  </row>
+</data>

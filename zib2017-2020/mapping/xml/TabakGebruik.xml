@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.1</ConceptID_2017>
+    <ConceptName_2017>TabakGebruik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.1</ConceptID_2020>
+    <ConceptName_2020>TabakGebruik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.2</ConceptID_2017>
+    <ConceptName_2017>WaarnemingGebruik</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.2</ConceptID_2020>
+    <ConceptName_2020>WaarnemingGebruik</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.3</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.3</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.4</ConceptID_2017>
+    <ConceptName_2017>StartDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.4</ConceptID_2020>
+    <ConceptName_2020>StartDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.5</ConceptID_2017>
+    <ConceptName_2017>StopDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.5</ConceptID_2020>
+    <ConceptName_2020>StopDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.6</ConceptID_2017>
+    <ConceptName_2017>Hoeveelheid</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.6</ConceptID_2020>
+    <ConceptName_2020>Hoeveelheid</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.7</ConceptID_2017>
+    <ConceptName_2017>PackYears</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.7</ConceptID_2020>
+    <ConceptName_2020>PackYears</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.9</ConceptID_2017>
+    <ConceptName_2017>SoortTabakGebruik</ConceptName_2017>
+    <Codelists_2017>SoortTabakGebruikCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.2.9</ConceptID_2020>
+    <ConceptName_2020>SoortTabakGebruik</ConceptName_2020>
+    <Codelists_2020>SoortTabakGebruikCodelijst</Codelists_2020>
+    <Bits>ZIB-770 ; ZIB-716 ; ZIB-811</Bits>
+    <Omschrijving>Kauwtabak (81703003) als Snuiftabak (228494002 ) als E-sigaret (722499006) zijn toegevoegd aan SoortTabakGebruikCodelijst</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>TabakGebruik</ZibName>
+    <ConceptID_2017>NL-CM:7.2.10</ConceptID_2017>
+    <ConceptName_2017>TabakGebruikStatus</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.2.10</ConceptID_2020>
+    <ConceptName_2020>TabakGebruikStatus</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

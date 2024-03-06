@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.1</ConceptID_2017>
+    <ConceptName_2017>Betaler</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.1</ConceptID_2020>
+    <ConceptName_2020>Betaler</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.2</ConceptID_2017>
+    <ConceptName_2017>BetalerPersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:1.1.2</ConceptID_2020>
+    <ConceptName_2020>BetalerPersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1108</Bits>
+    <Omschrijving>Extra uitleg toegevoegd aan container BetalerPersoon om aan te geven dat Persoon ook een rechtspersoon kan zijn, zoals een organisatie of gemeente. </Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.3</ConceptID_2017>
+    <ConceptName_2017>Verzekeraar</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.3</ConceptID_2020>
+    <ConceptName_2020>Verzekeraar</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.4</ConceptID_2017>
+    <ConceptName_2017>Bankgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.4</ConceptID_2020>
+    <ConceptName_2020>Bankgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.5</ConceptID_2017>
+    <ConceptName_2017>BetalerNaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.5</ConceptID_2020>
+    <ConceptName_2020>BetalerNaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.6</ConceptID_2017>
+    <ConceptName_2017>VerzekerdeNummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.6</ConceptID_2020>
+    <ConceptName_2020>VerzekerdeNummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.7</ConceptID_2017>
+    <ConceptName_2017>IdentificatieNummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.7</ConceptID_2020>
+    <ConceptName_2020>IdentificatieNummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.8</ConceptID_2017>
+    <ConceptName_2017>Verzekering</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.8</ConceptID_2020>
+    <ConceptName_2020>Verzekering</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.9</ConceptID_2017>
+    <ConceptName_2017>BankNaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.9</ConceptID_2020>
+    <ConceptName_2020>BankNaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.10</ConceptID_2017>
+    <ConceptName_2017>Bankcode</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.10</ConceptID_2020>
+    <ConceptName_2020>Bankcode</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.11</ConceptID_2017>
+    <ConceptName_2017>Rekeningnummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.11</ConceptID_2020>
+    <ConceptName_2020>Rekeningnummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.12</ConceptID_2017>
+    <ConceptName_2017>Contactgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.12</ConceptID_2020>
+    <ConceptName_2020>Contactgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.13</ConceptID_2017>
+    <ConceptName_2017>BeginDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.13</ConceptID_2020>
+    <ConceptName_2020>BeginDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.14</ConceptID_2017>
+    <ConceptName_2017>EindDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.14</ConceptID_2020>
+    <ConceptName_2020>EindDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.15</ConceptID_2017>
+    <ConceptName_2017>Verzekeringssoort</ConceptName_2017>
+    <Codelists_2017>VerzekeringssoortCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.15</ConceptID_2020>
+    <ConceptName_2020>Verzekeringssoort</ConceptName_2020>
+    <Codelists_2020>VerzekeringssoortCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.16</ConceptID_2017>
+    <ConceptName_2017>OrganisatieNaam</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.16</ConceptID_2020>
+    <ConceptName_2020>OrganisatieNaam</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Betaler</ZibName>
+    <ConceptID_2017>NL-CM:1.1.17</ConceptID_2017>
+    <ConceptName_2017>Adresgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:1.1.17</ConceptID_2020>
+    <ConceptName_2020>Adresgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

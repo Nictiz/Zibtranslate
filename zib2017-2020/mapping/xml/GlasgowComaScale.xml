@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.1</ConceptID_2017>
+    <ConceptName_2017>GlasgowComaScale</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.8.1</ConceptID_2020>
+    <ConceptName_2020>GlasgowComaScale</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.2</ConceptID_2017>
+    <ConceptName_2017>GCS_Eyes</ConceptName_2017>
+    <Codelists_2017>GCS_EyesCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.8.2</ConceptID_2020>
+    <ConceptName_2020>GCS_Eyes</ConceptName_2020>
+    <Codelists_2020>GCS_EyesCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.4</ConceptID_2017>
+    <ConceptName_2017>GCS_Motor</ConceptName_2017>
+    <Codelists_2017>GCS_MotorCodelijst; GCS_MotorCodelijstBaby; GCS_MotorCodelijstKleuter</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.8.4</ConceptID_2020>
+    <ConceptName_2020>GCS_Motor</ConceptName_2020>
+    <Codelists_2020>GCS_MotorCodelijst; GCS_MotorCodelijstBaby; GCS_MotorCodelijstKleuter</Codelists_2020>
+    <Bits>ZIB-1085 ; ZIB-1314</Bits>
+    <Omschrijving>De Verbal en Motor waardenlijsten zijn vervangen door de waardenlijsten zoals vastgelegd in het Word document dat aan dit issue is toegevoegd. </Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.6</ConceptID_2017>
+    <ConceptName_2017>GCS_Verbal</ConceptName_2017>
+    <Codelists_2017>GCS_VerbalCodelijst; GCS_VerbalCodelijstBaby; GCS_VerbalCodelijstKleuter</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.8.6</ConceptID_2020>
+    <ConceptName_2020>GCS_Verbal</ConceptName_2020>
+    <Codelists_2020>GCS_VerbalCodelijst; GCS_VerbalCodelijstBaby; GCS_VerbalCodelijstKleuter</Codelists_2020>
+    <Bits>ZIB-1085 ; ZIB-1314</Bits>
+    <Omschrijving>De Verbal en Motor waardenlijsten zijn vervangen door de waardenlijsten zoals vastgelegd in het Word document dat aan dit issue is toegevoegd. </Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.8</ConceptID_2017>
+    <ConceptName_2017>GlasgowComaScaleDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.8.8</ConceptID_2020>
+    <ConceptName_2020>GlasgowComaScaleDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.9</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.8.9</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.10</ConceptID_2017>
+    <ConceptName_2017>TotaalScore</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:12.8.10</ConceptID_2020>
+    <ConceptName_2020>TotaalScore</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-1050</Bits>
+    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [444323003 Modified Glasgow coma score]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [444323003 Modified Glasgow coma score] -&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>GlasgowComaScale</ZibName>
+    <ConceptID_2017>NL-CM:12.8.11</ConceptID_2017>
+    <ConceptName_2017>ConditiesTijdensMeting</ConceptName_2017>
+    <Codelists_2017>ConditiesTijdensMetingCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:12.8.11</ConceptID_2020>
+    <ConceptName_2020>ConditiesTijdensMeting</ConceptName_2020>
+    <Codelists_2020>ConditiesTijdensMetingCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

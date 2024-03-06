@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.1</ConceptID_2017>
+    <ConceptName_2017>Adresgegevens</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.1</ConceptID_2020>
+    <ConceptName_2020>Adresgegevens</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.2</ConceptID_2017>
+    <ConceptName_2017>Straat</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.2</ConceptID_2020>
+    <ConceptName_2020>Straat</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.3</ConceptID_2017>
+    <ConceptName_2017>Woonplaats</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.3</ConceptID_2020>
+    <ConceptName_2020>Woonplaats</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.4</ConceptID_2017>
+    <ConceptName_2017>Gemeente</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.4</ConceptID_2020>
+    <ConceptName_2020>Gemeente</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.5</ConceptID_2017>
+    <ConceptName_2017>Land</ConceptName_2017>
+    <Codelists_2017>LandGBACodelijst
+LandISOCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.5</ConceptID_2020>
+    <ConceptName_2020>Land</ConceptName_2020>
+    <Codelists_2020>LandGBACodelijst
+LandISOCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.6</ConceptID_2017>
+    <ConceptName_2017>Postcode</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.6</ConceptID_2020>
+    <ConceptName_2020>Postcode</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.7</ConceptID_2017>
+    <ConceptName_2017>AdditioneleInformatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.7</ConceptID_2020>
+    <ConceptName_2020>AdditioneleInformatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.8</ConceptID_2017>
+    <ConceptName_2017>AdresSoort</ConceptName_2017>
+    <Codelists_2017>AdresSoortCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:20.5.8</ConceptID_2020>
+    <ConceptName_2020>AdresSoort</ConceptName_2020>
+    <Codelists_2020>AdresSoortCodelijst</Codelists_2020>
+    <Bits>ZIB-959</Bits>
+    <Omschrijving>kardinatliteit van 1 naar 0..1</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.8</ConceptID_2017>
+    <ConceptName_2017>AdresSoort</ConceptName_2017>
+    <Codelists_2017>AdresSoortCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:20.5.8</ConceptID_2020>
+    <ConceptName_2020>AdresSoort</ConceptName_2020>
+    <Codelists_2020>AdresSoortCodelijst</Codelists_2020>
+    <Bits>ZIB-900</Bits>
+    <Omschrijving>Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. "Tempory address" moet zijn "Temporary address"</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.9</ConceptID_2017>
+    <ConceptName_2017>AanduidingBijNummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.9</ConceptID_2020>
+    <ConceptName_2020>AanduidingBijNummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.10</ConceptID_2017>
+    <ConceptName_2017>Huisnummertoevoeging</ConceptName_2017>
+    <Codelists_2017>AanduidingBijNummerCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.10</ConceptID_2020>
+    <ConceptName_2020>Huisnummertoevoeging</ConceptName_2020>
+    <Codelists_2020>AanduidingBijNummerCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.11</ConceptID_2017>
+    <ConceptName_2017>Huisnummerletter</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.11</ConceptID_2020>
+    <ConceptName_2020>Huisnummerletter</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Adresgegevens</ZibName>
+    <ConceptID_2017>NL-CM:20.5.12</ConceptID_2017>
+    <ConceptName_2017>Huisnummer</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:20.5.12</ConceptID_2020>
+    <ConceptName_2020>Huisnummer</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

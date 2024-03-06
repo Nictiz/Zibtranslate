@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.1</ConceptID_2017>
+    <ConceptName_2017>HulpVanAnderen</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.1</ConceptID_2020>
+    <ConceptName_2020>HulpVanAnderen</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.2</ConceptID_2017>
+    <ConceptName_2017>Frequentie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.2</ConceptID_2020>
+    <ConceptName_2020>Frequentie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.3</ConceptID_2017>
+    <ConceptName_2017>Aard</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.3</ConceptID_2020>
+    <ConceptName_2020>Aard</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.4</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.4</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.5</ConceptID_2017>
+    <ConceptName_2017>Hulpverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>geel: patch wijziging</Change>
+    <ConceptID_2020>NL-CM:3.2.5</ConceptID_2020>
+    <ConceptName_2020>Hulpverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-696</Bits>
+    <Omschrijving>Conceptvertaling van Hulpverlener, Aid veranderen naar : Care Aide</Omschrijving>
+    <TypeChange>SIMPLE PATCH CHANGE (EN)</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.6</ConceptID_2017>
+    <ConceptName_2017>Zorgverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.6</ConceptID_2020>
+    <ConceptName_2020>Zorgverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.7</ConceptID_2017>
+    <ConceptName_2017>Mantelzorger::Contactpersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.7</ConceptID_2020>
+    <ConceptName_2020>Mantelzorger::Contactpersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.8</ConceptID_2017>
+    <ConceptName_2017>Zorgaanbieder</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.8</ConceptID_2020>
+    <ConceptName_2020>Zorgaanbieder</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>HulpVanAnderen</ZibName>
+    <ConceptID_2017>NL-CM:3.2.9</ConceptID_2017>
+    <ConceptName_2017>SoortHulp</ConceptName_2017>
+    <Codelists_2017>SoortHulpCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:3.2.9</ConceptID_2020>
+    <ConceptName_2020>SoortHulp</ConceptName_2020>
+    <Codelists_2020>SoortHulpCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+</data>

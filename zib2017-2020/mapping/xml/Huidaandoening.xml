@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.1</ConceptID_2017>
+    <ConceptName_2017>Huidaandoening</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:19.3.1</ConceptID_2020>
+    <ConceptName_2020>Huidaandoening</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.2</ConceptID_2017>
+    <ConceptName_2017>SoortAandoening</ConceptName_2017>
+    <Codelists_2017>SoortAandoeningCodelijst</Codelists_2017>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:19.3.2</ConceptID_2020>
+    <ConceptName_2020>SoortAandoening</ConceptName_2020>
+    <Codelists_2020>SoortAandoeningCodelijst</Codelists_2020>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.3</ConceptID_2017>
+    <ConceptName_2017>OntstaansDatum</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:19.3.3</ConceptID_2020>
+    <ConceptName_2020>OntstaansDatum</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.4</ConceptID_2017>
+    <ConceptName_2017>AnatomischeLocatie</ConceptName_2017>
+    <Codelists_2017>HuidaandoeningAnatomischeLocatieCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:19.1.14</ConceptID_2020>
+    <ConceptName_2020>Locatie</ConceptName_2020>
+    <Codelists_2020>LocatieCodelijst</Codelists_2020>
+    <Bits>ZIB-1116</Bits>
+    <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
+    <TypeChange>CHANGE TO SUB HCIM</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>codelist [HuidaandoeningAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]-&gt;[HuidaandoeningAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.6</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:19.3.6</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.7</ConceptID_2017>
+    <ConceptName_2017>Oorzaak::Probleem</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:19.3.7</ConceptID_2020>
+    <ConceptName_2020>Oorzaak::Probleem</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Huidaandoening</ZibName>
+    <ConceptID_2017>NL-CM:19.3.8</ConceptID_2017>
+    <ConceptName_2017>Lateraliteit</ConceptName_2017>
+    <Codelists_2017>HuidaandoeningLateraliteitCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:19.1.14</ConceptID_2020>
+    <ConceptName_2020>Lateraliteit</ConceptName_2020>
+    <Codelists_2020>LateraliteitCodelijst</Codelists_2020>
+    <Bits>ZIB-1116</Bits>
+    <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
+    <TypeChange>CHANGE TO SUB HCIM</TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>codelist [HuidaandoeningLateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]-&gt;[HuidaandoeningLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+  </row>
+</data>

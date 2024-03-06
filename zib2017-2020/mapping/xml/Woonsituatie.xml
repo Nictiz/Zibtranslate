@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ZibName>Woonsituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.8.1</ConceptID_2017>
+    <ConceptName_2017>Woonsituatie</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.8.1</ConceptID_2020>
+    <ConceptName_2020>Woonsituatie</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Woonsituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.8.2</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:7.8.2</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>Woonsituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.8.3</ConceptID_2017>
+    <ConceptName_2017>WoningType</ConceptName_2017>
+    <Codelists_2017>WoningTypeCodelijst</Codelists_2017>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:7.8.3</ConceptID_2020>
+    <ConceptName_2020>WoningType</ConceptName_2020>
+    <Codelists_2020>WoningTypeCodelijst</Codelists_2020>
+    <Bits>ZIB-653 ; ZIB-1100 ; ZIB-810 ; ZIB769</Bits>
+    <Omschrijving>Codelijst aangepast met meerdere aanpassingen</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Woonsituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.8.4</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.8.4</ConceptID_2020>
+    <ConceptName_2020>WoonOmstandigheid</ConceptName_2020>
+    <Codelists_2020>WoonOmstandigheidCodelijst</Codelists_2020>
+    <Bits>ZIB-694</Bits>
+    <Omschrijving>Aan het model twee elementen toegevoegd, WoningAanpassing en WoonOmstandigheid.</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Woonsituatie</ZibName>
+    <ConceptID_2017>NL-CM:7.8.5</ConceptID_2017>
+    <ConceptName_2017>**concept toegevoegd in 2020**</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>rood: major change</Change>
+    <ConceptID_2020>NL-CM:7.8.5</ConceptID_2020>
+    <ConceptName_2020>WoningAanpassing</ConceptName_2020>
+    <Codelists_2020>WoningAanpassingCodelijst</Codelists_2020>
+    <Bits>ZIB-694</Bits>
+    <Omschrijving>Aan het model twee elementen toegevoegd, WoningAanpassing en WoonOmstandigheid.</Omschrijving>
+    <TypeChange>CONCEPT ADDITION</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+  </row>
+</data>

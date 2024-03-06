@@ -1,0 +1,4 @@
+ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
+VermogenTotDrinken,NL-CM:4.8.1,VermogenTotDrinken,,groen: geen wijzigingen,NL-CM:4.8.1,VermogenTotDrinken,,,,,,,,
+VermogenTotDrinken,NL-CM:4.8.3,Drinken,DrinkenCodelijst,oranje: minor change,NL-CM:4.8.3,Drinken,DrinkenCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
+VermogenTotDrinken,NL-CM:4.8.4,DrinkBeperkingen,DrinkBeperkingenCodelijst,oranje: minor change,NL-CM:4.8.4,DrinkBeperkingen,DrinkBeperkingenCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
