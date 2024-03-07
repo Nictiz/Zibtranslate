@@ -25,7 +25,6 @@ The translation specs are available as:
 | ConceptID_2017   | ConceptName_2017   | Change               | TypeChange      | Impact_heen   | TRANSLATIE_spec_heen                         | Impact_terug   | TRANSLATIE_spec_terug                        | Omschrijving                |
 |:-----------------|:-------------------|:---------------------|:----------------|:--------------|:---------------------------------------------|:---------------|:---------------------------------------------|:----------------------------|
 | NL-CM:4.7.3      | Eten               | oranje: minor change | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO | Datatype CO gewijzigd in CD |
-| NL-CM:4.7.4      | EetBeperkingen     | oranje: minor change | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO | Datatype CO gewijzigd in CD |
 
 ## Mapping
 
@@ -33,5 +32,5 @@ The translation specs are available as:
 |:-----------------|:-------------------|:------------------------|:------------------------|:-----------------|:-------------------|:------------------------|:---------|:----------------------------|:----------------|:--------------|:---------------------------------------------|:---------------|:---------------------------------------------|
 | NL-CM:4.7.1      | VermogenTotEten    |                         | groen: geen wijzigingen | NL-CM:4.7.1      | VermogenTotEten    |                         |          |                             |                 |               |                                              |                |                                              |
 | NL-CM:4.7.3      | Eten               | EtenCodelijst           | oranje: minor change    | NL-CM:4.7.3      | Eten               | EtenCodelijst           | ZIB-1115 | Datatype CO gewijzigd in CD | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO |
-| NL-CM:4.7.4      | EetBeperkingen     | EetBeperkingenCodelijst | oranje: minor change    | NL-CM:4.7.4      | EetBeperkingen     | EetBeperkingenCodelijst | ZIB-1115 | Datatype CO gewijzigd in CD | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO |
+| NL-CM:4.7.4      | EetBeperkingen     | EetBeperkingenCodelijst | groen: geen wijzigingen | NL-CM:4.7.4      | EetBeperkingen     | EetBeperkingenCodelijst |          |                             |                 |               |                                              |                |                                              |
 

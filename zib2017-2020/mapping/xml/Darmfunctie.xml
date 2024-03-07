@@ -15,7 +15,7 @@
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [11198001 defecation] -&gt; [111989001 Defecation]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefinitionCode  [111989001 Defecation]  -&gt; [11198001 defecation]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [111989001 Defecation]  -&gt; [11198001 defecation] terugmappen naar foute SCT code? Of toch niet?</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Darmfunctie</ZibName>

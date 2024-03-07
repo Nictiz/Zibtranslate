@@ -16,8 +16,7 @@
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [
 289145007 Bevinding betreffende voedingspatroon van zuigeling]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefinitionCode  [
-289145007 Bevinding betreffende voedingspatroon van zuigeling]-&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [289145007 Bevinding betreffende voedingspatroon van zuigeling]-&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>VoedingspatroonZuigeling</ZibName>

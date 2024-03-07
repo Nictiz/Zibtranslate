@@ -14,12 +14,12 @@ LaboratoriumUitslag,NL-CM:13.1.11,ReferentieBovengrens,,groen: geen wijzigingen,
 LaboratoriumUitslag,NL-CM:13.1.12,ReferentieOndergrens,,groen: geen wijzigingen,NL-CM:13.1.12,ReferentieOndergrens,,,,NO CHANGE,,,,
 LaboratoriumUitslag,NL-CM:13.1.13,TestDatumTijd,,groen: geen wijzigingen,NL-CM:13.1.13,TestDatumTijd,,,,NO CHANGE,,,,
 LaboratoriumUitslag,NL-CM:13.1.14,InterpretatieVlaggen,InterpretatieVlaggenCodelijst,geel: patch wijziging,NL-CM:13.1.14,InterpretatieVlaggen,InterpretatieVlaggenCodelijst,ZIB-1148,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
-LaboratoriumUitslag,NL-CM:13.1.15,Monsternummer,,groen: geen wijzigingen,NL-CM:13.1.15,Monsternummer,,,,NO CHANGE,,,,
+LaboratoriumUitslag,NL-CM:13.1.15,Monsternummer,,rood: major change,NL-CM:13.1.15,Monsternummer,,ZIB-1016,Kardinaliteit van het element Monsternummer gewijzigd van 0..* naar 0..1,CARDINALITY CHANGE,High,ZERO-TO-MANY TO ZERO-TO-ONE,Low,ZERO-TO-ONE TO ZERO-TO-MANY
 LaboratoriumUitslag,NL-CM:13.1.16,Monstermateriaal,MonstermateriaalCodelijst,oranje: minor change,NL-CM:13.1.16,Monstermateriaal,MonstermateriaalCodelijst,ZIB-645,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [127454002 Device specimen],Medium,SCT DefintionCode  [127454002 Device specimen] -> [blank]
 LaboratoriumUitslag,NL-CM:13.1.17,AfnameDatumTijd,,geel: patch wijziging,NL-CM:13.1.17,AfnameDatumTijd,,ZIB-902,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 LaboratoriumUitslag,NL-CM:13.1.18,Afnameprocedure,,geel: patch wijziging,NL-CM:13.1.18,Afnameprocedure,,ZIB-676,De engelse naam van de codelijst voor concept CollectionMethod is veranderd,SIMPLE PATCH CHANGE,Low,,Low,
 LaboratoriumUitslag,NL-CM:13.1.19,Toelichting,,geel: patch wijziging,NL-CM:13.1.19,Toelichting,,ZIB-880,Kleine Tekstwijzigingen omschrijving 'toelichting' bij monster in engels en Nederlands,SIMPLE PATCH CHANGE,Low,,Low,
-LaboratoriumUitslag,NL-CM:13.1.20,Monstervolgnummer,,rood: major change,NL-CM:13.1.20,Monstervolgnummer,,ZIB-1016,Kardinaliteit van het element Monsternummer gewijzigd van 0..* naar 0..1,CARDINALITY CHANGE,High,ZERO-TO-MANY TO ZERO-TO-ONE,Low,ZERO-TO-ONE TO ZERO-TO-MANY
+LaboratoriumUitslag,NL-CM:13.1.20,Monstervolgnummer,,groen: geen wijzigingen,NL-CM:13.1.20,Monstervolgnummer,,,,,,,,
 LaboratoriumUitslag,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,groen: geen wijzigingen,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,,,NO CHANGE,,,,
 LaboratoriumUitslag,NL-CM:13.1.22,Microorganisme,,groen: geen wijzigingen,NL-CM:13.1.22,Microorganisme,,,,NO CHANGE,,,,
 LaboratoriumUitslag,NL-CM:13.1.23,Microorganisme,MicroorganismeCodelijst,geel: patch wijziging,NL-CM:13.1.23,Microorganisme,MicroorganismeCodelijst,ZIB-901,Kleine tekstuele aanpassing in beschrijving bij microogranisme aan container monster.,SIMPLE PATCH CHANGE,Low,,Low,

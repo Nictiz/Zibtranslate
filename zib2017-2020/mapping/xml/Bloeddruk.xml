@@ -51,7 +51,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
-    <TRANSLATIE_spec_terug>SOURCE=TARGET</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Bloeddruk</ZibName>
@@ -114,12 +114,12 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptName_2020>Meetmethode</ConceptName_2020>
     <Codelists_2020>MeetmethodeCodelijst</Codelists_2020>
     <Bits/>
-    <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
+    <Omschrijving>2 extra items toegevoegd aan MeetmethodeCodelijst.</Omschrijving>
+    <TypeChange>VALUESET CHANGES</TypeChange>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Bloeddruk</ZibName>
@@ -165,12 +165,12 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptName_2020>MeetLocatie</ConceptName_2020>
     <Codelists_2020>MeetLocatieCodelijst</Codelists_2020>
     <Bits>ZIB-962</Bits>
-    <Omschrijving>2 extra items toegevoegd aan MeetmethodeCodelijst.</Omschrijving>
-    <TypeChange>VALUESET CHANGES</TypeChange>
-    <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <Omschrijving/>
+    <TypeChange>NO CHANGE</TypeChange>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Bloeddruk</ZibName>

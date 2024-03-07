@@ -61,7 +61,7 @@
     <ConceptName_2020>GewichtsverliesScore</ConceptName_2020>
     <Codelists_2020>SNAQ65+GewichtsverliesScoreCodelijst</Codelists_2020>
     <Bits>ZIB-718</Bits>
-    <Omschrijving>Foutieve Snomed code in codelijst aangepast</Omschrijving>
+    <Omschrijving>Typo in codelijst aangepast</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>

@@ -53,40 +53,6 @@
   </row>
   <row>
     <ZibName>VermogenTotToiletgang</ZibName>
-    <ConceptID_2017>NL-CM:4.22.4</ConceptID_2017>
-    <ConceptName_2017>ZorgBijMenstruatie</ConceptName_2017>
-    <Codelists_2017>ZorgBijMenstruatieCodelijst</Codelists_2017>
-    <Change>oranje: minor change</Change>
-    <ConceptID_2020>NL-CM:4.22.4</ConceptID_2020>
-    <ConceptName_2020>ZorgBijMenstruatie</ConceptName_2020>
-    <Codelists_2020>ZorgBijMenstruatieCodelijst</Codelists_2020>
-    <Bits>ZIB-1115</Bits>
-    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
-    <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
-    <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
-  </row>
-  <row>
-    <ZibName>VermogenTotToiletgang</ZibName>
-    <ConceptID_2017>NL-CM:4.22.6</ConceptID_2017>
-    <ConceptName_2017>Toiletgebruik</ConceptName_2017>
-    <Codelists_2017>ToiletgebruikCodelijst</Codelists_2017>
-    <Change>oranje: minor change</Change>
-    <ConceptID_2020>NL-CM:4.22.6</ConceptID_2020>
-    <ConceptName_2020>Toiletgebruik</ConceptName_2020>
-    <Codelists_2020>ToiletgebruikCodelijst</Codelists_2020>
-    <Bits>ZIB-1115</Bits>
-    <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
-    <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
-    <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
-  </row>
-  <row>
-    <ZibName>VermogenTotToiletgang</ZibName>
     <ConceptID_2017>NL-CM:4.22.6</ConceptID_2017>
     <ConceptName_2017>Toiletgebruik</ConceptName_2017>
     <Codelists_2017>ToiletgebruikCodelijst</Codelists_2017>

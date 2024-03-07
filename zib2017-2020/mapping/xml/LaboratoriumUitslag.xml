@@ -244,17 +244,17 @@ TestCodeNHGCodelijst</Codelists_2020>
     <ConceptID_2017>NL-CM:13.1.15</ConceptID_2017>
     <ConceptName_2017>Monsternummer</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
+    <Change>rood: major change</Change>
     <ConceptID_2020>NL-CM:13.1.15</ConceptID_2020>
     <ConceptName_2020>Monsternummer</ConceptName_2020>
     <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
+    <Bits>ZIB-1016</Bits>
+    <Omschrijving>Kardinaliteit van het element Monsternummer gewijzigd van 0..* naar 0..1</Omschrijving>
+    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen>ZERO-TO-MANY TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <Impact_terug>Low</Impact_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ZERO-TO-MANY</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -329,17 +329,17 @@ TestCodeNHGCodelijst</Codelists_2020>
     <ConceptID_2017>NL-CM:13.1.20</ConceptID_2017>
     <ConceptName_2017>Monstervolgnummer</ConceptName_2017>
     <Codelists_2017/>
-    <Change>rood: major change</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:13.1.20</ConceptID_2020>
     <ConceptName_2020>Monstervolgnummer</ConceptName_2020>
     <Codelists_2020/>
-    <Bits>ZIB-1016</Bits>
-    <Omschrijving>Kardinaliteit van het element Monsternummer gewijzigd van 0..* naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
-    <Impact_heen>High</Impact_heen>
-    <TRANSLATIE_spec_heen>ZERO-TO-MANY TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
-    <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ZERO-TO-MANY</TRANSLATIE_spec_terug>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>

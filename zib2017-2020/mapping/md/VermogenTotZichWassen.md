@@ -22,10 +22,9 @@ The translation specs are available as:
 
 ## Changes
 
-| ConceptID_2017   | ConceptName_2017     | Change               | TypeChange      | Impact_heen   | TRANSLATIE_spec_heen                         | Impact_terug   | TRANSLATIE_spec_terug                        | Omschrijving                |
-|:-----------------|:---------------------|:---------------------|:----------------|:--------------|:---------------------------------------------|:---------------|:---------------------------------------------|:----------------------------|
-| NL-CM:4.10.2     | ZichWassen           | oranje: minor change | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO | Datatype CO gewijzigd in CD |
-| NL-CM:4.10.3     | TeWassenLichaamsdeel | oranje: minor change | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO | Datatype CO gewijzigd in CD |
+| ConceptID_2017   | ConceptName_2017   | Change               | TypeChange      | Impact_heen   | TRANSLATIE_spec_heen                         | Impact_terug   | TRANSLATIE_spec_terug                        | Omschrijving                |
+|:-----------------|:-------------------|:---------------------|:----------------|:--------------|:---------------------------------------------|:---------------|:---------------------------------------------|:----------------------------|
+| NL-CM:4.10.2     | ZichWassen         | oranje: minor change | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO | Datatype CO gewijzigd in CD |
 
 ## Mapping
 
@@ -33,5 +32,5 @@ The translation specs are available as:
 |:-----------------|:----------------------|:------------------------------|:------------------------|:-----------------|:----------------------|:------------------------------|:--------|:----------------------------|:----------------|:--------------|:---------------------------------------------|:---------------|:---------------------------------------------|
 | NL-CM:4.10.1     | VermogenTotZichWassen |                               | groen: geen wijzigingen | NL-CM:4.10.1     | VermogenTotZichWassen |                               |         |                             |                 |               |                                              |                |                                              |
 | NL-CM:4.10.2     | ZichWassen            | ZichWassenCodelijst           | oranje: minor change    | NL-CM:4.10.2     | ZichWassen            | ZichWassenCodelijst           | ZIB-111 | Datatype CO gewijzigd in CD | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO |
-| NL-CM:4.10.3     | TeWassenLichaamsdeel  | TeWassenLichaamsdeelCodelijst | oranje: minor change    | NL-CM:4.10.3     | TeWassenLichaamsdeel  | TeWassenLichaamsdeelCodelijst | ZIB-111 | Datatype CO gewijzigd in CD | DATATYPE CHANGE | Low           | valueset datatype CO -> valueset datatype CD | Low            | valueset datatype CD -> valueset datatype CO |
+| NL-CM:4.10.3     | TeWassenLichaamsdeel  | TeWassenLichaamsdeelCodelijst | groen: geen wijzigingen | NL-CM:4.10.3     | TeWassenLichaamsdeel  | TeWassenLichaamsdeelCodelijst |         |                             |                 |               |                                              |                |                                              |
 

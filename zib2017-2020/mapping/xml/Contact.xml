@@ -251,9 +251,9 @@
     <Omschrijving>Kardinaliteit reden contact aangepast naar 0 ..*</Omschrijving>
     <TypeChange>CARDINALITY CHANGE</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE-TO-MANY TO ZERO-TO-MANY</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-MANY</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-MANY TO ONE-TO-MANY</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>ZERO-TO-MANY TO ONE</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Contact</ZibName>

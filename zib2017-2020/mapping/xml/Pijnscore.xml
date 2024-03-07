@@ -15,7 +15,7 @@
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [425401001 Pain intensity rating scale]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [423100009 Results section] -&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [425401001 Pain intensity rating scale] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Pijnscore</ZibName>

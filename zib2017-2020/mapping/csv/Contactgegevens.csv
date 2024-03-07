@@ -3,9 +3,9 @@ Contactgegevens,NL-CM:20.6.1,Contactgegevens,,groen: geen wijzigingen,NL-CM:20.6
 Contactgegevens,NL-CM:20.6.2,Telefoonnummers,,groen: geen wijzigingen,NL-CM:20.6.2,Telefoonnummers,,,,NO CHANGE,,,,
 Contactgegevens,NL-CM:20.6.3,EmailAdressen,,groen: geen wijzigingen,NL-CM:20.6.3,EmailAdressen,,,,NO CHANGE,,,,
 Contactgegevens,NL-CM:20.6.4,Telefoonnummer,,groen: geen wijzigingen,NL-CM:20.6.4,Telefoonnummer,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,groen: geen wijzigingen,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,,,NO CHANGE,,,,
+Contactgegevens,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,oranje: minor change,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,ZIB-958,Kardinaliteit TelecomType aangepast van 1 naar 0..1.,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
 Contactgegevens,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,,,NO CHANGE,,,,
 Contactgegevens,NL-CM:20.6.7,EmailAdres,,groen: geen wijzigingen,NL-CM:20.6.7,EmailAdres,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,oranje: minor change,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,ZIB-958,Kardinaliteit TelecomType aangepast van 1 naar 0..1.,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
+Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,,,NO CHANGE,,,,
 Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,oranje: minor change,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,ZIB-900,"Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. ""Tempory address"" moet zijn ""Temporary address""",VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Contactgegevens,NL-CM:20.6.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:20.6.9,Toelichting,,ZIB-760,"Aan een telefoonnummers is nu een toelichtingsveld toegevoegd, waarin nadere bijzonderheden over het nummer kunnen worden vastgelegd.",CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]

@@ -146,7 +146,7 @@
     <ConceptName_2020>Adresgegevens</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-960</Bits>
-    <Omschrijving>Cardinaliteit adresgegevens in de zib's Zorgverlener, Zorgaanbieder en Contactpersoon verruimt van 0..1 naar 0..*</Omschrijving>
+    <Omschrijving>Kardinaliteit adresgegevens in de zib's Zorgverlener, Zorgaanbieder en Contactpersoon verruimt van 0..1 naar 0..*</Omschrijving>
     <TypeChange>CARDINALITY CHANGE</TypeChange>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>ZERO-TO-ONE TO ZERO-TO-MANY</TRANSLATIE_spec_heen>
