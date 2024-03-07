@@ -17,9 +17,9 @@ Per zib zijn de translatiespecificaties te downloaden als CSV, JSON, XML en exce
 Zie [de index](zib2017-2020/index.md) om de beschikbare translatie specificaties per zib te bekijken als ook de files te downloaden. 
 
 Per zib zijn er 2 of 3 tabellen. 
-- changes, met hierin alleen de zib concepten waarop tussen 2017 en 2020 een wijziging heeft plaatsgevonden
-- een mapping tabel met hierin alle zib concepten, met wat meer informatie zoals codelijsten, de bits issues waarin de details van het wijzgingsverzoek dat heeft geleid tot 1 of meer wijzigingen
-- waar van toepassing een tabel met overige wijzigingen op de zib (momenteel alleen de tekst wijzgingen op definities van beschrijvende velden zoals concept, purpose, evidence base etc)
+- Changes, met hierin alleen de zib concepten waarop tussen 2017 en 2020 een wijziging heeft plaatsgevonden.
+- Een mapping tabel met hierin alle zib concepten, met wat meer informatie zoals codelijsten, de bits issues waarin de details van het wijzgingsverzoek dat heeft geleid tot 1 of meer wijzigingen.
+- Waar van toepassing een tabel met overige wijzigingen op de zib (momenteel alleen de tekst wijzgingen op definities van beschrijvende velden zoals concept, purpose, evidence base etc).
 
 Voor de type wijzgingen en bijbehorende translatie regels zie [de type changes](typechanges.md)
 
