@@ -10,7 +10,7 @@ In deze memo op pagina 4 , ad 4 staat:
 
 ## Translatie tabellen zibs (CONCEPT)
 Dit is de eerste concept versie van de translatie specificaties met alle **95 zibs** die zowel in de 2017 als in de 2020 publicatie zitten. 
-De **5 zibs die zijn deprecated** als ook de **15 nieuwe zibs** die er in publicatie 2020 zijn bijgekomen zitten wel als tabel in deze specificaties maar zijn (nog) niet uitgewerkt 
+De **5 zibs die zijn deprecated** als ook de **15 nieuwe zibs** die er in publicatie 2020 zijn bijgekomen zitten wel als tabel in deze specificaties maar zijn (nog) niet uitgewerkt. Ook de medicatie zibs staan nog even on hold vanwege afstemming met MP project.  
 
 Per zib zijn de translatiespecificaties te downloaden als CSV, JSON, XML en excel format.
 
