@@ -8,7 +8,7 @@
    
 ## CONCEPT NAME or CODELIST NAME CHANGED
 
- Wanneer een conceptnaam of de naam van een codelijst wordt aangepast kan dit een 'breaking change' zijn afhankelijk van de implementatie. Dergelijke wijzigingen zijn waar mogelijk vermeden en alleen doorgevoerd als de impact ervan ten tijde van evaluatie klein leek te zijn. Of de impact van een dergelijke aanpassing daadwerkelijk klein is hangt af van de applicatie waar deze zib is ingebouwd en of en hoe vaak het concept of de codelijst elders in de software wordt aangeroepen. Voor deze aanpassingen is altijd aangegeven of het een Engelse en of Nederlandse name change is. 
+ Wanneer een conceptnaam of de naam van een waardenlijst wordt aangepast kan dit een 'breaking change' zijn afhankelijk van de implementatie. Dergelijke wijzigingen zijn waar mogelijk vermeden en alleen doorgevoerd als de impact ervan ten tijde van evaluatie klein leek te zijn. Of de impact van een dergelijke aanpassing daadwerkelijk klein is hangt af van de applicatie waar deze zib is ingebouwd en of en hoe vaak het concept of de waardenlijst elders in de software wordt aangeroepen. Voor deze aanpassingen is altijd aangegeven of het een Engelse en of Nederlandse name change is. 
  >Voorbeeld 
  >
  >**CONCEPT NAME CHANGED (EN): ::FarmaceuticalProduct-> ::PharmaceuticalProduct**
@@ -28,7 +28,7 @@
  
 ##	VALUESET CHANGES
  
- Wanneer er wijzigingen zijn in de inhoud van een waardenlijst (dus aan de keuze-opties) is het beter om niet te gaan 'patchen' van oud naar nieuw. Naast het feit dat hiermee translaties zeer complex te automatiseren zullen zijn is het ook niet juist om dit te doen omdat oudere instantiaties zijn vastgelegd met de beschikbare codelijsten/valuesets die horen bij de 2017-publicatie.
+ Wanneer er wijzigingen zijn in de inhoud van een waardenlijst (dus aan de keuze-opties) is het beter om niet te gaan 'patchen' van oud naar nieuw. Naast het feit dat hiermee translaties zeer complex te automatiseren zullen zijn is het ook niet juist om dit te doen omdat oudere instantiaties zijn vastgelegd met de beschikbare waardenlijsten/valuesets die horen bij de 2017-publicatie.
 
  Bij een translatie-usecase van 2017 naar 2020 en terug adviseert Nictiz houders van informatiestandaarden dringend om af te zien van translatie tussen waardenlijsten. In plaats daarvan zouden alle actoren in de uitwisseling tijdens de migratieperiode zowel de 2017- als 2020-waardenlijsten moeten ondersteunen. Dit geldt zowel voor de zender als de ontvanger en dit betreft zowel de waardenlijsten die aangepast zijn in de 2020-publicatie als de waardenlijsten die zijn toegevoegd aan bestaande zibs in de 2020-publicatie (refsets, NHG-tabellen, ggz-lijsten en overige nieuwe artefacten en codestelsels).
  
@@ -74,7 +74,7 @@ Bij een verwijderd concept in een 2020 zib is er sprake van dataverlies bij vert
 In publicatie 2020 is een nieuwe sub-bouwsteen voor anatomische locatie gepubliceerd omdat de 2 concepten anatomische locatie en lateraliteit in veel zibs voorkwamen. Hierbij zijn de 2 concepten voor locatie en lateraliteit gewijzigd naar 1 verwijzing naar de nieuwe zib. In de 2020 zib staat er dan bijvoorbeeld VerrichtingAnatomischeLocatie::AnatomischeLocatie. Alhoewel dit wat verwarrend lijkt, zal dit voor translatie heen en terug waarschijnlijk een eenvoudige wijziging zijn. De inhoud van de waardenlijsten uit publicatie 2017 is namelijk gelijk gebleven in publicatie 2020. De translatie bestaat daardoor simpelweg uit het overzetten van de geïnstantieerde waarde.
 
 ### DATA TYPE CHANGE
-De enige data type change die voorkomt tussen 2017 en 2020 gaat om een aantal codelijsten. Deze waren in 2017 van het type _CO_ (Coded Ordinal). Dit was echter een fout, want de waardenlijsten die waren uitgegeven waren in feite toch van het type _CD_ (Coded Description). Een translatie betreft hierdoor alleen de definitie en niet de data of de structuur van het informatiemodel.
+De enige data type change die voorkomt tussen 2017 en 2020 gaat om een aantal waardenlijsten. Deze waren in 2017 van het type _CO_ (Coded Ordinal). Dit was echter een fout, want de waardenlijsten die waren uitgegeven waren in feite toch van het type _CD_ (Coded Description). Een translatie betreft hierdoor alleen de definitie en niet de data of de structuur van het informatiemodel.
 
 ### DATETIME IN FUTURE ALLOWED
 In de 2020-publicatie is de zib OverdrachtGeplandeZorgactiviteit komen te vervallen. Om alle type zorgactiviteiten in deze zib toch te kunnen plannen, is voor de desbetreffende zibs in 2020 het constraint op de begin- en einddatums opgeheven waardoor het mogelijk is om ook een datum in de toekomst te gebruiken. Deze wijziging is 7 keer toegepast op begin- en einddatums in de zibs Vaccinatie, Verrichting, VerpleegkundigeInterventie en Contact.
