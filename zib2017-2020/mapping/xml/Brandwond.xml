@@ -130,7 +130,7 @@
     <Codelists_2020>BrandwondSoortCodelijst</Codelists_2020>
     <Bits>ZIB-1296</Bits>
     <Omschrijving>erratum:Het element BrandwondSoort per ongeluk verwijderd in publicatie 2020 en is weer toegevoegd</Omschrijving>
-    <TypeChange>OTHER INFORMATIONMODEL CHANGE</TypeChange>
+    <TypeChange>OTHER INFORMATION MODEL CHANGE</TypeChange>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
