@@ -11,7 +11,7 @@
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108331000146104 Pain Behaviour Checklist]</TRANSLATIE_spec_heen>
@@ -29,7 +29,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [48981000146100 Pain Behaviour Checklist total score]</TRANSLATIE_spec_heen>
@@ -47,7 +47,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017003 ChecklistPijnGedrag Gezicht]</TRANSLATIE_spec_heen>
@@ -65,7 +65,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017004 ChecklistPijnGedrag Mond]</TRANSLATIE_spec_heen>
@@ -83,7 +83,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017005 ChecklistPijnGedrag Grimas]</TRANSLATIE_spec_heen>
@@ -101,7 +101,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017006 ChecklistPijnGedrag VerdrietigeBlik]</TRANSLATIE_spec_heen>
@@ -119,7 +119,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017007 ChecklistPijnGedrag Ogen]</TRANSLATIE_spec_heen>
@@ -137,7 +137,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017008 ChecklistPijnGedrag Paniek]</TRANSLATIE_spec_heen>
@@ -155,7 +155,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017009 ChecklistPijnGedrag Kreunen]</TRANSLATIE_spec_heen>
@@ -173,7 +173,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017010 ChecklistPijnGedrag Huilen]</TRANSLATIE_spec_heen>
@@ -191,7 +191,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017011 ChecklistPijnGedrag Onrustgeluiden]</TRANSLATIE_spec_heen>
@@ -209,7 +209,7 @@ ZIB-923</Bits>
     <Codelists_2020/>
     <Bits>
 ZIB-923</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [12017012 ChecklistPijnGedrag Tranen]</TRANSLATIE_spec_heen>

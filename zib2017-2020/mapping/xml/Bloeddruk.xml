@@ -13,10 +13,10 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode  [blank] -&gt; [46973005 Bloeddrukmeting]
+    <TRANSLATIE_spec_heen>SCT DefinitionCode  [blank] -&gt; [46973005 Bloeddrukmeting]
 LOINC DefinitionCode [55284-4 Blood pressure systolic and diastolic]-&gt;[85354-9 Blood pressure panel with all children optional]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode  [46973005 Bloeddrukmeting] -&gt; [blank]
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [46973005 Bloeddrukmeting] -&gt; [blank]
 LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -&gt; [55284-4 Blood pressure systolic and diastolic]</TRANSLATIE_spec_terug>
   </row>
   <row>

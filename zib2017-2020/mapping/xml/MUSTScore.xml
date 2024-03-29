@@ -10,7 +10,7 @@
     <ConceptName_2020>MUSTScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-922</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [414648004 Malnutrition Universal Screening Tool] -&gt; [444297006 MUST (Malnutrition universal screening tool) score]</TRANSLATIE_spec_heen>
@@ -27,7 +27,7 @@
     <ConceptName_2020>TotaalScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-922</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [444297006 'Malnutrition Universal Screening Tool'-score]</TRANSLATIE_spec_heen>
@@ -44,7 +44,7 @@
     <ConceptName_2020>BMIScore</ConceptName_2020>
     <Codelists_2020>BMIScoreCodelijst</Codelists_2020>
     <Bits>ZIB-922</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005003 MUSTScore BMIScore]</TRANSLATIE_spec_heen>
@@ -61,7 +61,7 @@
     <ConceptName_2020>GewichtsverliesScore</ConceptName_2020>
     <Codelists_2020>MUSTGewichtsverliesScoreCodelijst</Codelists_2020>
     <Bits>ZIB-922</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005004 MUSTScore GewichtsverliesScore]</TRANSLATIE_spec_heen>
@@ -78,7 +78,7 @@
     <ConceptName_2020>ZiekteScore</ConceptName_2020>
     <Codelists_2020>ZiekteScoreCodelijst</Codelists_2020>
     <Bits>ZIB-922</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4005005 MUSTScore ZiekteScore]</TRANSLATIE_spec_heen>

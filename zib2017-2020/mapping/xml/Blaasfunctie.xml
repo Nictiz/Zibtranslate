@@ -10,12 +10,12 @@
     <ConceptName_2020>Blaasfunctie</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-732</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode  [28278009 Micturition] -&gt; [364196001 Micturition feature]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode  [28278009 Micturition] -&gt; [364196001 Micturition feature]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode  [364196001 Micturition feature] -&gt; [28278009 Micturition]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [364196001 Micturition feature] -&gt; [28278009 Micturition]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Blaasfunctie</ZibName>

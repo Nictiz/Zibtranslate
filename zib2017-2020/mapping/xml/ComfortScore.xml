@@ -10,7 +10,7 @@
     <ConceptName_2020>ComfortScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;108301000146109 COMFORT scale]</TRANSLATIE_spec_heen>
@@ -27,7 +27,7 @@
     <ConceptName_2020>TotaalScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;48961000146108 COMFORT-score]</TRANSLATIE_spec_heen>
@@ -44,7 +44,7 @@
     <ConceptName_2020>Alertheid</ConceptName_2020>
     <Codelists_2020>AlertheidCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012003 ComfortScore Alertheid]</TRANSLATIE_spec_heen>
@@ -61,7 +61,7 @@
     <ConceptName_2020>Kalmte_Agitatie</ConceptName_2020>
     <Codelists_2020>Kalmte_AgitatieCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012004 ComfortScore Kalmte_Agitatie]</TRANSLATIE_spec_heen>
@@ -78,7 +78,7 @@
     <ConceptName_2020>Ademhalingsreactie</ConceptName_2020>
     <Codelists_2020>AdemhalingsreactieCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012005 ComfortScore Ademhalingsreactie]</TRANSLATIE_spec_heen>
@@ -95,7 +95,7 @@
     <ConceptName_2020>Huilen</ConceptName_2020>
     <Codelists_2020>HuilenCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012006 ComfortScore Huilen]</TRANSLATIE_spec_heen>
@@ -112,7 +112,7 @@
     <ConceptName_2020>Lichaamsbeweging</ConceptName_2020>
     <Codelists_2020>LichaamsbewegingCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012008 ComfortScore Lichaamsbeweging]</TRANSLATIE_spec_heen>
@@ -129,7 +129,7 @@
     <ConceptName_2020>Gezichtsspanning</ConceptName_2020>
     <Codelists_2020>GezichtsspanningCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012009 ComfortScore Gezichtsspanning]</TRANSLATIE_spec_heen>
@@ -146,7 +146,7 @@
     <ConceptName_2020>Spierspanning</ConceptName_2020>
     <Codelists_2020>SpierspanningCodelijst</Codelists_2020>
     <Bits>ZIB-925</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt;12012010 ComfortScore Spierspanning]</TRANSLATIE_spec_heen>

@@ -10,7 +10,7 @@
     <ConceptName_2020>Gezinssituatie</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-697</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [365470003 Bevinding betreffende gegevens over gezin en gezinssamenstelling]</TRANSLATIE_spec_heen>
@@ -78,7 +78,7 @@
     <ConceptName_2020>Inwonend</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-697</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [224525003 Number in household] -&gt; [107541000146102 Child lives at home]</TRANSLATIE_spec_heen>
@@ -129,12 +129,12 @@
     <ConceptName_2020>Gezinssamenstelling</ConceptName_2020>
     <Codelists_2020>GezinssamenstellingCodelijst</Codelists_2020>
     <Bits>ZIB-697</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [224118004 Number of offspring] -&gt; [224130005 Household composition]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [425401001 Pain intensity rating scale] -&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [425401001 Pain intensity rating scale] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Gezinssituatie</ZibName>
@@ -146,12 +146,12 @@
     <ConceptName_2020>AantalKinderenInwonend</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-697</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [55811000146107 Number of children living at home]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [371525003 Clinical procedure report] -&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [371525003 Clinical procedure report] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Gezinssituatie</ZibName>

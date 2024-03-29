@@ -10,7 +10,7 @@
     <ConceptName_2020>SNAQScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-931</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [8881000146104 Short Nutritional Assessment Questionnaire]</TRANSLATIE_spec_heen>
@@ -27,7 +27,7 @@
     <ConceptName_2020>TotaalScore</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-931</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [108911000146107 Short Nutritional Questionnaire total score]</TRANSLATIE_spec_heen>
@@ -44,7 +44,7 @@
     <ConceptName_2020>GewichtsverliesScore</ConceptName_2020>
     <Codelists_2020>SNAQGewichtsverliesScoreCodelijst</Codelists_2020>
     <Bits>ZIB-931</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4006003 SNAQScore GewichtsverliesScore]</TRANSLATIE_spec_heen>
@@ -78,7 +78,7 @@
     <ConceptName_2020>EetlustScore</ConceptName_2020>
     <Codelists_2020>EetlustScoreCodelijst</Codelists_2020>
     <Bits>ZIB-931</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4006004 SNAQScore EetlustScore]</TRANSLATIE_spec_heen>
@@ -95,7 +95,7 @@
     <ConceptName_2020>VoedingsScore</ConceptName_2020>
     <Codelists_2020>VoedingsScoreCodelijst</Codelists_2020>
     <Bits>ZIB-931</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [4006005 SNAQScore VoedingsScore]</TRANSLATIE_spec_heen>

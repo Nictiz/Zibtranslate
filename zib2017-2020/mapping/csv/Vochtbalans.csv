@@ -1,10 +1,10 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 Vochtbalans,NL-CM:12.15.1,Vochtbalans,,oranje: minor change,NL-CM:12.15.1,Vochtbalans,,"
-ZIB-1188",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [710853006 Evaluatie van vochtbalans],Medium,SCT DefinitionCode [710853006 Evaluatie van vochtbalans]-> [blank]
+ZIB-1188",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [710853006 Evaluatie van vochtbalans],Medium,SCT DefinitionCode [710853006 Evaluatie van vochtbalans]-> [blank]
 Vochtbalans,NL-CM:12.15.2,VochtbalansStarttijd,,oranje: minor change,NL-CM:12.15.2,VochtbalansStarttijd,,"
-ZIB-1188",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [442371002 Start time of procedure],Medium,SCT DefinitionCode [442371002 Start time of procedure]-> [blank]
+ZIB-1188",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [442371002 Start time of procedure],Medium,SCT DefinitionCode [442371002 Start time of procedure]-> [blank]
 Vochtbalans,NL-CM:12.15.3,VochtbalansStoptijd,,oranje: minor change,NL-CM:12.15.3,VochtbalansStoptijd,,"
-ZIB-1188",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [442137000 Completion time of procedure],Medium,SCT DefinitionCode [442137000 Completion time of procedure]-> [blank]
+ZIB-1188",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [442137000 Completion time of procedure],Medium,SCT DefinitionCode [442137000 Completion time of procedure]-> [blank]
 Vochtbalans,NL-CM:12.15.4,VochtTotaalIn,,groen: geen wijzigingen,NL-CM:12.15.4,VochtTotaalIn,,,,,,,,
 Vochtbalans,NL-CM:12.15.5,VochtTotaalUit,,groen: geen wijzigingen,NL-CM:12.15.5,VochtTotaalUit,,,,,,,,
 Vochtbalans,NL-CM:12.15.6,Toelichting,,groen: geen wijzigingen,NL-CM:12.15.6,Toelichting,,,,,,,,

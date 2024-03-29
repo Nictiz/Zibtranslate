@@ -135,7 +135,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [4028004 StrongKidsScore ZiekteBeeldScore]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [4028004 StrongKidsScore ZiekteBeeldScore]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -266,12 +266,12 @@ TestCodeNHGCodelijst</Codelists_2020>
     <ConceptName_2020>Monstermateriaal</ConceptName_2020>
     <Codelists_2020>MonstermateriaalCodelijst</Codelists_2020>
     <Bits>ZIB-645</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode  [blank] -&gt; [127454002 Device specimen]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode  [blank] -&gt; [127454002 Device specimen]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode  [127454002 Device specimen] -&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [127454002 Device specimen] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -407,7 +407,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [4028008 StrongKidsScore VoedingstoestandScore]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [4028008 StrongKidsScore VoedingstoestandScore]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -453,12 +453,12 @@ TestCodeNHGCodelijst</Codelists_2020>
     <ConceptName_2020>AnatomischeLocatie::AnatomischeLocatie</ConceptName_2020>
     <Codelists_2020>AnatomischeLocatieCodelijst</Codelists_2020>
     <Bits>ZIB-645</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [118169006 Specimen source topography] -&gt; [405814001 Procedure site - Indirect]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [118169006 Specimen source topography] -&gt; [405814001 Procedure site - Indirect]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode  [405814001 Procedure site - Indirect] -&gt; AnatomischeLocatie [118169006 Specimen source topography] </TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [405814001 Procedure site - Indirect] -&gt; AnatomischeLocatie [118169006 Specimen source topography] </TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -504,12 +504,12 @@ TestCodeNHGCodelijst</Codelists_2020>
     <ConceptName_2020>BronMonster</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-645</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode  [118170007 Specimen source identity] -&gt; [127454002 Device specimen]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode  [118170007 Specimen source identity] -&gt; [127454002 Device specimen]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode  [127454002 Device specimen] -&gt; [118170007 Specimen source identity]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode  [127454002 Device specimen] -&gt; [118170007 Specimen source identity]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>

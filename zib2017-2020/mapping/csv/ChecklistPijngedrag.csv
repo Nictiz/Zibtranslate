@@ -1,27 +1,27 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 ChecklistPijngedrag,NL-CM:12.17.1,ChecklistPijnGedrag,,oranje: minor change,NL-CM:12.17.1,ChecklistPijnGedrag,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [108331000146104 Pain Behaviour Checklist],Medium,SCT DefinitionCode [108331000146104 Pain Behaviour Checklist] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [108331000146104 Pain Behaviour Checklist],Medium,SCT DefinitionCode [108331000146104 Pain Behaviour Checklist] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.2,TotaalScore,,oranje: minor change,NL-CM:12.17.2,TotaalScore,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [48981000146100 Pain Behaviour Checklist total score],Medium,SCT DefinitionCode [48981000146100 Pain Behaviour Checklist total score] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [48981000146100 Pain Behaviour Checklist total score],Medium,SCT DefinitionCode [48981000146100 Pain Behaviour Checklist total score] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.3,Gezicht,,oranje: minor change,NL-CM:12.17.3,Gezicht,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017003 ChecklistPijnGedrag Gezicht],Medium,SCT DefinitionCode [12017003 ChecklistPijnGedrag Gezicht] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017003 ChecklistPijnGedrag Gezicht],Medium,SCT DefinitionCode [12017003 ChecklistPijnGedrag Gezicht] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.4,Mond,,oranje: minor change,NL-CM:12.17.4,Mond,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017004 ChecklistPijnGedrag Mond],Medium,SCT DefinitionCode [12017004 ChecklistPijnGedrag Mond] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017004 ChecklistPijnGedrag Mond],Medium,SCT DefinitionCode [12017004 ChecklistPijnGedrag Mond] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.5,Grimas,,oranje: minor change,NL-CM:12.17.5,Grimas,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017005 ChecklistPijnGedrag Grimas],Medium,SCT DefinitionCode [12017005 ChecklistPijnGedrag Grimas] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017005 ChecklistPijnGedrag Grimas],Medium,SCT DefinitionCode [12017005 ChecklistPijnGedrag Grimas] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.6,VerdrietigeBlik,,oranje: minor change,NL-CM:12.17.6,VerdrietigeBlik,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017006 ChecklistPijnGedrag VerdrietigeBlik],Medium,SCT DefinitionCode [12017006 ChecklistPijnGedrag VerdrietigeBlik] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017006 ChecklistPijnGedrag VerdrietigeBlik],Medium,SCT DefinitionCode [12017006 ChecklistPijnGedrag VerdrietigeBlik] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.7,Ogen,,oranje: minor change,NL-CM:12.17.7,Ogen,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017007 ChecklistPijnGedrag Ogen],Medium,SCT DefinitionCode [12017007 ChecklistPijnGedrag Ogen] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017007 ChecklistPijnGedrag Ogen],Medium,SCT DefinitionCode [12017007 ChecklistPijnGedrag Ogen] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.8,Paniek,,oranje: minor change,NL-CM:12.17.8,Paniek,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017008 ChecklistPijnGedrag Paniek],Medium,SCT DefinitionCode [12017008 ChecklistPijnGedrag Paniek] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017008 ChecklistPijnGedrag Paniek],Medium,SCT DefinitionCode [12017008 ChecklistPijnGedrag Paniek] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.9,Kreunen,,oranje: minor change,NL-CM:12.17.9,Kreunen,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017009 ChecklistPijnGedrag Kreunen],Medium,SCT DefinitionCode [12017009 ChecklistPijnGedrag Kreunen] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017009 ChecklistPijnGedrag Kreunen],Medium,SCT DefinitionCode [12017009 ChecklistPijnGedrag Kreunen] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.10,Huilen,,oranje: minor change,NL-CM:12.17.10,Huilen,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017010 ChecklistPijnGedrag Huilen],Medium,SCT DefinitionCode [12017010 ChecklistPijnGedrag Huilen] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017010 ChecklistPijnGedrag Huilen],Medium,SCT DefinitionCode [12017010 ChecklistPijnGedrag Huilen] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.11,Onrustgeluiden,,oranje: minor change,NL-CM:12.17.11,Onrustgeluiden,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017011 ChecklistPijnGedrag Onrustgeluiden],Medium,SCT DefinitionCode [12017011 ChecklistPijnGedrag Onrustgeluiden] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017011 ChecklistPijnGedrag Onrustgeluiden],Medium,SCT DefinitionCode [12017011 ChecklistPijnGedrag Onrustgeluiden] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.12,Tranen,,oranje: minor change,NL-CM:12.17.12,Tranen,,"
-ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017012 ChecklistPijnGedrag Tranen],Medium,SCT DefinitionCode [12017012 ChecklistPijnGedrag Tranen] -> [blank]
+ZIB-923",SNOMED CT DefinitionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [12017012 ChecklistPijnGedrag Tranen],Medium,SCT DefinitionCode [12017012 ChecklistPijnGedrag Tranen] -> [blank]
 ChecklistPijngedrag,NL-CM:12.17.13,ScoreDatumTijd,,groen: geen wijzigingen,NL-CM:12.17.13,ScoreDatumTijd,,,,,,,,
 ChecklistPijngedrag,NL-CM:12.17.14,Toelichting,,groen: geen wijzigingen,NL-CM:12.17.14,Toelichting,,,,,,,,

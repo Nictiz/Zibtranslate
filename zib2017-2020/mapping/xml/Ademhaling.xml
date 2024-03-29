@@ -10,12 +10,12 @@
     <ConceptName_2020>Ademhaling</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-924</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [422834003 Evaluatie van ademhaling]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [422834003 Evaluatie van ademhaling]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [422834003 Evaluatie van ademhaling] -&gt; [blank]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [422834003 Evaluatie van ademhaling] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Ademhaling</ZibName>
@@ -197,12 +197,12 @@
     <ConceptName_2020>ExtraZuurstofToediening</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-924</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [16206004 Zuurstoftoevoer]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [16206004 Zuurstoftoevoer]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [16206004 Zuurstoftoevoer] -&gt; [blank] </TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [16206004 Zuurstoftoevoer] -&gt; [blank] </TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Ademhaling</ZibName>

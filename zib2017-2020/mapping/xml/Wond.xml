@@ -200,9 +200,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [401238003 Length of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39126-8 Duur [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [401238003 Length of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39126-8 Duur [lengte] in wond]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401238003 Length of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [401238003 Length of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -217,9 +217,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [401239006 Width of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39125-0 Breedte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [401239006 Width of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39125-0 Breedte [lengte] in wond]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401239006 Width of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [401239006 Width of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -234,9 +234,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [425094009 Depth of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39127-6 Diepte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [425094009 Depth of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39127-6 Diepte [lengte] in wond]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [425094009 Depth of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [425094009 Depth of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>

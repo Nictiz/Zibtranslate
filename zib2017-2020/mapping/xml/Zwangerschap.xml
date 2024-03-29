@@ -10,7 +10,7 @@
     <ConceptName_2020>Zwangerschap</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-1201</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [364320009 Pregnancy observable] -&gt; [118185001 bevinding betreffende zwangerschap]</TRANSLATIE_spec_heen>
@@ -81,9 +81,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [161732006 Gravida]; LOINC DefintionCode[11996-6 Pregnancies] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [161732006 Gravida]; LOINC DefinitionCode[11996-6 Pregnancies] -&gt;[blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [161732006 Gravida] -&gt;[blank] ; LOINC DefintionCode [blank] -&gt; [11996-6 Pregnancies]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [161732006 Gravida] -&gt;[blank] ; LOINC DefinitionCode [blank] -&gt; [11996-6 Pregnancies]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Zwangerschap</ZibName>
@@ -98,9 +98,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [364325004 Pariteit]; LOINC DefintionCode[11977-6 Parity] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [364325004 Pariteit]; LOINC DefinitionCode[11977-6 Parity] -&gt;[blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [364325004 Pariteit] -&gt; [blank] ; LOINC DefintionCode [blank] -&gt; [11977-6 Parity]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [364325004 Pariteit] -&gt; [blank] ; LOINC DefinitionCode [blank] -&gt; [11977-6 Parity]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Zwangerschap</ZibName>
@@ -115,9 +115,9 @@
     <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [161714006 Estimated date of delivery]; LOINC DefintionCode[11778-8 Delivery date Estimated] -&gt;[blank]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [161714006 Estimated date of delivery]; LOINC DefinitionCode[11778-8 Delivery date Estimated] -&gt;[blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [161714006 Estimated date of delivery] -&gt; [blank] ; LOINC DefintionCode [blank] -&gt; [11778-8 Delivery date Estimated]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [161714006 Estimated date of delivery] -&gt; [blank] ; LOINC DefinitionCode [blank] -&gt; [11778-8 Delivery date Estimated]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Zwangerschap</ZibName>

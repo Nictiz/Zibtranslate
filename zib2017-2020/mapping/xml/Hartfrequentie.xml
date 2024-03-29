@@ -10,7 +10,7 @@
     <ConceptName_2020>Hartfrequentie</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-1179</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [106066004 Bevinding betreffende hartritme en/of hartfrequentie]</TRANSLATIE_spec_heen>
@@ -27,7 +27,7 @@
     <ConceptName_2020>HartfrequentieWaarde</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-1179</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [364075005 Hartslagfrequentie]</TRANSLATIE_spec_heen>
@@ -78,7 +78,7 @@
     <ConceptName_2020>HartslagRegelmatigheid</ConceptName_2020>
     <Codelists_2020>HartslagRegelmatigheidCodelijst</Codelists_2020>
     <Bits>ZIB-1179</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [301112006 Bevinding betreffende hartritme]</TRANSLATIE_spec_heen>
@@ -112,7 +112,7 @@
     <ConceptName_2020>HartslagMeetMethode</ConceptName_2020>
     <Codelists_2020>HartslagMeetMethodeCodelijst</Codelists_2020>
     <Bits>ZIB-1179</Bits>
-    <Omschrijving>SNOMED CT DefintionCode concept aangepast</Omschrijving>
+    <Omschrijving>SNOMED CT DefinitionCode concept aangepast</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefinitionCode [blank] -&gt; [315306007 Onderzoek per methode]</TRANSLATIE_spec_heen>

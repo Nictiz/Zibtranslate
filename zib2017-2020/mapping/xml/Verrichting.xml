@@ -168,7 +168,7 @@
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [308552006 Status van verslag]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [blank] -&gt; [308552006 Status van verslag]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Verrichting</ZibName>
@@ -202,7 +202,7 @@
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] -&gt; [423100009 Results section]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefinitionCode [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] -&gt; [423100009 Results section]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Verrichting</ZibName>
