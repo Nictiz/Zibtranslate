@@ -2,11 +2,9 @@
 ## File formats
 
 The translation specs are available as: 
-[CSV](../csv/Verstrekkingsverzoek.csv) [JSON](../json/Verstrekkingsverzoek.json) [XML](../xml/Verstrekkingsverzoek.xml) [Excel](../excel/Verstrekkingsverzoek.xlsx)
+[CSV](../csv/Verstrekkingsverzoek.csv) [JSON](../json/Verstrekkingsverzoek.json) [XML](../xml/Verstrekkingsverzoek.xml)
 
 
-
-## Zib Verstrekkingsverzoek
 
 [Verstrekkingsverzoek-v1.0.1(2017NL)](https://zibs.nl/wiki/Verstrekkingsverzoek-v1.0.1(2017NL))
 
@@ -28,7 +26,7 @@ The translation specs are available as:
 
 ## Mapping
 
-| ConceptID_2017                   | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020                   | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
-|:---------------------------------|:-------------------|:-----------------|:---------|:---------------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
-| Medicatie zibs momenteel on hold |                    |                  |          | Medicatie zibs momenteel on hold |                    |                  |        |                |              |               |                        |                |                         |
+| ZibName              | ConceptID_2017                   | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020                   | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
+|:---------------------|:---------------------------------|:-------------------|:-----------------|:---------|:---------------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
+| Verstrekkingsverzoek | Medicatie zibs momenteel on hold |                    |                  |          | Medicatie zibs momenteel on hold |                    |                  |        |                |              |               |                        |                |                         |
 

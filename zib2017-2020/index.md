@@ -51,7 +51,6 @@
 * [ Lichaamstemperatuur](mapping/md/Lichaamstemperatuur.md)
 * [ MUSTScore](mapping/md/MUSTScore.md)
 * [ MedicatieContraIndicatie](mapping/md/MedicatieContraIndicatie.md)
-* [ MedicatieGebruik2](mapping/md/MedicatieGebruik2.md)
 * [ MedicatieToediening2](mapping/md/MedicatieToediening2.md)
 * [ Medicatieafspraak](mapping/md/Medicatieafspraak.md)
 * [ Medicatieverstrekking](mapping/md/Medicatieverstrekking.md)

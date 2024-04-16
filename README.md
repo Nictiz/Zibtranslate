@@ -34,7 +34,7 @@ Voor de verschillende typen wijzigingen en bijbehorende translatieregels, zie [d
 | * groen| geen wijziging op concept |
 | * geel| patchwijziging (geen wijziging met impact op het informatiemodel van de zib)|
 | * oranje | minor change
-| * rood| major change, niet backward-compatibel of geheel nieuwe zib |
+| * rood| major change, niet 'backward-compatibel' of geheel nieuwe zib |
 | **ConceptID_2020** | NL-CM code van het concept van het informatiemodel van de zib |
 | **ConceptName_2020**| Nederlandse naam van het concept |
 | **Codelists_2020**| de naam van de waardenlijst (indien een _CO_ of _CD_ datatype) 

@@ -2,11 +2,9 @@
 ## File formats
 
 The translation specs are available as: 
-[CSV](../csv/GebruiksInstructie.csv) [JSON](../json/GebruiksInstructie.json) [XML](../xml/GebruiksInstructie.xml) [Excel](../excel/GebruiksInstructie.xlsx)
+[CSV](../csv/GebruiksInstructie.csv) [JSON](../json/GebruiksInstructie.json) [XML](../xml/GebruiksInstructie.xml)
 
 
-
-## Zib GebruiksInstructie
 
 [GebruiksInstructie-v1.1(2017NL)](https://zibs.nl/wiki/GebruiksInstructie-v1.1(2017NL))
 
@@ -28,7 +26,7 @@ The translation specs are available as:
 
 ## Mapping
 
-| ConceptID_2017                   | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020                   | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
-|:---------------------------------|:-------------------|:-----------------|:---------|:---------------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
-| Medicatie zibs momenteel on hold |                    |                  |          | Medicatie zibs momenteel on hold |                    |                  |        |                |              |               |                        |                |                         |
+| ZibName            | ConceptID_2017                   | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020                   | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
+|:-------------------|:---------------------------------|:-------------------|:-----------------|:---------|:---------------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
+| GebruiksInstructie | Medicatie zibs momenteel on hold |                    |                  |          | Medicatie zibs momenteel on hold |                    |                  |        |                |              |               |                        |                |                         |
 

@@ -2,11 +2,9 @@
 ## File formats
 
 The translation specs are available as: 
-[CSV](../csv/ZorgTeam.csv) [JSON](../json/ZorgTeam.json) [XML](../xml/ZorgTeam.xml) [Excel](../excel/ZorgTeam.xlsx)
+[CSV](../csv/ZorgTeam.csv) [JSON](../json/ZorgTeam.json) [XML](../xml/ZorgTeam.xml)
 
 
-
-## Zib ZorgTeam
 
 [nieuw in 2020](nieuw in 2020)
 
@@ -28,7 +26,7 @@ The translation specs are available as:
 
 ## Mapping
 
-| ConceptID_2017             | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020             | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
-|:---------------------------|:-------------------|:-----------------|:---------|:---------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
-| **zib toegevoegd in 2020** |                    |                  |          | **zib toegevoegd in 2020** |                    |                  |        |                |              |               |                        |                |                         |
+| ZibName   | ConceptID_2017             | ConceptName_2017   | Codelists_2017   | Change   | ConceptID_2020             | ConceptName_2020   | Codelists_2020   | Bits   | Omschrijving   | TypeChange   | Impact_heen   | TRANSLATIE_spec_heen   | Impact_terug   | TRANSLATIE_spec_terug   |
+|:----------|:---------------------------|:-------------------|:-----------------|:---------|:---------------------------|:-------------------|:-----------------|:-------|:---------------|:-------------|:--------------|:-----------------------|:---------------|:------------------------|
+| ZorgTeam  | **zib toegevoegd in 2020** |                    |                  |          | **zib toegevoegd in 2020** |                    |                  |        |                |              |               |                        |                |                         |
 
