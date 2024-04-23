@@ -5,7 +5,7 @@
     <ConceptID_2017>NL-CM:9.8.20132</ConceptID_2017>
     <ConceptName_2017>Toedieningsafspraak</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.8.20132</ConceptID_2020>
     <ConceptName_2020>Toedieningsafspraak</ConceptName_2020>
     <Codelists_2020/>
@@ -39,7 +39,7 @@
     <ConceptID_2017>NL-CM:9.8.20237</ConceptID_2017>
     <ConceptName_2017>GeneesmiddelBijToedieningsAfspraak::FarmaceutischProduct</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.8.20237</ConceptID_2020>
     <ConceptName_2020>GeneesmiddelBijToedieningsAfspraak::FarmaceutischProduct</ConceptName_2020>
     <Codelists_2020/>
@@ -124,7 +124,7 @@
     <ConceptID_2017>NL-CM:9.8.22498</ConceptID_2017>
     <ConceptName_2017>ToediengingsafspraakStopType</ConceptName_2017>
     <Codelists_2017>ToedieningsafspraakStopTypeCodelijst</Codelists_2017>
-    <Change>oranje: minor</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.8.22498</ConceptID_2020>
     <ConceptName_2020>ToedieningsafspraakStopType</ConceptName_2020>
     <Codelists_2020>ToedieningsafspraakStopTypeCodelijst</Codelists_2020>
@@ -141,7 +141,7 @@
     <ConceptID_2017>NL-CM:9.8.22498</ConceptID_2017>
     <ConceptName_2017>ToediengingsafspraakStopType</ConceptName_2017>
     <Codelists_2017>ToedieningsafspraakStopTypeCodelijst</Codelists_2017>
-    <Change>oranje: minor</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.8.22498</ConceptID_2020>
     <ConceptName_2020>ToedieningsafspraakStopType</ConceptName_2020>
     <Codelists_2020>ToedieningsafspraakStopTypeCodelijst</Codelists_2020>
@@ -158,7 +158,7 @@
     <ConceptID_2017>NL-CM:9.8.22499</ConceptID_2017>
     <ConceptName_2017>RedenAfspraak</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.8.22499</ConceptID_2020>
     <ConceptName_2020>RedenAfspraak</ConceptName_2020>
     <Codelists_2020/>

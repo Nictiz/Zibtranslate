@@ -5,7 +5,7 @@
     <ConceptID_2017>NL-CM:9.6.1030</ConceptID_2017>
     <ConceptName_2017>Voorschrijver::Zorgverlener</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.1030</ConceptID_2020>
     <ConceptName_2020>Voorschrijver::Zorgverlener</ConceptName_2020>
     <Codelists_2020/>
@@ -22,7 +22,7 @@
     <ConceptID_2017>NL-CM:9.6.19757</ConceptID_2017>
     <ConceptName_2017>MedicatieafspraakDatumTijd</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.19757</ConceptID_2020>
     <ConceptName_2020>MedicatieafspraakDatumTijd</ConceptName_2020>
     <Codelists_2020/>
@@ -39,7 +39,7 @@
     <ConceptID_2017>NL-CM:9.6.19925</ConceptID_2017>
     <ConceptName_2017>Afgesprokengeneesmiddel::FarmaceutischProduct</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.19925</ConceptID_2020>
     <ConceptName_2020>Afgesprokengeneesmiddel::FarmaceutischProduct</ConceptName_2020>
     <Codelists_2020/>
@@ -56,7 +56,7 @@
     <ConceptID_2017>NL-CM:9.6.19936</ConceptID_2017>
     <ConceptName_2017>Gebruiksperiode::TijdsInterval</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.19936</ConceptID_2020>
     <ConceptName_2020>Gebruiksperiode::TijdsInterval</ConceptName_2020>
     <Codelists_2020/>
@@ -73,7 +73,7 @@
     <ConceptID_2017>NL-CM:9.6.19954</ConceptID_2017>
     <ConceptName_2017>MedicatieafspraakStopType</ConceptName_2017>
     <Codelists_2017>MedicatieafspraakStopTypeCodelijst</Codelists_2017>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.19954</ConceptID_2020>
     <ConceptName_2020>MedicatieafspraakStopType</ConceptName_2020>
     <Codelists_2020>MedicatieafspraakStopTypeCodelijst</Codelists_2020>
@@ -90,7 +90,7 @@
     <ConceptID_2017>NL-CM:9.6.22273</ConceptID_2017>
     <ConceptName_2017>Toelichting</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.22273</ConceptID_2020>
     <ConceptName_2020>Toelichting</ConceptName_2020>
     <Codelists_2020/>
@@ -107,7 +107,7 @@
     <ConceptID_2017>NL-CM:9.6.19954</ConceptID_2017>
     <ConceptName_2017>MedicatieafspraakStopType</ConceptName_2017>
     <Codelists_2017>MedicatieafspraakStopTypeCodelijst</Codelists_2017>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.19954</ConceptID_2020>
     <ConceptName_2020>MedicatieafspraakStopType</ConceptName_2020>
     <Codelists_2020>MedicatieafspraakStopTypeCodelijst</Codelists_2020>
@@ -127,7 +127,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23240</ConceptID_2017>
     <ConceptName_2017>Gebruiksinstructie</ConceptName_2017>
     <Codelists_2017/>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.23240</ConceptID_2020>
     <ConceptName_2020>Gebruiksinstructie</ConceptName_2020>
     <Codelists_2020/>
@@ -144,7 +144,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23283</ConceptID_2017>
     <ConceptName_2017>MedicatieafspraakAanvullendeInformatie</ConceptName_2017>
     <Codelists_2017>MedicatieafspraakAanvullendeInformatieCodelijst</Codelists_2017>
-    <Change>groen: geen wijziging</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:9.6.23283</ConceptID_2020>
     <ConceptName_2020>MedicatieafspraakAanvullendeInformatie</ConceptName_2020>
     <Codelists_2020>MedicatieafspraakAanvullendeInformatieCodelijst</Codelists_2020>
@@ -161,7 +161,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.22094</ConceptID_2017>
     <ConceptName_2017>RedenMedicatieafspraak</ConceptName_2017>
     <Codelists_2017>RedenMedicatieafspraakCodelijst</Codelists_2017>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.22094</ConceptID_2020>
     <ConceptName_2020>RedenMedicatieafspraak</ConceptName_2020>
     <Codelists_2020>RedenMedicatieafspraakCodelijst</Codelists_2020>
@@ -178,7 +178,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23133</ConceptID_2017>
     <ConceptName_2017>RedenVanVoorschrijven::Probleem</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.23133</ConceptID_2020>
     <ConceptName_2020>RedenVanVoorschrijven::Probleem</ConceptName_2020>
     <Codelists_2020/>
@@ -195,7 +195,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.9580</ConceptID_2017>
     <ConceptName_2017>Medicatieafspraak</ConceptName_2017>
     <Codelists_2017/>
-    <Change>oranje: minor wijziging</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:9.6.9580</ConceptID_2020>
     <ConceptName_2020>Medicatieafspraak</ConceptName_2020>
     <Codelists_2020/>
@@ -212,7 +212,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23023</ConceptID_2017>
     <ConceptName_2017>Lichaamslengte</ConceptName_2017>
     <Codelists_2017/>
-    <Change>rood: major wijziging</Change>
+    <Change>rood: major change</Change>
     <ConceptID_2020/>
     <ConceptName_2020/>
     <Codelists_2020/>
@@ -229,7 +229,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23028</ConceptID_2017>
     <ConceptName_2017>Lichaamsgewicht</ConceptName_2017>
     <Codelists_2017/>
-    <Change>rood: major wijziging</Change>
+    <Change>rood: major change</Change>
     <ConceptID_2020/>
     <ConceptName_2020/>
     <Codelists_2020/>
@@ -246,7 +246,7 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <ConceptID_2017>NL-CM:9.6.23033</ConceptID_2017>
     <ConceptName_2017>GeannuleerdIndicator</ConceptName_2017>
     <Codelists_2017/>
-    <Change>rood: major wijziging</Change>
+    <Change>rood: major change</Change>
     <ConceptID_2020/>
     <ConceptName_2020/>
     <Codelists_2020/>
