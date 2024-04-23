@@ -113,7 +113,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptID_2020>NL-CM:12.4.7</ConceptID_2020>
     <ConceptName_2020>Meetmethode</ConceptName_2020>
     <Codelists_2020>MeetmethodeCodelijst</Codelists_2020>
-    <Bits/>
+    <Bits>ZIB-962</Bits>
     <Omschrijving>2 extra items toegevoegd aan MeetmethodeCodelijst.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
@@ -164,7 +164,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptID_2020>NL-CM:12.4.10</ConceptID_2020>
     <ConceptName_2020>MeetLocatie</ConceptName_2020>
     <Codelists_2020>MeetLocatieCodelijst</Codelists_2020>
-    <Bits>ZIB-962</Bits>
+    <Bits/>
     <Omschrijving/>
     <TypeChange>NO CHANGE</TypeChange>
     <Impact_heen/>
