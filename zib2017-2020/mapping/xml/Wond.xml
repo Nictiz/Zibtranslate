@@ -149,9 +149,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [WondAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [WondAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]-&gt;[WondAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[WondAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -197,12 +197,12 @@
     <ConceptName_2020>Wondlengte</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-903</Bits>
-    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [401238003 Length of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39126-8 Duur [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [401238003 Length of wound] -&gt; [blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401238003 Length of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401238003 Length of wound]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -214,12 +214,12 @@
     <ConceptName_2020>Wondbreedte</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-903</Bits>
-    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [401239006 Width of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39125-0 Breedte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [401239006 Width of wound] -&gt; [blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401239006 Width of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [401239006 Width of wound]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -231,12 +231,63 @@
     <ConceptName_2020>Wonddiepte</ConceptName_2020>
     <Codelists_2020/>
     <Bits>ZIB-903</Bits>
-    <Omschrijving>SNOMED CT en LOINC DefintionCodes concept aangepast</Omschrijving>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>SCT DefintionCode [425094009 Depth of wound] -&gt; [blank];LOINC DefinitionCode [blank] -&gt; [39127-6 Diepte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>SCT DefintionCode [425094009 Depth of wound] -&gt; [blank]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [425094009 Depth of wound];[@[TRANSLATIE_specificatie_2020&gt;2017]]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [425094009 Depth of wound]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Wond</ZibName>
+    <ConceptID_2017>NL-CM:19.2.12</ConceptID_2017>
+    <ConceptName_2017>Wondlengte</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:19.2.12</ConceptID_2020>
+    <ConceptName_2020>Wondlengte</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-903</Bits>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>LOINC DefinitionCode [blank] -&gt; [39126-8 Duur [lengte] in wond]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>LOINC DefinitionCode[39126-8 Duur [lengte] in wond]-&gt; [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Wond</ZibName>
+    <ConceptID_2017>NL-CM:19.2.13</ConceptID_2017>
+    <ConceptName_2017>Wondbreedte</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:19.2.13</ConceptID_2020>
+    <ConceptName_2020>Wondbreedte</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-903</Bits>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>LOINC DefinitionCode [blank] -&gt; [39125-0 Breedte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>LOINC  [39125-0 Breedte [lengte] in wond]-&gt;DefinitionCode [blank]</TRANSLATIE_spec_terug>
+  </row>
+  <row>
+    <ZibName>Wond</ZibName>
+    <ConceptID_2017>NL-CM:19.2.14</ConceptID_2017>
+    <ConceptName_2017>Wonddiepte</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>oranje: minor change</Change>
+    <ConceptID_2020>NL-CM:19.2.14</ConceptID_2020>
+    <ConceptName_2020>Wonddiepte</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits>ZIB-903</Bits>
+    <Omschrijving>De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond</Omschrijving>
+    <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
+    <Impact_heen>Medium</Impact_heen>
+    <TRANSLATIE_spec_heen>LOINC DefinitionCode [blank] -&gt; [39127-6 Diepte [lengte] in wond]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>LOINC [39127-6 Diepte [lengte] in wond]-&gt;DefinitionCode [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Wond</ZibName>
@@ -285,8 +336,8 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [WondLateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [WondLateraliteitCodelijst]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]-&gt;[WondLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[WondLateraliteitCodelijst]</TRANSLATIE_spec_terug>
   </row>
 </data>

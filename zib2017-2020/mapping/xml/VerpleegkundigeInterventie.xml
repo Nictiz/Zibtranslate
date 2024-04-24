@@ -28,7 +28,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -62,7 +62,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -79,7 +79,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -96,7 +96,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -113,7 +113,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -130,7 +130,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -147,7 +147,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -166,7 +166,7 @@
     <Omschrijving>Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. </Omschrijving>
     <TypeChange>CONCEPT REMOVED</TypeChange>
     <Impact_heen>High</Impact_heen>
-    <TRANSLATIE_spec_heen/>
+    <TRANSLATIE_spec_heen>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger]</TRANSLATIE_spec_heen>
     <Impact_terug>Low</Impact_terug>
     <TRANSLATIE_spec_terug/>
   </row>
@@ -183,7 +183,7 @@
     <Omschrijving>Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. </Omschrijving>
     <TypeChange>CONCEPT REMOVED</TypeChange>
     <Impact_heen>High</Impact_heen>
-    <TRANSLATIE_spec_heen/>
+    <TRANSLATIE_spec_heen>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger]</TRANSLATIE_spec_heen>
     <Impact_terug>Low</Impact_terug>
     <TRANSLATIE_spec_terug/>
   </row>
@@ -232,7 +232,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -249,7 +249,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -266,7 +266,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -283,7 +283,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -300,7 +300,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -317,7 +317,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>

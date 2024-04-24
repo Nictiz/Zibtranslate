@@ -11,7 +11,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -28,7 +28,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -45,7 +45,7 @@
     <Codelists_2020>TestCodeLOINCCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -62,7 +62,7 @@
     <Codelists_2020>OnderzoekCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -79,7 +79,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -96,7 +96,7 @@
     <Codelists_2020>ResultaatStatusCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -113,7 +113,7 @@
     <Codelists_2020>ResultaatTypeCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -123,32 +123,31 @@
     <ZibName>LaboratoriumUitslag</ZibName>
     <ConceptID_2017>NL-CM:13.1.8</ConceptID_2017>
     <ConceptName_2017>TestCode</ConceptName_2017>
-    <Codelists_2017>TestmethodeCodelijst</Codelists_2017>
+    <Codelists_2017/>
     <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:13.1.8</ConceptID_2020>
     <ConceptName_2020>TestCode</ConceptName_2020>
-    <Codelists_2020>TestCodeLOINCCodelijst
-TestCodeNHGCodelijst</Codelists_2020>
+    <Codelists_2020>TestCodeLOINCCodelijst; TestCodeNHGCodelijst</Codelists_2020>
     <Bits>ZIB-910 ; ZIB-639</Bits>
     <Omschrijving>Waardelijst aangepast. ingeperkt van heel LOINC naar de LOINC codes van de Nederlandse Labcodeset en NHG Tabel 45 als optie voor de eerste lijn toegevoegd.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [4028004 StrongKidsScore ZiekteBeeldScore]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
     <ConceptID_2017>NL-CM:13.1.9</ConceptID_2017>
     <ConceptName_2017>Testmethode</ConceptName_2017>
-    <Codelists_2017/>
+    <Codelists_2017>TestmethodeCodelijst</Codelists_2017>
     <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:13.1.9</ConceptID_2020>
     <ConceptName_2020>Testmethode</ConceptName_2020>
     <Codelists_2020>TestmethodeCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -165,7 +164,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -182,7 +181,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -199,7 +198,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -216,7 +215,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -352,7 +351,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020>ContainerTypeCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -369,7 +368,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -407,7 +406,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [blank] -&gt; [4028008 StrongKidsScore VoedingstoestandScore]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -420,7 +419,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -439,9 +438,9 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [MonsterAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [MonsterAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]-&gt;[MonsterAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[MonsterAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -473,9 +472,9 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [LateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [LateraliteitCodelijst]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>LaboratoriumUitslag</ZibName>
@@ -488,7 +487,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -522,7 +521,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020>InterpretatieMethodeCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -539,7 +538,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020>TestUitslagStatusCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -556,7 +555,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -573,7 +572,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -590,7 +589,7 @@ TestCodeNHGCodelijst</Codelists_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>

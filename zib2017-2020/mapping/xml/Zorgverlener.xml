@@ -62,7 +62,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -79,7 +79,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -88,7 +88,7 @@
   <row>
     <ZibName>Zorgverlener</ZibName>
     <ConceptID_2017>NL-CM:17.1.5</ConceptID_2017>
-    <ConceptName_2017>ZorgverlenerRol</ConceptName_2017>
+    <ConceptName_2017>ZorgverlenersRol</ConceptName_2017>
     <Codelists_2017/>
     <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:17.1.5</ConceptID_2020>
@@ -97,9 +97,9 @@
     <Bits>ZIB-704</Bits>
     <Omschrijving>Naam van het dataelement ZorgverlenersRol is gewijzigd in ZorgverlenerRol</Omschrijving>
     <TypeChange>CONCEPT NAME CHANGED (NL)</TypeChange>
-    <Impact_heen>Medium</Impact_heen>
+    <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>ZorgverlenersRol-&gt;ZorgverlenerRol</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
+    <Impact_terug>low</Impact_terug>
     <TRANSLATIE_spec_terug>ZorgverlenerRol-&gt;ZorgverlenersRol</TRANSLATIE_spec_terug>
   </row>
   <row>
@@ -116,7 +116,7 @@
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
+    <Impact_terug>medium</Impact_terug>
     <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
   </row>
   <row>
@@ -130,7 +130,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>

@@ -30,7 +30,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -47,7 +47,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -64,7 +64,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -81,7 +81,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -98,7 +98,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -109,7 +109,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptID_2017>NL-CM:12.4.7</ConceptID_2017>
     <ConceptName_2017>Meetmethode</ConceptName_2017>
     <Codelists_2017>MeetmethodeCodelijst</Codelists_2017>
-    <Change>groen: geen wijzigingen</Change>
+    <Change>oranje: minor change</Change>
     <ConceptID_2020>NL-CM:12.4.7</ConceptID_2020>
     <ConceptName_2020>Meetmethode</ConceptName_2020>
     <Codelists_2020>MeetmethodeCodelijst</Codelists_2020>
@@ -132,7 +132,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -149,7 +149,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020>ManchetTypeCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -160,13 +160,13 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <ConceptID_2017>NL-CM:12.4.10</ConceptID_2017>
     <ConceptName_2017>MeetLocatie</ConceptName_2017>
     <Codelists_2017>MeetLocatieCodelijst</Codelists_2017>
-    <Change>oranje: minor change</Change>
+    <Change>groen: geen wijzigingen</Change>
     <ConceptID_2020>NL-CM:12.4.10</ConceptID_2020>
     <ConceptName_2020>MeetLocatie</ConceptName_2020>
     <Codelists_2020>MeetLocatieCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -183,7 +183,7 @@ LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>

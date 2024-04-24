@@ -15,7 +15,7 @@
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
-    <TRANSLATIE_spec_terug>SNOMED CT: 125666000 Brandwond</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Brandwond</ZibName>
@@ -64,9 +64,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [BrandwondAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]-&gt;[BrandwondAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Brandwond</ZibName>
@@ -149,9 +149,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [BrandwondLateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]-&gt;[BrandwondLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Brandwond</ZibName>
@@ -168,6 +168,6 @@
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug/>
+    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
   </row>
 </data>

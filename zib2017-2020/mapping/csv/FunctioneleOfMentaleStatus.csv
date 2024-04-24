@@ -1,5 +1,5 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
-FunctioneleOfMentaleStatus,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,groen: geen wijzigingen,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,,,NO CHANGE,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,groen: geen wijzigingen,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,,,,,,,
 FunctioneleOfMentaleStatus,NL-CM:4.26.2,StatusNaam,StatusNaamICFCodelijst ; StatusNaamNOCCodelijst ; StatusNaamOMAHACodelijst ; StatusNaamSnomedCodelijst,oranje: minor change,NL-CM:4.26.2,StatusNaam,StatusNaamICFCodelijst ; StatusNaamNOCCodelijst [deprecated] ; StatusNaamOMAHACodelijst [deprecated] ; StatusNaamSnomedCodelijst,ZIB-1110 ; ZIB-1156,NOC en OMAHA codelijsten deprecated,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 FunctioneleOfMentaleStatus,NL-CM:4.26.3,StatusWaarde,"StatusWaardeICFCodelijst
 StatusWaardeNOCCodelijst
@@ -9,6 +9,6 @@ StatusWaardeNOCCodelijst [deprecated]
 StatusWaardeOMAHACodelijst [deprecated]
 StatusWaardeSnomedCodelijst",ZIB-681,Tekst bij StatusWaarde aangepast,SIMPLE PATCH CHANGE,Low,,Low,
 FunctioneleOfMentaleStatus,NL-CM:4.26.3,StatusWaarde,StatusWaardeICFCodelijst ; StatusWaardeNOCCodelijst ; StatusWaardeOMAHACodelijst ; StatusWaardeSnomedCodelijst,oranje: minor change,NL-CM:4.26.3,StatusWaarde,StatusWaardeICFCodelijst ; StatusWaardeNOCCodelijst [deprecated] ; StatusWaardeOMAHACodelijst [deprecated] ; StatusWaardeSnomedCodelijst,ZIB-1110 ; ZIB-1156,NOC en OMAHA codelijsten deprecated. Defintie van concept gewijzigd. ,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-FunctioneleOfMentaleStatus,NL-CM:4.26.4,Toelichting,,groen: geen wijzigingen,NL-CM:4.26.4,Toelichting,,,,NO CHANGE,,,,
-FunctioneleOfMentaleStatus,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,,,NO CHANGE,,,,
-FunctioneleOfMentaleStatus,NL-CM:4.26.6,StatusDatum,,groen: geen wijzigingen,NL-CM:4.26.6,StatusDatum,,,,NO CHANGE,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.4,Toelichting,,groen: geen wijzigingen,NL-CM:4.26.4,Toelichting,,,,,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,,,,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.6,StatusDatum,,groen: geen wijzigingen,NL-CM:4.26.6,StatusDatum,,,,,,,,

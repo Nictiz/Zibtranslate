@@ -1,18 +1,18 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 MedischHulpmiddel,DCM::Issues,Issues,,geel: patch wijziging,DCM::Issues,Issues,,ZIB-673,tekstwijziging issue verwijderd,SIMPLE PATCH CHANGE,Low,,Low,
 MedischHulpmiddel,DCM::Issues,Issues,,geel: patch wijziging,DCM::Issues,Issues,,ZIB-1135,Tekst verwijderd,SIMPLE PATCH CHANGE,Low,,Low,
-MedischHulpmiddel,NL-CM:10.1.1,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.1.1,MedischHulpmiddel,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.1,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.1.1,MedischHulpmiddel,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.2,Product,,geel: patch wijziging,NL-CM:10.1.2,Product,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.3,ProductType,ProductTypeCodelijst,oranje: minor change,NL-CM:10.1.3,ProductType,ProductTypeCodelijst,ZIB-1536 ; ZIB-1586,"Waarden voor 'geen' toevoegen aan ProductTypeCodelist, OTH toegestaan bij ‘Required Binding'",VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 MedischHulpmiddel,NL-CM:10.1.4,ProductID,"GTINProductIDCodelijst
 HIBCProductIDCodelijst",groen: geen wijzigingen,NL-CM:10.1.4,ProductID,"GTINProductIDCodelijst
-HIBCProductIDCodelijst",,,NO CHANGE,,,,
+HIBCProductIDCodelijst",,,,,,,
 MedischHulpmiddel,NL-CM:10.1.6,AnatomischeLocatie,HulpmiddelAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:10.1.15,AnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HulpmiddelAnatomischeLocatieCodelijst]->[LocatieCodelijst ],Medium,codelist [LocatieCodelijst]->[HulpmiddelAnatomischeLocatieCodelijst]
-MedischHulpmiddel,NL-CM:10.1.7,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:10.1.7,Indicatie::Probleem,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.7,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:10.1.7,Indicatie::Probleem,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.8,Locatie::Zorgaanbieder,,geel: patch wijziging,NL-CM:10.1.8,Locatie::Zorgaanbieder,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.9,Zorgverlener,,geel: patch wijziging,NL-CM:10.1.9,Zorgverlener,,ZIB-673 ; ZIB-1120,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.10,Toelichting,,geel: patch wijziging,NL-CM:10.1.10,Toelichting,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.11,BeginDatum,,geel: patch wijziging,NL-CM:10.1.11,BeginDatum,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.12,Lateraliteit,MedischHulpmiddelLateraliteitCodelijst ,oranje: minor change,NL-CM:10.1.15,Lateraliteit::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [MedischHulpmiddelLateraliteitCodelijst ]->[LateraliteitCodelijst ],Medium,codelist [LateraliteitCodelijst]->[MedischHulpmiddelLateraliteitCodelijst ]
-MedischHulpmiddel,NL-CM:10.1.13,ProductOmschrijving,,groen: geen wijzigingen,NL-CM:10.1.13,ProductOmschrijving,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.13,ProductOmschrijving,,groen: geen wijzigingen,NL-CM:10.1.13,ProductOmschrijving,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.14,**concept toegevoegd in 2020**,,rood: major change,NL-CM:10.1.14,EindDatum,,ZIB-680,Toevoegen EindDatum bij zibs die ook BeginDatum kennen,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]

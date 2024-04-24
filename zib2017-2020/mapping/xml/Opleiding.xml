@@ -26,13 +26,13 @@
     <ConceptID_2020>NL-CM:7.10.2</ConceptID_2020>
     <ConceptName_2020>Schooltype</ConceptName_2020>
     <Codelists_2020>SchooltypeCBSCodelijst;SchooltypeCodelijst</Codelists_2020>
-    <Bits>ZIB-957 ; ZIB-1096</Bits>
+    <Bits>ZIB-957; ZIB-1096</Bits>
     <Omschrijving>Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen/>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug/>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Opleiding</ZibName>

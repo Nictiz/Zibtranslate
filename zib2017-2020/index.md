@@ -14,7 +14,6 @@
 * [ BehandelAanwijzing2](mapping/md/BehandelAanwijzing2.md)
 * [ Behandeldoel](mapping/md/Behandeldoel.md)
 * [ Bereik](mapping/md/Bereik.md)
-* [ Betaler](mapping/md/Betaler.md)
 * [ Blaasfunctie](mapping/md/Blaasfunctie.md)
 * [ Bloeddruk](mapping/md/Bloeddruk.md)
 * [ Brandwond](mapping/md/Brandwond.md)

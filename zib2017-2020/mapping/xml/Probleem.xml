@@ -28,7 +28,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -62,7 +62,7 @@
     <Codelists_2020>ProbleemStatusCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -79,7 +79,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -130,7 +130,7 @@
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -147,7 +147,7 @@
     <Codelists_2020>VerificatieStatusCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
-    <TypeChange>NO CHANGE</TypeChange>
+    <TypeChange/>
     <Impact_heen/>
     <TRANSLATIE_spec_heen/>
     <Impact_terug/>
@@ -166,9 +166,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [ProbleemAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [ProbleemAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]-&gt;[ProbleemAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[ProbleemAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Probleem</ZibName>
@@ -200,9 +200,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [ProbleemLateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>codelist [ProbleemLateraliteitCodelijst]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]-&gt;[ProbleemLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Probleem</ZibName>

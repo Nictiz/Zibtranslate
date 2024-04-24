@@ -12,9 +12,9 @@
     <Bits>ZIB-989</Bits>
     <Omschrijving>Toevoeging SNOMED CT code aan rootconcept.</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE</TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [422037009 Instrueren door zorgverlener over toediening van medicatie]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
+    <Impact_terug>medium</Impact_terug>
     <TRANSLATIE_spec_terug>SCT DefintionCode [422037009 Instrueren door zorgverlener over toediening van medicatie] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
@@ -148,10 +148,10 @@
     <Bits>ZIB-1454</Bits>
     <Omschrijving>De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
-    <Impact_heen>medium</Impact_heen>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug>medium</Impact_terug>
-    <TRANSLATIE_spec_terug/>
+    <Impact_heen>Low</Impact_heen>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Toedieningsafspraak</ZibName>
@@ -165,9 +165,9 @@
     <Bits>ZIB-888</Bits>
     <Omschrijving>SNOMED coderingen met medicatieproces gelijk getrokken</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE</TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [112231000146109 Reden van toedieningsinstructies]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
+    <Impact_terug>medium</Impact_terug>
     <TRANSLATIE_spec_terug>SCT DefintionCode [112231000146109 Reden van toedieningsinstructies] -&gt; [blank]</TRANSLATIE_spec_terug>
   </row>
   <row>

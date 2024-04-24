@@ -12,60 +12,60 @@ Ademhaling,NL-CM:12.5.9,FiO2,,groen: geen wijzigingen,NL-CM:12.5.9,FiO2,,,,,,,,
 Ademhaling,NL-CM:12.5.10,FlowRate,,groen: geen wijzigingen,NL-CM:12.5.10,FlowRate,,,,,,,,
 Ademhaling,NL-CM:12.5.12,ExtraZuurstofToediening,,oranje: minor change,NL-CM:12.5.12,ExtraZuurstofToediening,,ZIB-924,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [16206004 Zuurstoftoevoer],Medium,SCT DefintionCode [16206004 Zuurstoftoevoer] -> [blank] 
 Ademhaling,NL-CM:12.5.13,ToedieningHulpmiddel::MedischHulpmiddel,ToedieningHulpmiddelCodelijst,groen: geen wijzigingen,NL-CM:12.5.13,ToedieningHulpmiddel::MedischHulpmiddel,ToedieningHulpmiddelCodelijst,,,,,,,
-Adresgegevens,NL-CM:20.5.1,Adresgegevens,,groen: geen wijzigingen,NL-CM:20.5.1,Adresgegevens,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.2,Straat,,groen: geen wijzigingen,NL-CM:20.5.2,Straat,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.3,Woonplaats,,groen: geen wijzigingen,NL-CM:20.5.3,Woonplaats,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.4,Gemeente,,groen: geen wijzigingen,NL-CM:20.5.4,Gemeente,,,,NO CHANGE,,,,
+Adresgegevens,NL-CM:20.5.1,Adresgegevens,,groen: geen wijzigingen,NL-CM:20.5.1,Adresgegevens,,,,,,,,
+Adresgegevens,NL-CM:20.5.2,Straat,,groen: geen wijzigingen,NL-CM:20.5.2,Straat,,,,,,,,
+Adresgegevens,NL-CM:20.5.3,Woonplaats,,groen: geen wijzigingen,NL-CM:20.5.3,Woonplaats,,,,,,,,
+Adresgegevens,NL-CM:20.5.4,Gemeente,,groen: geen wijzigingen,NL-CM:20.5.4,Gemeente,,,,,,,,
 Adresgegevens,NL-CM:20.5.5,Land,"LandGBACodelijst
 LandISOCodelijst",groen: geen wijzigingen,NL-CM:20.5.5,Land,"LandGBACodelijst
-LandISOCodelijst",,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.6,Postcode,,groen: geen wijzigingen,NL-CM:20.5.6,Postcode,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.7,AdditioneleInformatie,,groen: geen wijzigingen,NL-CM:20.5.7,AdditioneleInformatie,,,,NO CHANGE,,,,
+LandISOCodelijst",,,,,,,
+Adresgegevens,NL-CM:20.5.6,Postcode,,groen: geen wijzigingen,NL-CM:20.5.6,Postcode,,,,,,,,
+Adresgegevens,NL-CM:20.5.7,AdditioneleInformatie,,groen: geen wijzigingen,NL-CM:20.5.7,AdditioneleInformatie,,,,,,,,
 Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-959,kardinatliteit van 1 naar 0..1,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
 Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-900,"Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. ""Tempory address"" moet zijn ""Temporary address""",VALUESET CHANGES,Low,,Low,
-Adresgegevens,NL-CM:20.5.9,AanduidingBijNummer,,groen: geen wijzigingen,NL-CM:20.5.9,AanduidingBijNummer,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,groen: geen wijzigingen,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.11,Huisnummerletter,,groen: geen wijzigingen,NL-CM:20.5.11,Huisnummerletter,,,,NO CHANGE,,,,
-Adresgegevens,NL-CM:20.5.12,Huisnummer,,groen: geen wijzigingen,NL-CM:20.5.12,Huisnummer,,,,NO CHANGE,,,,
-AlcoholGebruik,NL-CM:7.3.1,AlcoholGebruik,,groen: geen wijzigingen,NL-CM:7.3.1,AlcoholGebruik,,,,NO CHANGE,,,,
+Adresgegevens,NL-CM:20.5.9,AanduidingBijNummer,,groen: geen wijzigingen,NL-CM:20.5.9,AanduidingBijNummer,,,,,,,,
+Adresgegevens,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,groen: geen wijzigingen,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,,,,,,,
+Adresgegevens,NL-CM:20.5.11,Huisnummerletter,,groen: geen wijzigingen,NL-CM:20.5.11,Huisnummerletter,,,,,,,,
+Adresgegevens,NL-CM:20.5.12,Huisnummer,,groen: geen wijzigingen,NL-CM:20.5.12,Huisnummer,,,,,,,,
+AlcoholGebruik,NL-CM:7.3.1,AlcoholGebruik,,groen: geen wijzigingen,NL-CM:7.3.1,AlcoholGebruik,,,,,,,,
 AlcoholGebruik,NL-CM:7.3.2,AlcoholGebruikStatus,AlcoholGebruikStatusCodelijst,oranje: minor change,NL-CM:7.3.2,AlcoholGebruikStatus,AlcoholGebruikStatusCodelijst,ZIB-1199 ; ZIB-686,Verouderde SCT code vervangen door nieuwe in codelijst,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-AlcoholGebruik,NL-CM:7.3.3,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.3.3,WaarnemingGebruik,,,,NO CHANGE,,,,
-AlcoholGebruik,NL-CM:7.3.4,StartDatum,,groen: geen wijzigingen,NL-CM:7.3.4,StartDatum,,,,NO CHANGE,,,,
-AlcoholGebruik,NL-CM:7.3.5,StopDatum,,groen: geen wijzigingen,NL-CM:7.3.5,StopDatum,,,,NO CHANGE,,,,
-AlcoholGebruik,NL-CM:7.3.6,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.3.6,Hoeveelheid,,,,NO CHANGE,,,,
+AlcoholGebruik,NL-CM:7.3.3,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.3.3,WaarnemingGebruik,,,,,,,,
+AlcoholGebruik,NL-CM:7.3.4,StartDatum,,groen: geen wijzigingen,NL-CM:7.3.4,StartDatum,,,,,,,,
+AlcoholGebruik,NL-CM:7.3.5,StopDatum,,groen: geen wijzigingen,NL-CM:7.3.5,StopDatum,,,,,,,,
+AlcoholGebruik,NL-CM:7.3.6,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.3.6,Hoeveelheid,,,,,,,,
 Alert,DCM::Instructions,Instructions,,geel: patch wijziging,DCM::Instructions,Instructions,,ZIB-1209,Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie,SIMPLE PATCH CHANGE,Low,,Low,
-Alert,NL-CM:8.3.1,Alert,,groen: geen wijzigingen,NL-CM:8.3.1,Alert,,,,NO CHANGE,,,,
+Alert,NL-CM:8.3.1,Alert,,groen: geen wijzigingen,NL-CM:8.3.1,Alert,,,,,,,,
 Alert,NL-CM:8.3.3,Conditie::Probleem ,,geel: patch wijziging,NL-CM:8.3.3,Conditie::Probleem ,,ZIB-1209,Tekstueel en in voorbeelden aanpassen zib Alert vanwege de nieuwe zib MedicatieContraindicatie,SIMPLE PATCH CHANGE,Low,,Low,
 Alert,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,geel: patch wijziging,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,ZIB-905,Typo in de definite van alertnaam (vastgelegd) is aangepast,SIMPLE PATCH CHANGE,Low,,Low,
 Alert,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,oranje: minor change,NL-CM:8.3.4,AlertNaam ,AlertNaamCodelijst,ZIB-905 ; ZIB-813,De vanuit het programma antibioticaresistentie (ABR) aangeleverde lijst met 7 BMRO groepen zijn toegevoegd/aangepast in de AlertNaamCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Alert,NL-CM:8.3.5,BeginDatumTijd ,,groen: geen wijzigingen,NL-CM:8.3.5,BeginDatumTijd ,,,,NO CHANGE,,,,
-Alert,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,groen: geen wijzigingen,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,,,NO CHANGE,,,,
+Alert,NL-CM:8.3.5,BeginDatumTijd ,,groen: geen wijzigingen,NL-CM:8.3.5,BeginDatumTijd ,,,,,,,,
+Alert,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,groen: geen wijzigingen,NL-CM:8.3.6,AlertType ,AlertTypeCodelijst,,,,,,,
 Alert,NL-CM:8.3.7,**concept toegevoegd in 2020**,,rood: major change,NL-CM:8.3.7,Toelichting,,ZIB-682,Element is toegevoegd aan het rootconcept,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Alert,NL-CM:8.3.8,**concept toegevoegd in 2020**,,rood: major change,NL-CM:8.3.8,EindDatumTijd ,,ZIB-526,Toevoegen EindDatum bij zibs die ook BeginDatum kennen,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 AlgemeneMeting,**zib vervallen in 2020**,,,,**zib vervallen in 2020**,,,,,,,,,
-AllergieIntolerantie,NL-CM:8.2.1,AllergieIntolerantie,,groen: geen wijzigingen,NL-CM:8.2.1,AllergieIntolerantie,,,,NO CHANGE,,,,
+AllergieIntolerantie,NL-CM:8.2.1,AllergieIntolerantie,,groen: geen wijzigingen,NL-CM:8.2.1,AllergieIntolerantie,,,,,,,,
 AllergieIntolerantie,NL-CM:8.2.2,VeroorzakendeStof,"VeroorzakendeStofAllergeneStoffenCodelijst
 VeroorzakendeStofHPKCodelijst
 VeroorzakendeStofSNKCodelijst
 VeroorzakendeStofSSKCodelijst
 VeroorzakendeStofThesaurus122Codelijst",oranje: minor change,NL-CM:8.2.2,VeroorzakendeStof,VeroorzakendeStofAllergeneStoffenCodelijst ; VeroorzakendeStofHPKCodelijst ; VeroorzakendeStofSNKCodelijst ; VeroorzakendeStofSSKCodelijst ; VeroorzakendeStofThesaurus122Codelijst,ZIB-1369,In de bij het concept  wordt verwezen naar een vervallen referentieset: 42931000146101. Deze is  vervangen door: 98061000146100.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-AllergieIntolerantie,NL-CM:8.2.4,AllergieCategorie,AllergieCategorieCodelijst,groen: geen wijzigingen,NL-CM:8.2.4,AllergieCategorie,AllergieCategorieCodelijst,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.5,AllergieStatus,AllergieStatusCodelijst,groen: geen wijzigingen,NL-CM:8.2.5,AllergieStatus,AllergieStatusCodelijst,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.6,BeginDatumTijd,,groen: geen wijzigingen,NL-CM:8.2.6,BeginDatumTijd,,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.7,MateVanKritiekZijn,MateVanKritiekZijnCodelijst,groen: geen wijzigingen,NL-CM:8.2.7,MateVanKritiekZijn,MateVanKritiekZijnCodelijst,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.8,LaatsteReactieDatumTijd,,groen: geen wijzigingen,NL-CM:8.2.8,LaatsteReactieDatumTijd,,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.9,Toelichting,,groen: geen wijzigingen,NL-CM:8.2.9,Toelichting,,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.10,Reactie,,groen: geen wijzigingen,NL-CM:8.2.10,Reactie,,,,NO CHANGE,,,,
+AllergieIntolerantie,NL-CM:8.2.4,AllergieCategorie,AllergieCategorieCodelijst,groen: geen wijzigingen,NL-CM:8.2.4,AllergieCategorie,AllergieCategorieCodelijst,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.5,AllergieStatus,AllergieStatusCodelijst,groen: geen wijzigingen,NL-CM:8.2.5,AllergieStatus,AllergieStatusCodelijst,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.6,BeginDatumTijd,,groen: geen wijzigingen,NL-CM:8.2.6,BeginDatumTijd,,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.7,MateVanKritiekZijn,MateVanKritiekZijnCodelijst,groen: geen wijzigingen,NL-CM:8.2.7,MateVanKritiekZijn,MateVanKritiekZijnCodelijst,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.8,LaatsteReactieDatumTijd,,groen: geen wijzigingen,NL-CM:8.2.8,LaatsteReactieDatumTijd,,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.9,Toelichting,,groen: geen wijzigingen,NL-CM:8.2.9,Toelichting,,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.10,Reactie,,groen: geen wijzigingen,NL-CM:8.2.10,Reactie,,,,,,,,
 AllergieIntolerantie,NL-CM:8.2.11,Symptoom,SymptoomCodelijst,oranje: minor change,NL-CM:8.2.11,Symptoom,SymptoomCodelijst,ZIB-732,SNOMED CT code bij item in valueset vervangen,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 AllergieIntolerantie,NL-CM:8.2.12,SpecifiekeStof,"SpecifiekeStofAllergeneStoffenCodelijst
 SpecifiekeStofHPKCodelijst
 SpecifiekeStofSNKCodelijst
 SpecifiekeStofSSKCodelijst
 SpecifiekeStofThesaurus122Codelijst",oranje: minor change,NL-CM:8.2.12,SpecifiekeStof,SpecifiekeStofAllergeneStoffenCodelijst ; SpecifiekeStofHPKCodelijst ; SpecifiekeStofSNKCodelijst ; SpecifiekeStofSSKCodelijst ; SpecifiekeStofThesaurus122Codelijst,ZIB-1856,In de bij het concept  wordt verwezen naar een vervallen referentieset: 42931000146101. Deze is  vervangen door: 98061000146100.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-AllergieIntolerantie,NL-CM:8.2.13,ReactieBeschrijving,,groen: geen wijzigingen,NL-CM:8.2.13,ReactieBeschrijving,,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.14,Ernst,ErnstCodelijst,groen: geen wijzigingen,NL-CM:8.2.14,Ernst,ErnstCodelijst,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.15,WijzeVanBlootstelling,WijzeVanBlootstellingCodelijst,groen: geen wijzigingen,NL-CM:8.2.15,WijzeVanBlootstelling,WijzeVanBlootstellingCodelijst,,,NO CHANGE,,,,
-AllergieIntolerantie,NL-CM:8.2.17,ReactieTijdstip,,groen: geen wijzigingen,NL-CM:8.2.17,ReactieTijdstip,,,,NO CHANGE,,,,
+AllergieIntolerantie,NL-CM:8.2.13,ReactieBeschrijving,,groen: geen wijzigingen,NL-CM:8.2.13,ReactieBeschrijving,,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.14,Ernst,ErnstCodelijst,groen: geen wijzigingen,NL-CM:8.2.14,Ernst,ErnstCodelijst,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.15,WijzeVanBlootstelling,WijzeVanBlootstellingCodelijst,groen: geen wijzigingen,NL-CM:8.2.15,WijzeVanBlootstelling,WijzeVanBlootstellingCodelijst,,,,,,,
+AllergieIntolerantie,NL-CM:8.2.17,ReactieTijdstip,,groen: geen wijzigingen,NL-CM:8.2.17,ReactieTijdstip,,,,,,,,
 AnatomischeLocatie,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 ApgarScore,NL-CM:12.16.1,ApgarScore,,groen: geen wijzigingen,NL-CM:12.16.1,ApgarScore,,,,,,,,
 ApgarScore,NL-CM:12.16.2,ApgarScoreTotaal,,geel: patch wijziging,NL-CM:12.16.2,ApgarScoreTotaal,,ZIB-891,Range specificatie toegevoegd aan de definitie van concept TotalScore,SIMPLE PATCH CHANGE,Low,,Low,
@@ -101,23 +101,6 @@ waarde moet gekozen worden)",OTHER INFORMATIONMODEL CHANGE,Medium,,Low,
 Bereik,NL-CM:20.1.2,minimumWaarde,,groen: geen wijzigingen,NL-CM:20.1.2,minimumWaarde,,,,,,,,
 Bereik,NL-CM:20.1.3,maximumWaarde,,groen: geen wijzigingen,NL-CM:20.1.3,maximumWaarde,,,,,,,,
 Bereik,NL-CM:20.1.4,nominaleWaarde,,geel: patch wijziging,NL-CM:20.1.4,nominaleWaarde,,ZIB-805,Tekst defintie concept  gewijzigd.,SIMPLE PATCH CHANGE,Low,,Low,
-Betaler,NL-CM:1.1.1,Betaler,,groen: geen wijzigingen,NL-CM:1.1.1,Betaler,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.2,BetalerPersoon,,geel: patch wijziging,NL-CM:1.1.2,BetalerPersoon,,ZIB-1108,"Extra uitleg toegevoegd aan container BetalerPersoon om aan te geven dat Persoon ook een rechtspersoon kan zijn, zoals een organisatie of gemeente. ",SIMPLE PATCH CHANGE,Low,,Low,
-Betaler,NL-CM:1.1.3,Verzekeraar,,groen: geen wijzigingen,NL-CM:1.1.3,Verzekeraar,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.4,Bankgegevens,,groen: geen wijzigingen,NL-CM:1.1.4,Bankgegevens,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.5,BetalerNaam,,groen: geen wijzigingen,NL-CM:1.1.5,BetalerNaam,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.6,VerzekerdeNummer,,groen: geen wijzigingen,NL-CM:1.1.6,VerzekerdeNummer,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.7,IdentificatieNummer,,groen: geen wijzigingen,NL-CM:1.1.7,IdentificatieNummer,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.8,Verzekering,,groen: geen wijzigingen,NL-CM:1.1.8,Verzekering,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.9,BankNaam,,groen: geen wijzigingen,NL-CM:1.1.9,BankNaam,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.10,Bankcode,,groen: geen wijzigingen,NL-CM:1.1.10,Bankcode,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.11,Rekeningnummer,,groen: geen wijzigingen,NL-CM:1.1.11,Rekeningnummer,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.12,Contactgegevens,,groen: geen wijzigingen,NL-CM:1.1.12,Contactgegevens,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.13,BeginDatumTijd,,groen: geen wijzigingen,NL-CM:1.1.13,BeginDatumTijd,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.14,EindDatumTijd,,groen: geen wijzigingen,NL-CM:1.1.14,EindDatumTijd,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.15,Verzekeringssoort,VerzekeringssoortCodelijst,groen: geen wijzigingen,NL-CM:1.1.15,Verzekeringssoort,VerzekeringssoortCodelijst,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.16,OrganisatieNaam,,groen: geen wijzigingen,NL-CM:1.1.16,OrganisatieNaam,,,,NO CHANGE,,,,
-Betaler,NL-CM:1.1.17,Adresgegevens,,groen: geen wijzigingen,NL-CM:1.1.17,Adresgegevens,,,,NO CHANGE,,,,
 Blaasfunctie,NL-CM:4.14.1,Blaasfunctie,,oranje: minor change,NL-CM:4.14.1,Blaasfunctie,,ZIB-732,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [28278009 Micturition] -> [364196001 Micturition feature],Medium,SCT DefintionCode  [364196001 Micturition feature] -> [28278009 Micturition]
 Blaasfunctie,NL-CM:4.14.2,UrineContinentie,UrineContinentieCodelijst,groen: geen wijzigingen,NL-CM:4.14.2,UrineContinentie,UrineContinentieCodelijst,,,,,,,
 Blaasfunctie,NL-CM:4.14.3,Urostoma::Stoma,,groen: geen wijzigingen,NL-CM:4.14.3,Urostoma::Stoma,,,,,,,,
@@ -128,28 +111,28 @@ Blaasfunctie,NL-CM:4.14.6,Toelichting,,groen: geen wijzigingen,NL-CM:4.14.6,Toel
 Bloeddruk,NL-CM:12.4.1,Bloeddruk,,oranje: minor change,NL-CM:12.4.1,Bloeddruk,,ZIB-846,SNOMED CT en LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,"SCT DefintionCode  [blank] -> [46973005 Bloeddrukmeting]
 LOINC DefinitionCode [55284-4 Blood pressure systolic and diastolic]->[85354-9 Blood pressure panel with all children optional]",Medium,"SCT DefintionCode  [46973005 Bloeddrukmeting] -> [blank]
 LOINC DefinitionCode [85354-9 Blood pressure panel with all children optional] -> [55284-4 Blood pressure systolic and diastolic]"
-Bloeddruk,NL-CM:12.4.2,SystolischeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.2,SystolischeBloeddruk,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.3,DiastolischeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.3,DiastolischeBloeddruk,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.4,GemiddeldeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.4,GemiddeldeBloeddruk,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.5,BloeddrukDatumTijd,,groen: geen wijzigingen,NL-CM:12.4.5,BloeddrukDatumTijd,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.6,Toelichting,,groen: geen wijzigingen,NL-CM:12.4.6,Toelichting,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,groen: geen wijzigingen,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,ZIB-962,2 extra items toegevoegd aan MeetmethodeCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Bloeddruk,NL-CM:12.4.8,DiastolischEindpunt,,groen: geen wijzigingen,NL-CM:12.4.8,DiastolischEindpunt,,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,groen: geen wijzigingen,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,oranje: minor change,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,,,NO CHANGE,,,,
-Bloeddruk,NL-CM:12.4.11,Houding,,groen: geen wijzigingen,NL-CM:12.4.11,Houding,,,,NO CHANGE,,,,
-Brandwond,NL-CM:19.4.1,Brandwond,,groen: geen wijzigingen,NL-CM:19.4.1,Brandwond,,,,,,,,SNOMED CT: 125666000 Brandwond
+Bloeddruk,NL-CM:12.4.2,SystolischeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.2,SystolischeBloeddruk,,,,,,,,
+Bloeddruk,NL-CM:12.4.3,DiastolischeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.3,DiastolischeBloeddruk,,,,,,,,
+Bloeddruk,NL-CM:12.4.4,GemiddeldeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.4,GemiddeldeBloeddruk,,,,,,,,
+Bloeddruk,NL-CM:12.4.5,BloeddrukDatumTijd,,groen: geen wijzigingen,NL-CM:12.4.5,BloeddrukDatumTijd,,,,,,,,
+Bloeddruk,NL-CM:12.4.6,Toelichting,,groen: geen wijzigingen,NL-CM:12.4.6,Toelichting,,,,,,,,
+Bloeddruk,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,oranje: minor change,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,ZIB-962,2 extra items toegevoegd aan MeetmethodeCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Bloeddruk,NL-CM:12.4.8,DiastolischEindpunt,,groen: geen wijzigingen,NL-CM:12.4.8,DiastolischEindpunt,,,,,,,,
+Bloeddruk,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,groen: geen wijzigingen,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,,,,,,,
+Bloeddruk,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,groen: geen wijzigingen,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,,,,,,,
+Bloeddruk,NL-CM:12.4.11,Houding,,groen: geen wijzigingen,NL-CM:12.4.11,Houding,,,,,,,,
+Brandwond,NL-CM:19.4.1,Brandwond,,groen: geen wijzigingen,NL-CM:19.4.1,Brandwond,,,,,,,,
 Brandwond,NL-CM:19.4.2,Dieptegraad,DieptegraadCodelijst,groen: geen wijzigingen,NL-CM:19.4.2,Dieptegraad,DieptegraadCodelijst,,,,,,,
 Brandwond,NL-CM:19.4.3,OntstaansDatum,,groen: geen wijzigingen,NL-CM:5.2.1,Stoma,,,,,,,,
-Brandwond,NL-CM:19.4.4,AnatomischeLocatie,BrandwondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [BrandwondAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[BrandwondAnatomischeLocatieCodelijst]
+Brandwond,NL-CM:19.4.4,AnatomischeLocatie,BrandwondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,,Medium,
 Brandwond,NL-CM:19.4.5,Toelichting,,groen: geen wijzigingen,NL-CM:19.4.5,Toelichting,,,,,,,,
 Brandwond,NL-CM:19.4.7,Uitgebreidheid,,groen: geen wijzigingen,NL-CM:5.2.3,StomaMateriaal::MedischHulpmiddel,,,,,,,,
 Brandwond,NL-CM:19.4.8,DatumLaatsteVerbandwissel,,groen: geen wijzigingen,NL-CM:19.4.8,DatumLaatsteVerbandwissel,,,,,,,,
 Brandwond,NL-CM:19.4.9,BrandwondSoort,BrandwondSoortCodelijst,rood: major change,NL-CM:19.4.9,BrandwondSoort,BrandwondSoortCodelijst,ZIB-1296,erratum:Het element BrandwondSoort per ongeluk verwijderd in publicatie 2020 en is weer toegevoegd,OTHER INFORMATIONMODEL CHANGE,Low,,Low,
-Brandwond,NL-CM:19.4.10,Lateraliteit,BrandwondLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [BrandwondLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[BrandwondLateraliteitCodelijst]
-Brandwond,NL-CM:19.4.11,**concept toegevoegd in 2020**,,rood: major change,NL-CM:19.4.11,WondFoto,,ZIB-828,Concept Wondfoto toegevoegd aan zib brandwond,CONCEPT ADDITION,Low,,High,
+Brandwond,NL-CM:19.4.10,Lateraliteit,BrandwondLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,,Medium,
+Brandwond,NL-CM:19.4.11,**concept toegevoegd in 2020**,,rood: major change,NL-CM:19.4.11,WondFoto,,ZIB-828,Concept Wondfoto toegevoegd aan zib brandwond,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 BurgerlijkeStaat,DCM::Instructions,Instructions,,geel: patch wijziging,DCM::Instructions,Instructions,,ZIB-606,Tekst instructions gewijzigd.,SIMPLE PATCH CHANGE,Low,,Low,
-BurgerlijkeStaat,NL-CM:7.9.1,BurgerlijkeStaatRC,,groen: geen wijzigingen,NL-CM:7.9.1,BurgerlijkeStaatRC,,,,NO CHANGE,,,,
+BurgerlijkeStaat,NL-CM:7.9.1,BurgerlijkeStaatRC,,groen: geen wijzigingen,NL-CM:7.9.1,BurgerlijkeStaatRC,,,,,,,,
 BurgerlijkeStaat,NL-CM:7.9.2,BurgerlijkeStaat,BurgerlijkeStaatCodelijst,oranje: minor change,NL-CM:7.9.2,BurgerlijkeStaat,BurgerlijkeStaatCodelijst,ZIB-735,Unmarried/ongehuwd toegevoegd aan codelijst. Never married op discouraged gezet.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 ChecklistPijngedrag,NL-CM:12.17.1,ChecklistPijnGedrag,,oranje: minor change,NL-CM:12.17.1,ChecklistPijnGedrag,,"
 ZIB-923",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [108331000146104 Pain Behaviour Checklist],Medium,SCT DefinitionCode [108331000146104 Pain Behaviour Checklist] -> [blank]
@@ -190,39 +173,39 @@ ComfortScore,NL-CM:12.12.11,ScoreDatumTijd,,groen: geen wijzigingen,NL-CM:12.12.
 ComfortScore,NL-CM:12.12.12,Toelichting,,groen: geen wijzigingen,NL-CM:12.12.12,Toelichting,,,,,,,,
 Contact,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.1,Contact,,oranje: minor change,NL-CM:15.1.1,Contact,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [308335008 Patiëntcontact],Medium,SCT DefintionCode  [308335008 Patiëntcontact] -> [blank]
-Contact,NL-CM:15.1.2,ContactType,ContactTypeCodelijst,groen: geen wijzigingen,NL-CM:15.1.2,Concept,ContactTypeCodelijst,,,NO CHANGE,,,,SCT DefintionCode [blank] -> [308552006 Status van verslag]
+Contact,NL-CM:15.1.2,ContactType,ContactTypeCodelijst,groen: geen wijzigingen,NL-CM:15.1.2,Concept,ContactTypeCodelijst,,,,,,,
 Contact,NL-CM:15.1.3,BeginDatumTijd,,oranje: minor change,NL-CM:15.1.3,BeginDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Contact,NL-CM:15.1.3,BeginDatumTijd,,geel: patch wijziging,NL-CM:15.1.3,BeginDatumTijd,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.4,EindDatumTijd,,oranje: minor change,NL-CM:15.1.4,EindDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Contact,NL-CM:15.1.4,EindDatumTijd,,geel: patch wijziging,NL-CM:15.1.4,EindDatumTijd,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.6,probleem,,oranje: minor change,NL-CM:15.1.6,Probleem,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.6,Probleem,,geel: patch wijziging,NL-CM:15.1.6,Probleem,,ZIB-1089,tekstwijziging definitie concept,SIMPLE PATCH CHANGE,Low,,Low,
-Contact,NL-CM:15.1.7,ContactMet::Zorgverlener,,groen: geen wijzigingen,NL-CM:15.1.7,VerpleegkundigeActie,,,,NO CHANGE,,,,
-Contact,NL-CM:15.1.8,Locatie::Zorgaanbieder,,groen: geen wijzigingen,NL-CM:15.1.8,Activiteit,,,,NO CHANGE,,,,
+Contact,NL-CM:15.1.7,ContactMet::Zorgverlener,,groen: geen wijzigingen,NL-CM:15.1.7,VerpleegkundigeActie,,,,,,,,
+Contact,NL-CM:15.1.8,Locatie::Zorgaanbieder,,groen: geen wijzigingen,NL-CM:15.1.8,Activiteit,,,,,,,,
 Contact,NL-CM:15.1.11,Verrichting,,oranje: minor change,NL-CM:15.1.11,Verrichting,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.11,Verrichting,,geel: patch wijziging,NL-CM:15.1.11,Verrichting,,ZIB-822 ; ZIB-701,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.12,AfwijkendeUitslag,,oranje: minor change,NL-CM:15.1.12,AfwijkendeUitslag,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.13,RedenContact,,oranje: minor change,NL-CM:15.1.13,RedenContact,,ZIB-822 ; ZIB-701 ; ZIB-819 ; ZIB-1089,Kardinaliteit reden contact aangepast naar 0 ..*,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-MANY,Medium,ZERO-TO-MANY TO ONE
-Contact,NL-CM:15.1.14,Herkomst,HerkomstCodelijst,groen: geen wijzigingen,NL-CM:15.1.14,ActieStartDatumTijd,HerkomstCodelijst,,,NO CHANGE,,,,
-Contact,NL-CM:15.1.16,Bestemming,BestemmingCodelijst,groen: geen wijzigingen,NL-CM:15.1.16,ActieEindDatumTijd,BestemmingCodelijst,,,NO CHANGE,,,,
+Contact,NL-CM:15.1.14,Herkomst,HerkomstCodelijst,groen: geen wijzigingen,NL-CM:15.1.14,ActieStartDatumTijd,HerkomstCodelijst,,,,,,,
+Contact,NL-CM:15.1.16,Bestemming,BestemmingCodelijst,groen: geen wijzigingen,NL-CM:15.1.16,ActieEindDatumTijd,BestemmingCodelijst,,,,,,,
 Contact,NL-CM:15.1.17,**concept toegevoegd in 2020**,,rood: major change,NL-CM:15.1.17,ToelichtingRedenContact,,ZIB-701 ; ZIB-822,Extra element 'Toelichting(ST)' toegevoegd aan 'RedenContact',CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
-Contactgegevens,NL-CM:20.6.1,Contactgegevens,,groen: geen wijzigingen,NL-CM:20.6.1,Contactgegevens,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.2,Telefoonnummers,,groen: geen wijzigingen,NL-CM:20.6.2,Telefoonnummers,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.3,EmailAdressen,,groen: geen wijzigingen,NL-CM:20.6.3,EmailAdressen,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.4,Telefoonnummer,,groen: geen wijzigingen,NL-CM:20.6.4,Telefoonnummer,,,,NO CHANGE,,,,
+Contactgegevens,NL-CM:20.6.1,Contactgegevens,,groen: geen wijzigingen,NL-CM:20.6.1,Contactgegevens,,,,,,,,
+Contactgegevens,NL-CM:20.6.2,Telefoonnummers,,groen: geen wijzigingen,NL-CM:20.6.2,Telefoonnummers,,,,,,,,
+Contactgegevens,NL-CM:20.6.3,EmailAdressen,,groen: geen wijzigingen,NL-CM:20.6.3,EmailAdressen,,,,,,,,
+Contactgegevens,NL-CM:20.6.4,Telefoonnummer,,groen: geen wijzigingen,NL-CM:20.6.4,Telefoonnummer,,,,,,,,
 Contactgegevens,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,oranje: minor change,NL-CM:20.6.5,TelecomType,TelecomTypeCodelijst,ZIB-958,Kardinaliteit TelecomType aangepast van 1 naar 0..1.,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
-Contactgegevens,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.7,EmailAdres,,groen: geen wijzigingen,NL-CM:20.6.7,EmailAdres,,,,NO CHANGE,,,,
-Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,,,NO CHANGE,,,,
+Contactgegevens,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.6,NummerSoort,NummerSoortCodelijst,,,,,,,
+Contactgegevens,NL-CM:20.6.7,EmailAdres,,groen: geen wijzigingen,NL-CM:20.6.7,EmailAdres,,,,,,,,
+Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,groen: geen wijzigingen,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,,,,,,,
 Contactgegevens,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,oranje: minor change,NL-CM:20.6.8,EmailSoort,EmailSoortCodelijst,ZIB-900,"Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. ""Tempory address"" moet zijn ""Temporary address""",VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Contactgegevens,NL-CM:20.6.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:20.6.9,Toelichting,,ZIB-760,"Aan een telefoonnummers is nu een toelichtingsveld toegevoegd, waarin nadere bijzonderheden over het nummer kunnen worden vastgelegd.",CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Contactpersoon,DCM::Purpose,Purpose,,geel: patch wijziging,DCM::Purpose,Purpose,,ZIB-762,Purpose Tekst definitie aangepast,SIMPLE PATCH CHANGE,Low,,Low,
 Contactpersoon,NL-CM:3.1.1,Contactpersoon,,oranje: minor change,NL-CM:3.1.1,Contactpersoon,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [70862002 contactpersoon (persoon)],Medium,SCT DefintionCode [70862002 contactpersoon (persoon)] -> [blank]
 Contactpersoon,NL-CM:3.1.2,Rol,RolCodelijst,oranje: minor change,NL-CM:3.1.2,Rol,RolCodelijst,ZIB-698 ; ZIB-1094 ; ZIB-629 ; ZIB-1378,Diverse toevoegingen aan codelijst en erratum waarbij de codes onder de 10 een leading zero hebben gekregen zoals bij dit codesysteem hoort.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Contactpersoon,NL-CM:3.1.3,Relatie,RelatieCodelijst,groen: geen wijzigingen,NL-CM:3.1.3,Relatie,RelatieCodelijst,,,NO CHANGE,,,,
-Contactpersoon,NL-CM:3.1.4,Naamgegevens,,groen: geen wijzigingen,NL-CM:3.1.4,Naamgegevens,,,,NO CHANGE,,,,
+Contactpersoon,NL-CM:3.1.3,Relatie,RelatieCodelijst,groen: geen wijzigingen,NL-CM:3.1.3,Relatie,RelatieCodelijst,,,,,,,
+Contactpersoon,NL-CM:3.1.4,Naamgegevens,,groen: geen wijzigingen,NL-CM:3.1.4,Naamgegevens,,,,,,,,
 Contactpersoon,NL-CM:3.1.5,Adresgegevens,,rood: major change,NL-CM:3.1.5,Adresgegevens,,ZIB-960,Cardinaliteit adresgegevens in de zib Contactpersoon verruimt van 0..1 naar 0..*,CARDINALITY CHANGE,Low,ZERO-TO-ONE TO ZERO-TO-MANY,High,ZERO-TO-MANY TO  ZERO-TO-ONE
-Contactpersoon,NL-CM:3.1.6,Contactgegevens,,groen: geen wijzigingen,NL-CM:3.1.6,Contactgegevens,,,,NO CHANGE,,,,
+Contactpersoon,NL-CM:3.1.6,Contactgegevens,,groen: geen wijzigingen,NL-CM:3.1.6,Contactgegevens,,,,,,,,
 Darmfunctie,NL-CM:4.15.1,Darmfunctie,,oranje: minor change,NL-CM:4.15.1,Darmfunctie,,ZIB-732,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [11198001 defecation] -> [111989001 Defecation],Medium,SCT DefinitionCode  [111989001 Defecation]  -> [11198001 defecation] terugmappen naar foute SCT code? Of toch niet?
 Darmfunctie,NL-CM:4.15.2,FecesContinentie,FecesContinentieCodelijst,groen: geen wijzigingen,NL-CM:4.15.2,FecesContinentie,FecesContinentieCodelijst,,,,,,,
 Darmfunctie,NL-CM:4.15.3,Stoma,,groen: geen wijzigingen,NL-CM:4.15.3,Stoma,,,,,,,,
@@ -235,14 +218,14 @@ DAS,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 DecubitusWond,NL-CM:19.1.1,DecubitusWond,,groen: geen wijzigingen,NL-CM:19.1.1,DecubitusWond,,,,,,,,
 DecubitusWond,NL-CM:19.1.2,DecubitusCategorie,,groen: geen wijzigingen,NL-CM:19.1.2,DecubitusCategorie,,,,,,,,
 DecubitusWond,NL-CM:19.1.3,OntstaansDatum,,groen: geen wijzigingen,NL-CM:19.1.3,OntstaansDatum,,,,,,,,
-DecubitusWond,NL-CM:19.1.4,AnatomischeLocatie,DecubitusWondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [DecubitusWondAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[DecubitusWondAnatomischeLocatieCodelijst]
+DecubitusWond,NL-CM:19.1.4,AnatomischeLocatie,DecubitusWondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [DecubitusWondAnatomischeLocatieCodelijst]->[LocatieCodelijst],Medium,codelist [LocatieCodelijst]->[DecubitusWondAnatomischeLocatieCodelijst]
 DecubitusWond,NL-CM:19.1.5,Toelichting,,groen: geen wijzigingen,NL-CM:19.1.5,Toelichting,,,,,,,,
 DecubitusWond,NL-CM:19.1.8,DatumLaatsteVerbandwissel,,groen: geen wijzigingen,NL-CM:19.1.8,DatumLaatsteVerbandwissel,,,,,,,,
 DecubitusWond,NL-CM:19.1.9,Wondlengte,,groen: geen wijzigingen,NL-CM:19.1.9,Wondlengte,,,,,,,,
 DecubitusWond,NL-CM:19.1.10,Wondbreedte,,groen: geen wijzigingen,NL-CM:19.1.10,Wondbreedte,,,,,,,,
 DecubitusWond,NL-CM:19.1.11,Wonddiepte,,groen: geen wijzigingen,NL-CM:19.1.11,Wonddiepte,,,,,,,,
 DecubitusWond,NL-CM:19.1.12,WondFoto,,groen: geen wijzigingen,NL-CM:19.1.12,WondFoto,,,,,,,,
-DecubitusWond,NL-CM:19.1.13,Lateraliteit,DecubitusWondLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [DecubitusWondLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[DecubitusWondLateraliteitCodelijst]
+DecubitusWond,NL-CM:19.1.13,Lateraliteit,DecubitusWondLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [DecubitusWondLateraliteitCodelijst]->[LateraliteitCodelijst],Medium,codelist [LateraliteitCodelijst]->[DecubitusWondLateraliteitCodelijst]
 DOSScore,NL-CM:18.7.1,DOSScore,,groen: geen wijzigingen,NL-CM:18.7.1,DOSScore,,,,,,,,
 DOSScore,NL-CM:18.7.2,Toelichting,,groen: geen wijzigingen,NL-CM:18.7.2,Toelichting,,,,,,,,
 DOSScore,NL-CM:18.7.3,DOSScoreTotaal,,groen: geen wijzigingen,NL-CM:18.7.3,DOSScoreTotaal,,,,,,,,
@@ -261,14 +244,14 @@ DOSScore,NL-CM:18.7.16,TrektDraden,,geel: patch wijziging,NL-CM:18.7.16,TrektDra
 DOSScore,NL-CM:18.7.17,SnelGeemotioneerd,,geel: patch wijziging,NL-CM:18.7.17,SnelGeemotioneerd,,ZIB-1977,"Tekstwijziging aan defintie concept, zodat duidelijk is dat als een score niet bekend is voor een onderdeel dit score element leeg gelaten moet worden.",SIMPLE PATCH CHANGE,Low,,Low,
 DOSScore,NL-CM:18.7.18,Hallucinaties,,geel: patch wijziging,NL-CM:18.7.18,Hallucinaties,,ZIB-1977,"Tekstwijziging aan defintie concept, zodat duidelijk is dat als een score niet bekend is voor een onderdeel dit score element leeg gelaten moet worden.",SIMPLE PATCH CHANGE,Low,,Low,
 DrugsGebruik,NL-CM:7.4.1,DrugsGebruik,,oranje: minor change,NL-CM:7.4.1,DrugsGebruik,,ZIB-1181,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [228366006 Bevinding betreffende drugsgebruik],Medium,SCT DefintionCode  [228366006 Bevinding betreffende drugsgebruik] -> [blank]
-DrugsGebruik,NL-CM:7.4.2,DrugsOfGeneesmiddelSoort,DrugsOfGeneesmiddelSoortCodelijst,groen: geen wijzigingen,NL-CM:7.4.2,DrugsOfGeneesmiddelSoort,DrugsOfGeneesmiddelSoortCodelijst,,,NO CHANGE,,,,
+DrugsGebruik,NL-CM:7.4.2,DrugsOfGeneesmiddelSoort,DrugsOfGeneesmiddelSoortCodelijst,groen: geen wijzigingen,NL-CM:7.4.2,DrugsOfGeneesmiddelSoort,DrugsOfGeneesmiddelSoortCodelijst,,,,,,,
 DrugsGebruik,NL-CM:7.4.3,DrugsGebruikStatus,DrugsGebruikStatusCodelijst,oranje: minor change,NL-CM:7.4.3,DrugsGebruikStatus,DrugsGebruikStatusCodelijst,ZIB-936,SNOMED CT Code voor huidig druggebruiker aangepast in DrugGebruikStatusCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-DrugsGebruik,NL-CM:7.4.4,Toedieningsweg,ToedieningswegCodelijst,groen: geen wijzigingen,NL-CM:7.4.4,Toedieningsweg,ToedieningswegCodelijst,,,NO CHANGE,,,,
-DrugsGebruik,NL-CM:7.4.5,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.4.5,WaarnemingGebruik,,,,NO CHANGE,,,,
-DrugsGebruik,NL-CM:7.4.6,StartDatum,,groen: geen wijzigingen,NL-CM:7.4.6,StartDatum,,,,NO CHANGE,,,,
-DrugsGebruik,NL-CM:7.4.7,StopDatum,,groen: geen wijzigingen,NL-CM:7.4.7,StopDatum,,,,NO CHANGE,,,,
-DrugsGebruik,NL-CM:7.4.8,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.4.8,Hoeveelheid,,,,NO CHANGE,,,,
-DrugsGebruik,NL-CM:7.4.9,Toelichting,,groen: geen wijzigingen,NL-CM:7.4.9,Toelichting,,,,NO CHANGE,,,,
+DrugsGebruik,NL-CM:7.4.4,Toedieningsweg,ToedieningswegCodelijst,groen: geen wijzigingen,NL-CM:7.4.4,Toedieningsweg,ToedieningswegCodelijst,,,,,,,
+DrugsGebruik,NL-CM:7.4.5,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.4.5,WaarnemingGebruik,,,,,,,,
+DrugsGebruik,NL-CM:7.4.6,StartDatum,,groen: geen wijzigingen,NL-CM:7.4.6,StartDatum,,,,,,,,
+DrugsGebruik,NL-CM:7.4.7,StopDatum,,groen: geen wijzigingen,NL-CM:7.4.7,StopDatum,,,,,,,,
+DrugsGebruik,NL-CM:7.4.8,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.4.8,Hoeveelheid,,,,,,,,
+DrugsGebruik,NL-CM:7.4.9,Toelichting,,groen: geen wijzigingen,NL-CM:7.4.9,Toelichting,,,,,,,,
 Familieanamnese,NL-CM:6.1.1,Familieanamnese,,groen: geen wijzigingen,NL-CM:6.1.1,Familieanamnese,,,,,,,,
 Familieanamnese,NL-CM:6.1.2,Datum,,groen: geen wijzigingen,NL-CM:6.1.2,Datum,,,,,,,,
 Familieanamnese,NL-CM:6.1.3,Familielid,,groen: geen wijzigingen,NL-CM:6.1.3,Familielid,,,,,,,,
@@ -290,17 +273,17 @@ FLACCpijnScore,NL-CM:12.13.9,Troostbaar,TroostbaarCodelijst,oranje: minor change
 FLACCpijnScore,NL-CM:12.13.11,ScoreDatumTijd,,groen: geen wijzigingen,NL-CM:12.13.11,ScoreDatumTijd,,,,,,,,
 FLACCpijnScore,NL-CM:12.13.12,Toelichting,,groen: geen wijzigingen,NL-CM:12.13.12,Toelichting,,,,,,,,
 FunctieHoren,NL-CM:4.17.1,FunctieHoren,,groen: geen wijzigingen,NL-CM:4.17.1,FunctieHoren,,,,,,,,
-FunctieHoren,NL-CM:4.17.2,Toelichting,,groen: geen wijzigingen,NL-CM:4.17.2,Toelichting,,,,,,,,LOINC: 48767-8 Annotation comment [Interpretation] Narrative
+FunctieHoren,NL-CM:4.17.2,Toelichting,,groen: geen wijzigingen,NL-CM:4.17.2,Toelichting,,,,,,,,
 FunctieHoren,NL-CM:10.1.3,ProductType,HorenHulpmiddelTypeCodelijst,oranje: minor change,NL-CM:10.1.3,ProductType,HorenHulpmiddelTypeCodelijst,ZIB-732,Foutieve Snomed code aangepast in codelijst,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-FunctieHoren,NL-CM:4.17.3,HoorFunctie,HoorFunctieCodelijst,groen: geen wijzigingen,NL-CM:4.17.3,HoorFunctie,HoorFunctieCodelijst,,,,,,,SNOMED CT: 47078008 Gehoorfunctie
-FunctieHoren,NL-CM:4.17.4,HorenHulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.17.4,HorenHulpmiddel::MedischHulpmiddel,,,,,,,,SNOMED CT: 6012004 Hoortoestel
-FunctieHoren,NL-CM:10.1.6,HulpmiddelAnatomischeLocatie,,groen: geen wijzigingen,NL-CM:10.1.6,HulpmiddelAnatomischeLocatie,,,,,,,,SNOMED CT: 363698007 Locatie van bevinding
+FunctieHoren,NL-CM:4.17.3,HoorFunctie,HoorFunctieCodelijst,groen: geen wijzigingen,NL-CM:4.17.3,HoorFunctie,HoorFunctieCodelijst,,,,,,,
+FunctieHoren,NL-CM:4.17.4,HorenHulpmiddel::MedischHulpmiddel,,oranje: minor change,NL-CM:4.17.4,HorenHulpmiddel::MedischHulpmiddel,,ZIB-732,DefinitionCode aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [272182005 Aid to hearing] -> [6012004 Hoortoestel],Medium,SCT DefinitionCode [6012004 Hoortoestel] -> [272182005 Aid to hearing]
+FunctieHoren,NL-CM:10.1.6,HulpmiddelAnatomischeLocatie,,groen: geen wijzigingen,NL-CM:10.1.6,HulpmiddelAnatomischeLocatie,,,,,,,,
 FunctieZien,NL-CM:4.16.1,FunctieZien,,groen: geen wijzigingen,NL-CM:4.16.1,FunctieZien,,,,,,,,
 FunctieZien,NL-CM:4.16.2,Toelichting,,groen: geen wijzigingen,NL-CM:4.16.2,Toelichting,,,,,,,,
 FunctieZien,NL-CM:4.16.3,VisueleFunctie,VisueleFunctieCodelijst,groen: geen wijzigingen,NL-CM:4.16.3,VisueleFunctie,VisueleFunctieCodelijst,,,,,,,
 FunctieZien,NL-CM:10.1.3,ProductType,ZienHulpmiddelTypeCodelijst,groen: geen wijzigingen,NL-CM:10.1.3,ProductType,ZienHulpmiddelTypeCodelijst,,,,,,,
 FunctieZien,NL-CM:4.16.4,ZienHulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.16.4,ZienHulpmiddel::MedischHulpmiddel,,,,,,,,
-FunctioneleOfMentaleStatus,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,groen: geen wijzigingen,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,,,NO CHANGE,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,groen: geen wijzigingen,NL-CM:4.26.1,FunctioneleOfMentaleStatus,,,,,,,,
 FunctioneleOfMentaleStatus,NL-CM:4.26.2,StatusNaam,StatusNaamICFCodelijst ; StatusNaamNOCCodelijst ; StatusNaamOMAHACodelijst ; StatusNaamSnomedCodelijst,oranje: minor change,NL-CM:4.26.2,StatusNaam,StatusNaamICFCodelijst ; StatusNaamNOCCodelijst [deprecated] ; StatusNaamOMAHACodelijst [deprecated] ; StatusNaamSnomedCodelijst,ZIB-1110 ; ZIB-1156,NOC en OMAHA codelijsten deprecated,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 FunctioneleOfMentaleStatus,NL-CM:4.26.3,StatusWaarde,"StatusWaardeICFCodelijst
 StatusWaardeNOCCodelijst
@@ -310,9 +293,9 @@ StatusWaardeNOCCodelijst [deprecated]
 StatusWaardeOMAHACodelijst [deprecated]
 StatusWaardeSnomedCodelijst",ZIB-681,Tekst bij StatusWaarde aangepast,SIMPLE PATCH CHANGE,Low,,Low,
 FunctioneleOfMentaleStatus,NL-CM:4.26.3,StatusWaarde,StatusWaardeICFCodelijst ; StatusWaardeNOCCodelijst ; StatusWaardeOMAHACodelijst ; StatusWaardeSnomedCodelijst,oranje: minor change,NL-CM:4.26.3,StatusWaarde,StatusWaardeICFCodelijst ; StatusWaardeNOCCodelijst [deprecated] ; StatusWaardeOMAHACodelijst [deprecated] ; StatusWaardeSnomedCodelijst,ZIB-1110 ; ZIB-1156,NOC en OMAHA codelijsten deprecated. Defintie van concept gewijzigd. ,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-FunctioneleOfMentaleStatus,NL-CM:4.26.4,Toelichting,,groen: geen wijzigingen,NL-CM:4.26.4,Toelichting,,,,NO CHANGE,,,,
-FunctioneleOfMentaleStatus,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,,,NO CHANGE,,,,
-FunctioneleOfMentaleStatus,NL-CM:4.26.6,StatusDatum,,groen: geen wijzigingen,NL-CM:4.26.6,StatusDatum,,,,NO CHANGE,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.4,Toelichting,,groen: geen wijzigingen,NL-CM:4.26.4,Toelichting,,,,,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:4.26.5,Hulpmiddel::MedischHulpmiddel,,,,,,,,
+FunctioneleOfMentaleStatus,NL-CM:4.26.6,StatusDatum,,groen: geen wijzigingen,NL-CM:4.26.6,StatusDatum,,,,,,,,
 GebruiksInstructie,Medicatie zibs momenteel on hold,,,,Medicatie zibs momenteel on hold,,,,,,,,,
 Gezinssituatie,NL-CM:7.13.1,Gezinssituatie,,oranje: minor change,NL-CM:7.13.1,Gezinssituatie,,ZIB-697,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [365470003 Bevinding betreffende gegevens over gezin en gezinssamenstelling],Medium,SCT DefinitionCode  [224130005 Household composition] -> [224118004 Number of offspring]
 Gezinssituatie,NL-CM:7.13.2,AantalKinderen,,groen: geen wijzigingen,NL-CM:7.13.2,AantalKinderen,,,,,,,,
@@ -356,10 +339,10 @@ Hartfrequentie,NL-CM:12.3.7,**concept toegevoegd in 2020**,,rood: major change,N
 Huidaandoening,NL-CM:19.3.1,Huidaandoening,,groen: geen wijzigingen,NL-CM:19.3.1,Huidaandoening,,,,,,,,
 Huidaandoening,NL-CM:19.3.2,SoortAandoening,SoortAandoeningCodelijst,groen: geen wijzigingen,NL-CM:19.3.2,SoortAandoening,SoortAandoeningCodelijst,,,,,,,
 Huidaandoening,NL-CM:19.3.3,OntstaansDatum,,groen: geen wijzigingen,NL-CM:19.3.3,OntstaansDatum,,,,,,,,
-Huidaandoening,NL-CM:19.3.4,AnatomischeLocatie,HuidaandoeningAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HuidaandoeningAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[HuidaandoeningAnatomischeLocatieCodelijst]
+Huidaandoening,NL-CM:19.3.4,AnatomischeLocatie,HuidaandoeningAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.1.14,Locatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HuidaandoeningAnatomischeLocatieCodelijst]->[LocatieCodelijst],Medium,codelist [LocatieCodelijst]->[HuidaandoeningAnatomischeLocatieCodelijst]
 Huidaandoening,NL-CM:19.3.6,Toelichting,,groen: geen wijzigingen,NL-CM:19.3.6,Toelichting,,,,,,,,
 Huidaandoening,NL-CM:19.3.7,Oorzaak::Probleem,,groen: geen wijzigingen,NL-CM:19.3.7,Oorzaak::Probleem,,,,,,,,
-Huidaandoening,NL-CM:19.3.8,Lateraliteit,HuidaandoeningLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HuidaandoeningLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[HuidaandoeningLateraliteitCodelijst]
+Huidaandoening,NL-CM:19.3.8,Lateraliteit,HuidaandoeningLateraliteitCodelijst,oranje: minor change,NL-CM:19.1.14,Lateraliteit,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HuidaandoeningLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst]->[HuidaandoeningLateraliteitCodelijst]
 HulpVanAnderen,NL-CM:3.2.1,HulpVanAnderen,,groen: geen wijzigingen,NL-CM:3.2.1,HulpVanAnderen,,,,,,,,
 HulpVanAnderen,NL-CM:3.2.2,Frequentie,,groen: geen wijzigingen,NL-CM:3.2.2,Frequentie,,,,,,,,
 HulpVanAnderen,NL-CM:3.2.3,Aard,,groen: geen wijzigingen,NL-CM:3.2.3,Aard,,,,,,,,
@@ -382,20 +365,19 @@ Infuus,NL-CM:10.2.11,LumenLocatie,LumenLocatieCodelijst,groen: geen wijzigingen,
 Infuus,NL-CM:10.2.12,ToedieningsSysteemToelichting,,groen: geen wijzigingen,NL-CM:10.2.12,ToedieningsSysteemToelichting,,,,,,,,
 Infuus,NL-CM:10.2.13,SlotVloeistof::MedicatieToediening2,,groen: geen wijzigingen,NL-CM:10.2.13,SlotVloeistof::MedicatieToediening2,,,,,,,,
 JuridischeSituatie,nieuwe zib in 2020,,,,nieuwe zib in 2020,,,,,,,,,
-LaboratoriumUitslag,NL-CM:13.1.1,LaboratoriumUitslag,,groen: geen wijzigingen,NL-CM:13.1.1,LaboratoriumUitslag,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.2,Monster,,groen: geen wijzigingen,NL-CM:13.1.2,Monster,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.3,LaboratoriumTest,TestCodeLOINCCodelijst,groen: geen wijzigingen,NL-CM:13.1.3,LaboratoriumTest,TestCodeLOINCCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.4,Onderzoek,OnderzoekCodelijst,groen: geen wijzigingen,NL-CM:13.1.4,Onderzoek,OnderzoekCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.5,Toelichting,,groen: geen wijzigingen,NL-CM:13.1.5,Toelichting,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.6,ResultaatStatus,ResultaatStatusCodelijst,groen: geen wijzigingen,NL-CM:13.1.6,ResultaatStatus,ResultaatStatusCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.7,ResultaatType,ResultaatTypeCodelijst,groen: geen wijzigingen,NL-CM:13.1.7,ResultaatType,ResultaatTypeCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.8,TestCode,TestmethodeCodelijst,oranje: minor change,NL-CM:13.1.8,TestCode,"TestCodeLOINCCodelijst
-TestCodeNHGCodelijst",ZIB-910 ; ZIB-639,Waardelijst aangepast. ingeperkt van heel LOINC naar de LOINC codes van de Nederlandse Labcodeset en NHG Tabel 45 als optie voor de eerste lijn toegevoegd.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,SCT DefintionCode [blank] -> [4028004 StrongKidsScore ZiekteBeeldScore]
-LaboratoriumUitslag,NL-CM:13.1.9,Testmethode,,groen: geen wijzigingen,NL-CM:13.1.9,Testmethode,TestmethodeCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.10,TestUitslag,,groen: geen wijzigingen,NL-CM:13.1.10,TestUitslag,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.11,ReferentieBovengrens,,groen: geen wijzigingen,NL-CM:13.1.11,ReferentieBovengrens,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.12,ReferentieOndergrens,,groen: geen wijzigingen,NL-CM:13.1.12,ReferentieOndergrens,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.13,TestDatumTijd,,groen: geen wijzigingen,NL-CM:13.1.13,TestDatumTijd,,,,NO CHANGE,,,,
+LaboratoriumUitslag,NL-CM:13.1.1,LaboratoriumUitslag,,groen: geen wijzigingen,NL-CM:13.1.1,LaboratoriumUitslag,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.2,Monster,,groen: geen wijzigingen,NL-CM:13.1.2,Monster,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.3,LaboratoriumTest,TestCodeLOINCCodelijst,groen: geen wijzigingen,NL-CM:13.1.3,LaboratoriumTest,TestCodeLOINCCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.4,Onderzoek,OnderzoekCodelijst,groen: geen wijzigingen,NL-CM:13.1.4,Onderzoek,OnderzoekCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.5,Toelichting,,groen: geen wijzigingen,NL-CM:13.1.5,Toelichting,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.6,ResultaatStatus,ResultaatStatusCodelijst,groen: geen wijzigingen,NL-CM:13.1.6,ResultaatStatus,ResultaatStatusCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.7,ResultaatType,ResultaatTypeCodelijst,groen: geen wijzigingen,NL-CM:13.1.7,ResultaatType,ResultaatTypeCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.8,TestCode,,oranje: minor change,NL-CM:13.1.8,TestCode,TestCodeLOINCCodelijst; TestCodeNHGCodelijst,ZIB-910 ; ZIB-639,Waardelijst aangepast. ingeperkt van heel LOINC naar de LOINC codes van de Nederlandse Labcodeset en NHG Tabel 45 als optie voor de eerste lijn toegevoegd.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,
+LaboratoriumUitslag,NL-CM:13.1.9,Testmethode,TestmethodeCodelijst,groen: geen wijzigingen,NL-CM:13.1.9,Testmethode,TestmethodeCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.10,TestUitslag,,groen: geen wijzigingen,NL-CM:13.1.10,TestUitslag,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.11,ReferentieBovengrens,,groen: geen wijzigingen,NL-CM:13.1.11,ReferentieBovengrens,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.12,ReferentieOndergrens,,groen: geen wijzigingen,NL-CM:13.1.12,ReferentieOndergrens,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.13,TestDatumTijd,,groen: geen wijzigingen,NL-CM:13.1.13,TestDatumTijd,,,,,,,,
 LaboratoriumUitslag,NL-CM:13.1.14,InterpretatieVlaggen,InterpretatieVlaggenCodelijst,geel: patch wijziging,NL-CM:13.1.14,InterpretatieVlaggen,InterpretatieVlaggenCodelijst,ZIB-1148,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 LaboratoriumUitslag,NL-CM:13.1.15,Monsternummer,,rood: major change,NL-CM:13.1.15,Monsternummer,,ZIB-1016,Kardinaliteit van het element Monsternummer gewijzigd van 0..* naar 0..1,CARDINALITY CHANGE,High,ZERO-TO-MANY TO ZERO-TO-ONE,Low,ZERO-TO-ONE TO ZERO-TO-MANY
 LaboratoriumUitslag,NL-CM:13.1.16,Monstermateriaal,MonstermateriaalCodelijst,oranje: minor change,NL-CM:13.1.16,Monstermateriaal,MonstermateriaalCodelijst,ZIB-645,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [127454002 Device specimen],Medium,SCT DefintionCode  [127454002 Device specimen] -> [blank]
@@ -403,34 +385,34 @@ LaboratoriumUitslag,NL-CM:13.1.17,AfnameDatumTijd,,geel: patch wijziging,NL-CM:1
 LaboratoriumUitslag,NL-CM:13.1.18,Afnameprocedure,,geel: patch wijziging,NL-CM:13.1.18,Afnameprocedure,,ZIB-676,De engelse naam van de codelijst voor concept CollectionMethod is veranderd,SIMPLE PATCH CHANGE,Low,,Low,
 LaboratoriumUitslag,NL-CM:13.1.19,Toelichting,,geel: patch wijziging,NL-CM:13.1.19,Toelichting,,ZIB-880,Kleine Tekstwijzigingen omschrijving 'toelichting' bij monster in engels en Nederlands,SIMPLE PATCH CHANGE,Low,,Low,
 LaboratoriumUitslag,NL-CM:13.1.20,Monstervolgnummer,,groen: geen wijzigingen,NL-CM:13.1.20,Monstervolgnummer,,,,,,,,
-LaboratoriumUitslag,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,groen: geen wijzigingen,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.22,Microorganisme,,groen: geen wijzigingen,NL-CM:13.1.22,Microorganisme,,,,NO CHANGE,,,,
+LaboratoriumUitslag,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,groen: geen wijzigingen,NL-CM:13.1.21,Containertype,ContainerTypeCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.22,Microorganisme,,groen: geen wijzigingen,NL-CM:13.1.22,Microorganisme,,,,,,,,
 LaboratoriumUitslag,NL-CM:13.1.23,Microorganisme,MicroorganismeCodelijst,geel: patch wijziging,NL-CM:13.1.23,Microorganisme,MicroorganismeCodelijst,ZIB-901,Kleine tekstuele aanpassing in beschrijving bij microogranisme aan container monster.,SIMPLE PATCH CHANGE,Low,,Low,
-LaboratoriumUitslag,NL-CM:13.1.24,Verzamelperiode,,oranje: minor change,NL-CM:13.1.24,Verzamelperiode::TijdsInterval,,ZIB-669,nieuwe verwijzging naar sub bouwsteen tijdsinterval,CHANGE TO SUB HCIM,Medium,,Medium,SCT DefintionCode [blank] -> [4028008 StrongKidsScore VoedingstoestandScore]
-LaboratoriumUitslag,NL-CM:13.1.25,AannameDatumTijd,,groen: geen wijzigingen,NL-CM:13.1.25,AannameDatumTijd,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.26,AnatomischeLocatie,MonsterAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:13.1.36,AnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [MonsterAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[MonsterAnatomischeLocatieCodelijst]
+LaboratoriumUitslag,NL-CM:13.1.24,Verzamelperiode,,oranje: minor change,NL-CM:13.1.24,Verzamelperiode::TijdsInterval,,ZIB-669,nieuwe verwijzging naar sub bouwsteen tijdsinterval,CHANGE TO SUB HCIM,Medium,,Medium,
+LaboratoriumUitslag,NL-CM:13.1.25,AannameDatumTijd,,groen: geen wijzigingen,NL-CM:13.1.25,AannameDatumTijd,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.26,AnatomischeLocatie,MonsterAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:13.1.36,AnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [MonsterAnatomischeLocatieCodelijst]->[LocatieCodelijst],Medium,codelist [LocatieCodelijst]->[MonsterAnatomischeLocatieCodelijst]
 LaboratoriumUitslag,NL-CM:13.1.26,AnatomischeLocatie,AnatomischeLocatieCodelijst,oranje: minor change,NL-CM:13.1.36,AnatomischeLocatie::AnatomischeLocatie,AnatomischeLocatieCodelijst,ZIB-645,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [118169006 Specimen source topography] -> [405814001 Procedure site - Indirect],Medium,SCT DefintionCode  [405814001 Procedure site - Indirect] -> AnatomischeLocatie [118169006 Specimen source topography] 
-LaboratoriumUitslag,NL-CM:13.1.27,Lateraliteit,LateraliteitCodelijst,oranje: minor change,NL-CM:13.1.36,Lateraliteit::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [LateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[LateraliteitCodelijst]
-LaboratoriumUitslag,NL-CM:13.1.28,Morfologie,,groen: geen wijzigingen,NL-CM:13.1.28,Morfologie,,,,NO CHANGE,,,,
+LaboratoriumUitslag,NL-CM:13.1.27,Lateraliteit,LateraliteitCodelijst,oranje: minor change,NL-CM:13.1.36,Lateraliteit::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [LateraliteitCodelijst]->[LateraliteitCodelijst],Medium,codelist [LateraliteitCodelijst]->[LateraliteitCodelijst]
+LaboratoriumUitslag,NL-CM:13.1.28,Morfologie,,groen: geen wijzigingen,NL-CM:13.1.28,Morfologie,,,,,,,,
 LaboratoriumUitslag,NL-CM:13.1.29,BronMonster,,oranje: minor change,NL-CM:13.1.29,BronMonster,,ZIB-645,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [118170007 Specimen source identity] -> [127454002 Device specimen],Medium,SCT DefintionCode  [127454002 Device specimen] -> [118170007 Specimen source identity]
-LaboratoriumUitslag,NL-CM:13.1.30,InterpretatieMethode,InterpretatieMethodeCodelijst,groen: geen wijzigingen,NL-CM:13.1.30,InterpretatieMethode,InterpretatieMethodeCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.31,TestUitslagStatus,TestUitslagStatusCodelijst,groen: geen wijzigingen,NL-CM:13.1.31,TestUitslagStatus,TestUitslagStatusCodelijst,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.32,UitslagInterpretatie,,groen: geen wijzigingen,NL-CM:13.1.32,UitslagInterpretatie,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.33,GerelateerdeUitslag::LaboratoriumUitslag,,groen: geen wijzigingen,NL-CM:13.1.33,GerelateerdeUitslag::LaboratoriumUitslag,,,,NO CHANGE,,,,
-LaboratoriumUitslag,NL-CM:13.1.34,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:13.1.34,Aanvrager::Zorgverlener,,,,NO CHANGE,,,,
+LaboratoriumUitslag,NL-CM:13.1.30,InterpretatieMethode,InterpretatieMethodeCodelijst,groen: geen wijzigingen,NL-CM:13.1.30,InterpretatieMethode,InterpretatieMethodeCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.31,TestUitslagStatus,TestUitslagStatusCodelijst,groen: geen wijzigingen,NL-CM:13.1.31,TestUitslagStatus,TestUitslagStatusCodelijst,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.32,UitslagInterpretatie,,groen: geen wijzigingen,NL-CM:13.1.32,UitslagInterpretatie,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.33,GerelateerdeUitslag::LaboratoriumUitslag,,groen: geen wijzigingen,NL-CM:13.1.33,GerelateerdeUitslag::LaboratoriumUitslag,,,,,,,,
+LaboratoriumUitslag,NL-CM:13.1.34,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:13.1.34,Aanvrager::Zorgverlener,,,,,,,,
 LaboratoriumUitslag,NL-CM:13.1.35,**concept toegevoegd in 2020**,,rood: major change,NL-CM:13.1.35,Uitvoerder::Zorgaanbieder,,ZIB-649,Dataelement UitgevoerdDoor::Zorgaanbieder toe gevoegd.,CONCEPT ADDITION,Low,,High,IF [blank] source->target ELSE [toon en stuur de relatie tussen de labuitslag en UitgevoerdDoor::Zorgaanbieder naar een 2017 ontvanger. Maak eventueel een zorgaanbieder instance aan als deze nog niet bestaat ]
 Levensovertuiging,NL-CM:7.5.1,LevensovertuigingRC,,groen: geen wijzigingen,NL-CM:7.5.1,LevensovertuigingRC,,,,,,,,
 Levensovertuiging,NL-CM:7.5.2,Levensovertuiging,LevensovertuigingCodelijst,groen: geen wijzigingen,NL-CM:7.5.2,Levensovertuiging,LevensovertuigingCodelijst,,,,,,,
-Levensovertuiging,NL-CM:7.5.3,Toelichting,,rood: major change,NL-CM:7.5.3,Toelichting,,ZIB-763,Concept 'Toelichting' toegevoegd aan zib,CONCEPT ADDITION,Low,,High,
+Levensovertuiging,NL-CM:7.5.3,Toelichting,,rood: major change,NL-CM:7.5.3,Toelichting,,ZIB-763,Concept 'Toelichting' toegevoegd aan zib,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Lichaamsgewicht,NL-CM:12.1.1,Lichaamsgewicht,,oranje: minor change,NL-CM:12.1.1,Lichaamsgewicht,,ZIB-1184,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [39857003 Wegen van patiënt],Medium,SCT DefintionCode  [39857003 Wegen van patiënt] -> [blank]
 Lichaamsgewicht,NL-CM:12.1.2,GewichtWaarde,,oranje: minor change,NL-CM:12.1.2,GewichtWaarde,,ZIB-1184,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [27113001 Lichaamsgewicht],Medium,SCT DefintionCode [27113001 Lichaamsgewicht] -> [blank]
-Lichaamsgewicht,NL-CM:12.1.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.1.3,Toelichting,,,,NO CHANGE,,,,
-Lichaamsgewicht,NL-CM:12.1.4,GewichtDatumTijd,,groen: geen wijzigingen,NL-CM:12.1.4,GewichtDatumTijd,,,,NO CHANGE,,,,
+Lichaamsgewicht,NL-CM:12.1.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.1.3,Toelichting,,,,,,,,
+Lichaamsgewicht,NL-CM:12.1.4,GewichtDatumTijd,,groen: geen wijzigingen,NL-CM:12.1.4,GewichtDatumTijd,,,,,,,,
 Lichaamsgewicht,NL-CM:12.1.5,Kleding,KledingCodelijst,oranje: minor change,NL-CM:12.1.5,Kleding,KledingCodelijst,ZIB-1184,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [248159006 State of dress],Medium,SCT DefintionCode  [248159006 State of dress] -> [blank]
 Lichaamslengte,NL-CM:12.2.1,Lichaamslengte,,oranje: minor change,NL-CM:12.2.1,Lichaamslengte,,ZIB-1185,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [248327008 Algemene bevinding betreffende lichaamslengte],Medium,SCT DefintionCode  [248327008 Algemene bevinding betreffende lichaamslengte] -> [blank]
-Lichaamslengte,NL-CM:12.2.2,LengteWaarde,,groen: geen wijzigingen,NL-CM:12.2.2,LengteWaarde,,,,NO CHANGE,,,,
-Lichaamslengte,NL-CM:12.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.2.3,Toelichting,,,,NO CHANGE,,,,
-Lichaamslengte,NL-CM:12.2.4,LengteDatumTijd,,groen: geen wijzigingen,NL-CM:12.2.4,LengteDatumTijd,,,,NO CHANGE,,,,
+Lichaamslengte,NL-CM:12.2.2,LengteWaarde,,groen: geen wijzigingen,NL-CM:12.2.2,LengteWaarde,,,,,,,,
+Lichaamslengte,NL-CM:12.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.2.3,Toelichting,,,,,,,,
+Lichaamslengte,NL-CM:12.2.4,LengteDatumTijd,,groen: geen wijzigingen,NL-CM:12.2.4,LengteDatumTijd,,,,,,,,
 Lichaamslengte,NL-CM:12.2.5,Positie,PositieCodelijst,oranje: minor change,NL-CM:12.2.5,Positie,PositieCodelijst,ZIB-1185,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [425260001 Lichaamshouding voor bepalen van lengte],Medium,SCT DefintionCode  [425260001 Lichaamshouding voor bepalen van lengte] -> [blank]
 Lichaamstemperatuur,NL-CM:12.6.1,Lichaamstemperatuur,,oranje: minor change,NL-CM:12.6.1,Lichaamstemperatuur,,ZIB-1186,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [56342008 Temperatuur meten],Medium,SCT DefintionCode [56342008 Temperatuur meten] -> [blank]
 Lichaamstemperatuur,NL-CM:12.6.2,TemperatuurWaarde,,groen: geen wijzigingen,NL-CM:12.6.2,TemperatuurWaarde,,,,,,,,
@@ -439,19 +421,17 @@ Lichaamstemperatuur,NL-CM:12.6.4,TemperatuurDatumTijd,,groen: geen wijzigingen,N
 Lichaamstemperatuur,NL-CM:12.6.5,TemperatuurType,TemperatuurTypeCodelijst,geel: patch wijziging,NL-CM:12.6.5,TemperatuurType,TemperatuurTypeCodelijst,ZIB-690,Tekst defintie concept TemperatuurType gewijzigd.,SIMPLE PATCH CHANGE,Low,,Low,
 Medicatieafspraak,NL-CM:9.6.1030,Voorschrijver::Zorgverlener,,groen: geen wijzigingen,NL-CM:9.6.1030,Voorschrijver::Zorgverlener,,,,,,,,
 Medicatieafspraak,NL-CM:9.6.19757,MedicatieafspraakDatumTijd,,groen: geen wijzigingen,NL-CM:9.6.19757,MedicatieafspraakDatumTijd,,,,,,,,
-Medicatieafspraak,NL-CM:9.6.19925,Afgesprokengeneesmiddel::FarmaceutischProduct,,oranje: minor change,NL-CM:9.6.19925,Afgesprokengeneesmiddel::FarmaceutischProduct,,ZIB-911,In engelse vertaling overal Farmaceutical vervangen door Pharmaceutical (7X),CONCEPT NAME CHANGED (EN),low,CONCEPT NAME CHANGED (EN): AgreedMedicine::FarmaceuticalProduct -> AgreedMedicine::PharmaceuticalProduct ,low,CONCEPT NAME CHANGED (EN): AgreedMedicine::PharmaceuticalProduct -> AgreedMedicine::FarmaceuticalProduct
+Medicatieafspraak,NL-CM:9.6.19925,Afgesprokengeneesmiddel::FarmaceutischProduct,,oranje: minor change,NL-CM:9.6.19925,Afgesprokengeneesmiddel::FarmaceutischProduct,,ZIB-911,In engelse vertaling overal Farmaceutical vervangen door Pharmaceutical (7X),CONCEPT NAME CHANGED (EN),low,CONCEPT NAME CHANGED (EN): AgreedMedicine::FarmaceuticalProduct -> AgreedMedicine::PharmaceuticalProduct ,low,AgreedMedicine::PharmaceuticalProduct -> AgreedMedicine::FarmaceuticalProduct
 Medicatieafspraak,NL-CM:9.6.19936,Gebruiksperiode::TijdsInterval,,groen: geen wijzigingen,NL-CM:9.6.19936,Gebruiksperiode::TijdsInterval,,,,,,,,
-Medicatieafspraak,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,ZIB-888,DCM::DefinitionCodes van de medicatie zibs gelijk getrokken aan de wijzigingen reeds doorgevoerd in MedicatieProces(MP). ,TERMINOLOGY MAPPING CONCEPT CHANGE ,low,SCT DefintionCode [blank] -> [274512008 Behandeling met geneesmiddel stopgezet],low,SCT DefintionCode [274512008 Behandeling met geneesmiddel stopgezet] -> [blank] 
+Medicatieafspraak,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,ZIB-888,DCM::DefinitionCodes van de medicatie zibs gelijk getrokken aan de wijzigingen reeds doorgevoerd in MedicatieProces(MP). ,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [274512008 Behandeling met geneesmiddel stopgezet],Medium,SCT DefintionCode [274512008 Behandeling met geneesmiddel stopgezet]->[blank]
 Medicatieafspraak,NL-CM:9.6.22273,Toelichting,,groen: geen wijzigingen,NL-CM:9.6.22273,Toelichting,,,,,,,,
-Medicatieafspraak,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,ZIB-888|ZIB-1454,"DefinitionCode toegevoegd aan concept
-Erratum. SCT codes in codelijst zijn vervangen. Klopten niet mee. Uiteindelijke lijst heeft 2 items (met 2 deprecated)",VALUESET CHANGES,medium,"
-VALUESET CHANGES",medium,"
-VALUESET CHANGES"
+Medicatieafspraak,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.6.19954,MedicatieafspraakStopType,MedicatieafspraakStopTypeCodelijst,ZIB-1454,"De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.
+Erratum. SCT codes in codelijst zijn vervangen. Klopten niet mee. Uiteindelijke lijst heeft 2 items (met 2 deprecated)",VALUESET CHANGES,medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Medicatieafspraak,NL-CM:9.6.23240,Gebruiksinstructie,,groen: geen wijzigingen,NL-CM:9.6.23240,Gebruiksinstructie,,,,,,,,
 Medicatieafspraak,NL-CM:9.6.23283,MedicatieafspraakAanvullendeInformatie,MedicatieafspraakAanvullendeInformatieCodelijst,groen: geen wijzigingen,NL-CM:9.6.23283,MedicatieafspraakAanvullendeInformatie,MedicatieafspraakAanvullendeInformatieCodelijst,,,,,,,
-Medicatieafspraak,NL-CM:9.6.22094,RedenMedicatieafspraak,RedenMedicatieafspraakCodelijst,oranje: minor change,NL-CM:9.6.22094,RedenMedicatieafspraak,RedenMedicatieafspraakCodelijst,ZIB-888,DefinitionCode toegevoegd aan concept,TERMINOLOGY MAPPING CONCEPT CHANGE ,low,SCT DefintionCode [blank] -> [112241000146101 Reden voor voorschrift],low,SCT DefintionCode [112241000146101 Reden voor voorschrift] -> [blank] 
-Medicatieafspraak,NL-CM:9.6.23133,RedenVanVoorschrijven::Probleem,,oranje: minor change,NL-CM:9.6.23133,RedenVanVoorschrijven::Probleem,,ZIB-888,DefinitionCode toegevoegd aan concept,TERMINOLOGY MAPPING CONCEPT CHANGE ,low,SCT DefintionCode [blank] -> [112201000146104 Medische reden van voorschrijven],low,SCT DefintionCode [112201000146104 Medische reden van voorschrijven] -> [blank] 
-Medicatieafspraak,NL-CM:9.6.9580,Medicatieafspraak,,oranje: minor change,NL-CM:9.6.9580,Medicatieafspraak,,ZIB-888,DefinitionCode toegevoegd aan rootconcept,TERMINOLOGY MAPPING CONCEPT CHANGE ,low,SCT DefintionCode [blank] -> [16076005 Voorschrijven],low,SCT DefintionCode [16076005 Voorschrijven] -> [blank] 
+Medicatieafspraak,NL-CM:9.6.22094,RedenMedicatieafspraak,RedenMedicatieafspraakCodelijst,oranje: minor change,NL-CM:9.6.22094,RedenMedicatieafspraak,RedenMedicatieafspraakCodelijst,ZIB-888,DefinitionCode toegevoegd aan concept,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [112241000146101 Reden voor voorschrift],Medium,SCT DefintionCode [112241000146101 Reden voor voorschrift] -> [blank] 
+Medicatieafspraak,NL-CM:9.6.23133,RedenVanVoorschrijven::Probleem,,oranje: minor change,NL-CM:9.6.23133,RedenVanVoorschrijven::Probleem,,ZIB-888,DefinitionCode toegevoegd aan concept,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [112201000146104 Medische reden van voorschrijven],Medium,SCT DefintionCode [112201000146104 Medische reden van voorschrijven] -> [blank] 
+Medicatieafspraak,NL-CM:9.6.9580,Medicatieafspraak,,oranje: minor change,NL-CM:9.6.9580,Medicatieafspraak,,ZIB-888,DefinitionCode toegevoegd aan rootconcept,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [16076005 Voorschrijven],Medium,SCT DefintionCode [16076005 Voorschrijven] -> [blank] 
 Medicatieafspraak,NL-CM:9.6.23023,Lichaamslengte,,rood: major change,,,,ZIB-1020,verwijzing naar zib lichaamslengte verwijderd,CONCEPT REMOVED,high,DELETED FIELD:  IF NL-CM:9.6.23023 <> [blank] THEN source -> target=[rootconcept lichaamslengte zib],low,
 Medicatieafspraak,NL-CM:9.6.23028,Lichaamsgewicht,,rood: major change,,,,ZIB-1020,verwijzing naar zib lichaamsgewicht verwijderd,CONCEPT REMOVED,high,DELETED FIELD:  IF NL-CM:9.6.23028 <> [blank] THEN source -> target=[rootconcept lichaamsgewicht zib],low,
 Medicatieafspraak,NL-CM:9.6.23033,GeannuleerdIndicator,,rood: major change,,,,ZIB-1021,geanuleerd indicator verwijderd,CONCEPT REMOVED,high,vgeanuleerde medicatieafspraken zijn conceptueel geen afspraken en bestaan ook niet als zodanig in publicatie 2020. Als translatie hiervoor nodig is zal er een non-zib data item moeten bestaan of worden aangemaakt in de dataset.,low,
@@ -478,20 +458,20 @@ MedicatieToediening2,NL-CM:9.13.21337,Toelichting,,groen: geen wijzigingen,NL-CM
 Medicatieverstrekking,Medicatie zibs momenteel on hold,,,,Medicatie zibs momenteel on hold,,,,,,,,,
 MedischHulpmiddel,DCM::Issues,Issues,,geel: patch wijziging,DCM::Issues,Issues,,ZIB-673,tekstwijziging issue verwijderd,SIMPLE PATCH CHANGE,Low,,Low,
 MedischHulpmiddel,DCM::Issues,Issues,,geel: patch wijziging,DCM::Issues,Issues,,ZIB-1135,Tekst verwijderd,SIMPLE PATCH CHANGE,Low,,Low,
-MedischHulpmiddel,NL-CM:10.1.1,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.1.1,MedischHulpmiddel,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.1,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:10.1.1,MedischHulpmiddel,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.2,Product,,geel: patch wijziging,NL-CM:10.1.2,Product,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.3,ProductType,ProductTypeCodelijst,oranje: minor change,NL-CM:10.1.3,ProductType,ProductTypeCodelijst,ZIB-1536 ; ZIB-1586,"Waarden voor 'geen' toevoegen aan ProductTypeCodelist, OTH toegestaan bij ‘Required Binding'",VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 MedischHulpmiddel,NL-CM:10.1.4,ProductID,"GTINProductIDCodelijst
 HIBCProductIDCodelijst",groen: geen wijzigingen,NL-CM:10.1.4,ProductID,"GTINProductIDCodelijst
-HIBCProductIDCodelijst",,,NO CHANGE,,,,
+HIBCProductIDCodelijst",,,,,,,
 MedischHulpmiddel,NL-CM:10.1.6,AnatomischeLocatie,HulpmiddelAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:10.1.15,AnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [HulpmiddelAnatomischeLocatieCodelijst]->[LocatieCodelijst ],Medium,codelist [LocatieCodelijst]->[HulpmiddelAnatomischeLocatieCodelijst]
-MedischHulpmiddel,NL-CM:10.1.7,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:10.1.7,Indicatie::Probleem,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.7,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:10.1.7,Indicatie::Probleem,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.8,Locatie::Zorgaanbieder,,geel: patch wijziging,NL-CM:10.1.8,Locatie::Zorgaanbieder,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.9,Zorgverlener,,geel: patch wijziging,NL-CM:10.1.9,Zorgverlener,,ZIB-673 ; ZIB-1120,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.10,Toelichting,,geel: patch wijziging,NL-CM:10.1.10,Toelichting,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.11,BeginDatum,,geel: patch wijziging,NL-CM:10.1.11,BeginDatum,,ZIB-673,Tekstwijziging 'medical aid' naar 'medical device'.,SIMPLE PATCH CHANGE (EN),Low,,Low,
 MedischHulpmiddel,NL-CM:10.1.12,Lateraliteit,MedischHulpmiddelLateraliteitCodelijst ,oranje: minor change,NL-CM:10.1.15,Lateraliteit::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [MedischHulpmiddelLateraliteitCodelijst ]->[LateraliteitCodelijst ],Medium,codelist [LateraliteitCodelijst]->[MedischHulpmiddelLateraliteitCodelijst ]
-MedischHulpmiddel,NL-CM:10.1.13,ProductOmschrijving,,groen: geen wijzigingen,NL-CM:10.1.13,ProductOmschrijving,,,,NO CHANGE,,,,
+MedischHulpmiddel,NL-CM:10.1.13,ProductOmschrijving,,groen: geen wijzigingen,NL-CM:10.1.13,ProductOmschrijving,,,,,,,,
 MedischHulpmiddel,NL-CM:10.1.14,**concept toegevoegd in 2020**,,rood: major change,NL-CM:10.1.14,EindDatum,,ZIB-680,Toevoegen EindDatum bij zibs die ook BeginDatum kennen,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Mobiliteit,NL-CM:4.3.1,Mobiliteit,,groen: geen wijzigingen,NL-CM:4.3.1,Mobiliteit,,,,,,,,
 Mobiliteit,NL-CM:4.3.3,Lopen,LopenCodelijst,oranje: minor change,NL-CM:4.3.3,Lopen,LopenCodelijst,ZIB-1113,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
@@ -509,17 +489,17 @@ MUSTScore,NL-CM:4.5.4,GewichtsverliesScore,MUSTGewichtsverliesScoreCodelijst,ora
 MUSTScore,NL-CM:4.5.5,ZiekteScore,ZiekteScoreCodelijst,oranje: minor change,NL-CM:4.5.5,ZiekteScore,ZiekteScoreCodelijst,ZIB-922,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [4005005 MUSTScore ZiekteScore],Medium,SCT DefinitionCode [4005005 MUSTScore ZiekteScore] -> [blank]
 MUSTScore,NL-CM:4.5.6,MUSTScoreDatumTijd,,groen: geen wijzigingen,NL-CM:4.5.6,MUSTScoreDatumTijd,,,,,,,,
 MUSTScore,NL-CM:4.5.7,Toelichting,,groen: geen wijzigingen,NL-CM:4.5.7,Toelichting,,,,,,,,
-Naamgegevens,NL-CM:20.4.1,Naamgegevens,,groen: geen wijzigingen,NL-CM:20.4.1,Naamgegevens,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.2,Geslachtsnaam,,groen: geen wijzigingen,NL-CM:20.4.2,Geslachtsnaam,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.3,GeslachtsnaamPartner,,groen: geen wijzigingen,NL-CM:20.4.3,GeslachtsnaamPartner,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.4,Voornamen,,groen: geen wijzigingen,NL-CM:20.4.4,Voornamen,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.5,Initialen,,groen: geen wijzigingen,NL-CM:20.4.5,Initialen,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.6,Roepnaam,,groen: geen wijzigingen,NL-CM:20.4.6,Roepnaam,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.7,Naamgebruik,NaamgebruikCodelijst,groen: geen wijzigingen,NL-CM:20.4.7,Naamgebruik,NaamgebruikCodelijst,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.8,AchternaamPartner,,groen: geen wijzigingen,NL-CM:20.4.8,AchternaamPartner,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.9,VoorvoegselsPartner,,groen: geen wijzigingen,NL-CM:20.4.9,VoorvoegselsPartner,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.10,Achternaam,,groen: geen wijzigingen,NL-CM:20.4.10,Achternaam,,,,NO CHANGE,,,,
-Naamgegevens,NL-CM:20.4.11,Voorvoegsels,,groen: geen wijzigingen,NL-CM:20.4.11,Voorvoegsels,,,,NO CHANGE,,,,
+Naamgegevens,NL-CM:20.4.1,Naamgegevens,,groen: geen wijzigingen,NL-CM:20.4.1,Naamgegevens,,,,,,,,
+Naamgegevens,NL-CM:20.4.2,Geslachtsnaam,,groen: geen wijzigingen,NL-CM:20.4.2,Geslachtsnaam,,,,,,,,
+Naamgegevens,NL-CM:20.4.3,GeslachtsnaamPartner,,groen: geen wijzigingen,NL-CM:20.4.3,GeslachtsnaamPartner,,,,,,,,
+Naamgegevens,NL-CM:20.4.4,Voornamen,,groen: geen wijzigingen,NL-CM:20.4.4,Voornamen,,,,,,,,
+Naamgegevens,NL-CM:20.4.5,Initialen,,groen: geen wijzigingen,NL-CM:20.4.5,Initialen,,,,,,,,
+Naamgegevens,NL-CM:20.4.6,Roepnaam,,groen: geen wijzigingen,NL-CM:20.4.6,Roepnaam,,,,,,,,
+Naamgegevens,NL-CM:20.4.7,Naamgebruik,NaamgebruikCodelijst,groen: geen wijzigingen,NL-CM:20.4.7,Naamgebruik,NaamgebruikCodelijst,,,,,,,
+Naamgegevens,NL-CM:20.4.8,AchternaamPartner,,groen: geen wijzigingen,NL-CM:20.4.8,AchternaamPartner,,,,,,,,
+Naamgegevens,NL-CM:20.4.9,VoorvoegselsPartner,,groen: geen wijzigingen,NL-CM:20.4.9,VoorvoegselsPartner,,,,,,,,
+Naamgegevens,NL-CM:20.4.10,Achternaam,,groen: geen wijzigingen,NL-CM:20.4.10,Achternaam,,,,,,,,
+Naamgegevens,NL-CM:20.4.11,Voorvoegsels,,groen: geen wijzigingen,NL-CM:20.4.11,Voorvoegsels,,,,,,,,
 Naamgegevens,NL-CM:20.4.12,**concept toegevoegd in 2020**,,rood: major change,NL-CM:20.4.12,Titels,,ZIB-1067,element titels toegevoegd aan informatiemodel,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Nationaliteit,NL-CM:7.6.1,NationaliteitRC,,groen: geen wijzigingen,NL-CM:7.6.1,NationaliteitRC,,,,,,,,
 Nationaliteit,NL-CM:7.6.3,Nationaliteit,NationaliteitCodelijst,groen: geen wijzigingen,NL-CM:7.6.3,Nationaliteit,NationaliteitCodelijst,,,,,,,
@@ -539,7 +519,7 @@ OntwikkelingKind,NL-CM:4.32.8,OntwikkelingSociaal,OntwikkelingSociaalCodelijst,g
 OntwikkelingKind,NL-CM:4.32.9,OntwikkelingTaal,OntwikkelingTaalCodelijst,groen: geen wijzigingen,NL-CM:4.32.9,OntwikkelingTaal,OntwikkelingTaalCodelijst,,,,,,,
 OntwikkelingKind,NL-CM:4.32.10,OntwikkelingVerstandelijk,OntwikkelingVerstandelijkCodelijst,oranje: minor change,NL-CM:4.32.10,OntwikkelingVerstandelijk,OntwikkelingVerstandelijkCodelijst,ZIB-844,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [364644000  Functional observable] -> [311465003 Cognitive functions],Medium,SCT DefinitionCode [311465003 Cognitive functions] -> [364644000  Functional observable]
 Opleiding,NL-CM:7.10.1,Opleiding,,groen: geen wijzigingen,NL-CM:7.10.1,Opleiding,,,,,,,,
-Opleiding,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,oranje: minor change,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,ZIB-957 ; ZIB-1096,Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen,VALUESET CHANGES,Medium,,Medium,
+Opleiding,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,oranje: minor change,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,ZIB-957; ZIB-1096,Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen,VALUESET CHANGES,Medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Opleiding,NL-CM:7.10.3,Toelichting,,groen: geen wijzigingen,NL-CM:7.10.3,Toelichting,,,,,,,,
 OverdrachtGeplandeZorgActiviteit,**zib vervallen in 2020**,,,,**zib vervallen in 2020**,,,,,,,,,
 ParticipatieInMaatschappij,NL-CM:18.6.1,ParticipatieInMaatschappij,,groen: geen wijzigingen,NL-CM:18.6.1,ParticipatieInMaatschappij,,,,,,,,
@@ -550,15 +530,15 @@ ParticipatieInMaatschappij,NL-CM:18.6.5,Toelichting,,groen: geen wijzigingen,NL-
 Patient,DCM::EvidenceBase,Evidence Base,,geel: patch wijziging,DCM::EvidenceBase,Evidence Base,,ZIB-647,Concept definitie en evidence base aangepast ,SIMPLE PATCH CHANGE,Low,,Low,
 Patient,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-647,Concept definitie en evidence base aangepast,SIMPLE PATCH CHANGE,Low,,Low,
 Patient,NL-CM:0.1.1,Patient,,oranje: minor change,NL-CM:0.1.1,Patient,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [116154003 Patiënt],Medium,SCT DefintionCode [116154003 Patiënt] -> [blank]
-Patient,NL-CM:0.1.4,AddressInformation,nl.zorg.part.Adresgegevens,groen: geen wijzigingen,NL-CM:0.1.4,AddressInformation,nl.zorg.part.Adresgegevens,,,NO CHANGE,,,,
-Patient,NL-CM:0.1.5,ContactInformation,nl.zorg.part.Contactgegevens,groen: geen wijzigingen,NL-CM:0.1.5,ContactInformation,nl.zorg.part.Contactgegevens,,,NO CHANGE,,,,
+Patient,NL-CM:0.1.4,AddressInformation,nl.zorg.part.Adresgegevens,groen: geen wijzigingen,NL-CM:0.1.4,AddressInformation,nl.zorg.part.Adresgegevens,,,,,,,
+Patient,NL-CM:0.1.5,ContactInformation,nl.zorg.part.Contactgegevens,groen: geen wijzigingen,NL-CM:0.1.5,ContactInformation,nl.zorg.part.Contactgegevens,,,,,,,
 Patient,NL-CM:0.1.6,NameInformation,nl.zorg.part.Naamgegevens,oranje: minor change,NL-CM:0.1.6,NameInformation,,ZIB-961,Kardinaliteit van het element Naamgegevens gewijzigd van 1 naar 0..1,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE ,Medium,ZERO-TO-ONE TO ONE
-Patient,NL-CM:0.1.7,PatientIdentificationNumber,,groen: geen wijzigingen,NL-CM:0.1.7,PatientIdentificationNumber,,,,NO CHANGE,,,,
+Patient,NL-CM:0.1.7,PatientIdentificationNumber,,groen: geen wijzigingen,NL-CM:0.1.7,PatientIdentificationNumber,,,,,,,,
 Patient,NL-CM:0.1.9,Gender,,oranje: minor change,NL-CM:0.1.9,Gender,,ZIB-1029,Kardinaliteit Geslacht gewijzigd van 1 naar 0..1,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
 Patient,NL-CM:0.1.10,DateOfBirth,,oranje: minor change,NL-CM:0.1.10,DateOfBirth,,ZIB-1029,Kardinaliteit Geboortedatum gewijzigd van 1 naar 0..1,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
-Patient,NL-CM:0.1.31,MultipleBirthIndicator,,groen: geen wijzigingen,NL-CM:0.1.31,MultipleBirthIndicator,,,,NO CHANGE,,,,
-Patient,NL-CM:0.1.32,OverlijdensIndicator,,groen: geen wijzigingen,NL-CM:0.1.32,OverlijdensIndicator,,,,NO CHANGE,,,,
-Patient,NL-CM:0.1.33,DateOfDeath,,groen: geen wijzigingen,NL-CM:0.1.33,DateOfDeath,,,,NO CHANGE,,,,
+Patient,NL-CM:0.1.31,MultipleBirthIndicator,,groen: geen wijzigingen,NL-CM:0.1.31,MultipleBirthIndicator,,,,,,,,
+Patient,NL-CM:0.1.32,OverlijdensIndicator,,groen: geen wijzigingen,NL-CM:0.1.32,OverlijdensIndicator,,,,,,,,
+Patient,NL-CM:0.1.33,DateOfDeath,,groen: geen wijzigingen,NL-CM:0.1.33,DateOfDeath,,,,,,,,
 Patientbespreking,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 Pijnkenmerken,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 Pijnscore,NL-CM:12.9.1,PijnScore,,oranje: minor change,NL-CM:12.9.1,PijnScore,,ZIB-927,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [425401001 Pain intensity rating scale],Medium,SCT DefintionCode [425401001 Pain intensity rating scale] -> [blank]
@@ -568,23 +548,23 @@ Pijnscore,NL-CM:12.9.4,PijnMeetmethode,PijnMeetmethodeCodelijst,groen: geen wijz
 Pijnscore,NL-CM:12.9.5,Toelichting,,groen: geen wijzigingen,NL-CM:12.9.5,Toelichting,,,,,,,,
 Pijnscore,NL-CM:12.9.6,AnatomischeLocatie,PijnAnatomischeLocatieCodelijst,rood: major change,NL-CM:12.9.6,**concept verwijderd in 2020**,,ZIB-979 ; ZIB-766,anatomische locatie verwijderd,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,
 Pijnscore,NL-CM:12.9.7,Lateraliteit,PijnLateraliteitCodelijst,rood: major change,NL-CM:12.9.7,**concept verwijderd in 2020**,,ZIB-979 ; ZIB-766,anatomische locatie verwijderd,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,
-Polsfrequentie,NL-CM:12.7.1,Polsfrequentie,,groen: geen wijzigingen,NL-CM:12.7.1,Polsfrequentie,,,,NO CHANGE,,,,
+Polsfrequentie,NL-CM:12.7.1,Polsfrequentie,,groen: geen wijzigingen,NL-CM:12.7.1,Polsfrequentie,,,,,,,,
 Polsfrequentie,NL-CM:12.7.2,PolsfrequentieWaarde,,oranje: minor change,NL-CM:12.7.2,PolsfrequentieWaarde,,ZIB-705,"De cardinaliteit van het element Polsfrequentiewaarde  (0..1) en Hartfrequentiewaarde uit zib Hartfrequentie (1) waren niet consistent. Dit is verbeterd, beiden zijn nu 1.",CARDINALITY CHANGE,Medium,ZERO-TO-ONE TO ONE,Low,ONE TO ZERO-TO-ONE
-Polsfrequentie,NL-CM:12.7.3,PolsfrequentieDatumTijd,,groen: geen wijzigingen,NL-CM:12.7.3,PolsfrequentieDatumTijd,,,,NO CHANGE,,,,
-Polsfrequentie,NL-CM:12.7.4,Toelichting,,groen: geen wijzigingen,NL-CM:12.7.4,Toelichting,,,,NO CHANGE,,,,
+Polsfrequentie,NL-CM:12.7.3,PolsfrequentieDatumTijd,,groen: geen wijzigingen,NL-CM:12.7.3,PolsfrequentieDatumTijd,,,,,,,,
+Polsfrequentie,NL-CM:12.7.4,Toelichting,,groen: geen wijzigingen,NL-CM:12.7.4,Toelichting,,,,,,,,
 Polsfrequentie,NL-CM:12.7.5,PolsRegelmatigheid,PolsRegelmatigheidCodelijst,oranje: minor change,NL-CM:12.7.5,PolsRegelmatigheid,PolsRegelmatigheidCodelijst,ZIB-689 ,LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefinitionCode [blank] -> [44969-4 Heart rate rhythm palpation],Medium,LOINC DefinitionCode [44969-4 Heart rate rhythm palpation] -> [blank] 
 Probleem,DCM::Instructions,Instructions,,geel: patch wijziging,DCM::Instructions,Instructions,,ZIB-1133 ,Tekstwijziging in instructions,SIMPLE PATCH CHANGE,Low,,Low,
-Probleem,NL-CM:5.1.1,Probleem,,groen: geen wijzigingen,NL-CM:5.1.1,Probleem,,,,NO CHANGE,,,,
+Probleem,NL-CM:5.1.1,Probleem,,groen: geen wijzigingen,NL-CM:5.1.1,Probleem,,,,,,,,
 Probleem,NL-CM:5.1.3,ProbleemNaam,ProbleemNaamCodelijst = Diagnosethesaurus DHD (SNOMED CT) ; ICD-10 ; Nationale Kernset Patiëntproblemen V&VN (SNOMED CT) ; NANDA-I ; Omaha Systems ; ICF ; ICPC-1 NL ; G-Standaard Contra Indicaties (Tabel 40) ; DSM-IV ; DSM-V,oranje: minor change,NL-CM:5.1.3,ProbleemNaam,"ProbleemNaamCodelijst = Omaha Systems [DEPRECATED] ; G-Standaard Contra Indicaties (Tabel 40) [DEPRECATED] ; DHD Diagnosethesaurus ; ICD-10, dutch translation ; SNOMED CT: ^11721000146100 ; Nationale kernset patiëntproblemen ; ICF ; ICPC-1 NL ; DSM-IV ; DSM-5 ; GGZ Diagnoselijst)",ZIB-1110 ; ZIB-661 ; ZIB-987 ; ZIB-1133 ; ZIB-1175 ; ZIB-624 ; ZIB-1477,diverse wijzigingen in codelijst (codestelsels en referentiesets),VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Probleem,NL-CM:5.1.4,ProbleemStatus,ProbleemStatusCodelijst,groen: geen wijzigingen,NL-CM:5.1.4,ProbleemStatus,ProbleemStatusCodelijst,,,NO CHANGE,,,,
-Probleem,NL-CM:5.1.5,Toelichting,,groen: geen wijzigingen,NL-CM:5.1.5,Toelichting,,,,NO CHANGE,,,,
+Probleem,NL-CM:5.1.4,ProbleemStatus,ProbleemStatusCodelijst,groen: geen wijzigingen,NL-CM:5.1.4,ProbleemStatus,ProbleemStatusCodelijst,,,,,,,
+Probleem,NL-CM:5.1.5,Toelichting,,groen: geen wijzigingen,NL-CM:5.1.5,Toelichting,,,,,,,,
 Probleem,NL-CM:5.1.6,ProbleemBeginDatum,,geel: patch wijziging,NL-CM:5.1.6,ProbleemBeginDatum,,ZIB-963 ; ZIB-1202,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 Probleem,NL-CM:5.1.8,ProbleemType,ProbleemTypeCodelijst,oranje: minor change,NL-CM:5.1.8,ProbleemType,ProbleemTypeCodelijst,ZIB-627,uitbreiding codelijst met item 'bevinding',VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Probleem,NL-CM:5.1.9,ProbleemEindDatum,,groen: geen wijzigingen,NL-CM:5.1.9,ProbleemEindDatum,,,,NO CHANGE,,,,
-Probleem,NL-CM:5.1.10,VerificatieStatus,VerificatieStatusCodelijst,groen: geen wijzigingen,NL-CM:5.1.10,VerificatieStatus,VerificatieStatusCodelijst,,,NO CHANGE,,,,
-Probleem,NL-CM:5.1.11,ProbleemAnatomischeLocatie,ProbleemAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-816 ; ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [ProbleemAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[ProbleemAnatomischeLocatieCodelijst]
+Probleem,NL-CM:5.1.9,ProbleemEindDatum,,groen: geen wijzigingen,NL-CM:5.1.9,ProbleemEindDatum,,,,,,,,
+Probleem,NL-CM:5.1.10,VerificatieStatus,VerificatieStatusCodelijst,groen: geen wijzigingen,NL-CM:5.1.10,VerificatieStatus,VerificatieStatusCodelijst,,,,,,,
+Probleem,NL-CM:5.1.11,ProbleemAnatomischeLocatie,ProbleemAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-816 ; ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [ProbleemAnatomischeLocatieCodelijst]->[LocatieCodelijst],Medium,codelist [LocatieCodelijst]->[ProbleemAnatomischeLocatieCodelijst]
 Probleem,NL-CM:5.1.11,ProbleemAnatomischeLocatie,ProbleemAnatomischeLocatieCodelijst,geel: patch wijziging,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,AnatomischeLocatieCodelijst,ZIB-816 ; ZIB-1116,Tekstwijziging definitie concept,SIMPLE PATCH CHANGE,Low,,Low,
-Probleem,NL-CM:5.1.12,ProbleemLateraliteit,ProbleemLateraliteitCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::Lateraliteit,LateraliteitCodelijs,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [ProbleemLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[ProbleemLateraliteitCodelijst]
+Probleem,NL-CM:5.1.12,ProbleemLateraliteit,ProbleemLateraliteitCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::Lateraliteit,LateraliteitCodelijs,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [ProbleemLateraliteitCodelijst]->[LateraliteitCodelijst],Medium,codelist [LateraliteitCodelijst]
 Probleem,NL-CM:5.1.13,**concept toegevoegd in 2020**,,rood: major change,NL-CM:5.1.13,NadereSpecificatieProbleemNaam,,ZIB-1147,Item 'NadereSpecificatieProbleemNaam' toegevoegd aan informatiemodel. ,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Refractie,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 Schedelomvang,NL-CM:12.14.1,Schedelomvang,,oranje: minor change,NL-CM:12.14.1,Schedelomvang,,ZIB-928,LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefinitionCode [blank] -> [9843-4 Head Occipital-frontal circumference],Medium,LOINC DefinitionCode [9843-4 Head Occipital-frontal circumference] ->  [blank]
@@ -628,10 +608,10 @@ SondeSysteem,NL-CM:10.3.8,SondeLengte,,groen: geen wijzigingen,NL-CM:10.3.8,Sond
 Stoma,NL-CM:5.2.1,Stoma,,groen: geen wijzigingen,NL-CM:5.2.1,Stoma,,,,,,,,
 Stoma,NL-CM:5.2.2,StomaType,StomaTypeCodelijst,groen: geen wijzigingen,NL-CM:5.2.2,StomaType,StomaTypeCodelijst,,,,,,,
 Stoma,NL-CM:5.2.3,StomaMateriaal::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:5.2.3,StomaMateriaal::MedischHulpmiddel,,,,,,,,
-Stoma,NL-CM:5.2.4,AnatomischeLocatie,StomaAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [StomaAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[StomaAnatomischeLocatieCodelijst]
+Stoma,NL-CM:5.2.4,AnatomischeLocatie,StomaAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [StomaAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst]->[StomaAnatomischeLocatieCodelijst]
 Stoma,NL-CM:5.2.5,AanlegDatum,,groen: geen wijzigingen,NL-CM:5.2.5,AanlegDatum,,,,,,,,
 Stoma,NL-CM:5.2.7,Toelichting,,groen: geen wijzigingen,NL-CM:5.2.7,Toelichting,,,,,,,,
-Stoma,NL-CM:5.2.8,Lateraliteit,StomaLateraliteitCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [StomaLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[StomaLateraliteitCodelijst]
+Stoma,NL-CM:5.2.8,Lateraliteit,StomaLateraliteitCodelijst,oranje: minor change,NL-CM:5.1.14,ProbleemAnatomischeLocatie::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [StomaLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst]->[StomaLateraliteitCodelijst]
 StrongKidsScore,NL-CM:4.28.1,StrongKidsScore,,oranje: minor change,NL-CM:4.28.1,StrongKidsScore,,ZIB-932,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [108341000146107 STRONGkids-screeningsinstrument],Medium,SCT DefintionCode [108341000146107 STRONGkids-screeningsinstrument] -> [blank]
 StrongKidsScore,NL-CM:4.28.2,TotaalScore,,oranje: minor change,NL-CM:4.28.2,TotaalScore,,ZIB-932,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [108911000146107 Short Nutritional Questionnaire total score],Medium,SCT DefintionCode [108911000146107 Short Nutritional Questionnaire total score] -> [blank]
 StrongKidsScore,NL-CM:4.28.3,GewichtsverliesScore,SKGewichtsverliesScoreCodelijst,oranje: minor change,NL-CM:4.28.3,GewichtsverliesScore,SKGewichtsverliesScoreCodelijst,ZIB-932,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [4028003 StrongKidsScore GewichtsverliesScore],Medium,SCT DefintionCode [4028003 StrongKidsScore GewichtsverliesScore] -> [blank]
@@ -647,15 +627,15 @@ Taalvaardigheid,NL-CM:7.12.6,TaalvaardigheidBegrijpen,TaalvaardigheidBegrijpenCo
 Taalvaardigheid,NL-CM:7.12.7,TaalvaardigheidSpreken,TaalvaardigheidSprekenCodelijst,oranje: minor change,NL-CM:7.12.7,TaalvaardigheidSpreken,TaalvaardigheidSprekenCodelijst,ZIB-1192,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [286367001 Ability to speak],Medium,SCT DefinitionCode  [286367001 Ability to speak] -> [blank] 
 Taalvaardigheid,NL-CM:7.12.8,TaalvaardigheidLezen,TaalvaardigheidLezenCodelijst,oranje: minor change,NL-CM:7.12.8,TaalvaardigheidLezen,TaalvaardigheidLezenCodelijst,ZIB-1192,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [ 309250007 Ability to read],Medium,SCT DefinitionCode  [ 309250007 Ability to read] -> [blank] 
 Taalvaardigheid,NL-CM:7.12.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.12.9,CommunicatieBijzonderheden,CommunicatieBijzonderhedenCodelijst,ZIB-983,Element CommunicatieBijzonderheden toegevoegd met een waardelijst die gebarentaal en Braille schrift bevat.,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
-TabakGebruik,NL-CM:7.2.1,TabakGebruik,,groen: geen wijzigingen,NL-CM:7.2.1,TabakGebruik,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.2,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.2.2,WaarnemingGebruik,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:7.2.3,Toelichting,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.4,StartDatum,,groen: geen wijzigingen,NL-CM:7.2.4,StartDatum,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.5,StopDatum,,groen: geen wijzigingen,NL-CM:7.2.5,StopDatum,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.6,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.2.6,Hoeveelheid,,,,NO CHANGE,,,,
-TabakGebruik,NL-CM:7.2.7,PackYears,,groen: geen wijzigingen,NL-CM:7.2.7,PackYears,,,,NO CHANGE,,,,
+TabakGebruik,NL-CM:7.2.1,TabakGebruik,,groen: geen wijzigingen,NL-CM:7.2.1,TabakGebruik,,,,,,,,
+TabakGebruik,NL-CM:7.2.2,WaarnemingGebruik,,groen: geen wijzigingen,NL-CM:7.2.2,WaarnemingGebruik,,,,,,,,
+TabakGebruik,NL-CM:7.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:7.2.3,Toelichting,,,,,,,,
+TabakGebruik,NL-CM:7.2.4,StartDatum,,groen: geen wijzigingen,NL-CM:7.2.4,StartDatum,,,,,,,,
+TabakGebruik,NL-CM:7.2.5,StopDatum,,groen: geen wijzigingen,NL-CM:7.2.5,StopDatum,,,,,,,,
+TabakGebruik,NL-CM:7.2.6,Hoeveelheid,,groen: geen wijzigingen,NL-CM:7.2.6,Hoeveelheid,,,,,,,,
+TabakGebruik,NL-CM:7.2.7,PackYears,,groen: geen wijzigingen,NL-CM:7.2.7,PackYears,,,,,,,,
 TabakGebruik,NL-CM:7.2.9,SoortTabakGebruik,SoortTabakGebruikCodelijst,oranje: minor change,NL-CM:7.2.9,SoortTabakGebruik,SoortTabakGebruikCodelijst,ZIB-770 ; ZIB-716 ; ZIB-811,Kauwtabak (81703003) als Snuiftabak (228494002 ) als E-sigaret (722499006) zijn toegevoegd aan SoortTabakGebruikCodelijst,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-TabakGebruik,NL-CM:7.2.10,TabakGebruikStatus,,groen: geen wijzigingen,NL-CM:7.2.10,TabakGebruikStatus,,,,NO CHANGE,,,,
+TabakGebruik,NL-CM:7.2.10,TabakGebruikStatus,,groen: geen wijzigingen,NL-CM:7.2.10,TabakGebruikStatus,,,,,,,,
 TekstUitslag,NL-CM:13.2.1,TekstUitslag,,oranje: minor change,NL-CM:13.2.1,TekstUitslag,,ZIB-1187,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [371525003 Clinical procedure report],Medium,SCT DefintionCode  [371525003 Clinical procedure report] -> [blank]
 TekstUitslag,NL-CM:13.2.2,TekstResultaat,,geel: patch wijziging,NL-CM:13.2.2,TekstResultaat,,ZIB-955,Aanpassing spelfout in defintie concept TekstResultaat.,SIMPLE PATCH CHANGE,Low,,Low,
 TekstUitslag,NL-CM:13.2.2,TekstResultaat,,oranje: minor change,NL-CM:13.2.2,TekstResultaat,,ZIB-1187,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [423100009 Results section],Medium,SCT DefintionCode [423100009 Results section] -> [blank]
@@ -670,7 +650,7 @@ TijdsInterval,NL-CM:20.3.2,startDatumTijd,,groen: geen wijzigingen,NL-CM:20.3.2,
 TijdsInterval,NL-CM:20.3.3,eindDatumTijd,,groen: geen wijzigingen,NL-CM:20.3.3,eindDatumTijd,,,,,,,,
 TijdsInterval,NL-CM:20.3.4,tijdsDuur,,groen: geen wijzigingen,NL-CM:20.3.4,tijdsDuur,,,,,,,,
 TNMTumorClassificatie,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
-Toedieningsafspraak,NL-CM:9.8.20132,Toedieningsafspraak,,oranje: minor change,NL-CM:9.8.20132,Toedieningsafspraak,,ZIB-989,Toevoeging SNOMED CT code aan rootconcept.,TERMINOLOGY MAPPING CONCEPT CHANGE,low,SCT DefintionCode [blank] -> [422037009 Instrueren door zorgverlener over toediening van medicatie],low,SCT DefintionCode [422037009 Instrueren door zorgverlener over toediening van medicatie] -> [blank]
+Toedieningsafspraak,NL-CM:9.8.20132,Toedieningsafspraak,,oranje: minor change,NL-CM:9.8.20132,Toedieningsafspraak,,ZIB-989,Toevoeging SNOMED CT code aan rootconcept.,TERMINOLOGY MAPPING CONCEPT CHANGE,medium,SCT DefintionCode [blank] -> [422037009 Instrueren door zorgverlener over toediening van medicatie],medium,SCT DefintionCode [422037009 Instrueren door zorgverlener over toediening van medicatie] -> [blank]
 Toedieningsafspraak,NL-CM:9.8.20133,ToedieningsafspraakDatumTijd,,groen: geen wijzigingen,NL-CM:9.8.20133,ToedieningsafspraakDatumTijd,,,,,,,,
 Toedieningsafspraak,NL-CM:9.8.20237,GeneesmiddelBijToedieningsAfspraak::FarmaceutischProduct,,oranje: minor change,NL-CM:9.8.20237,GeneesmiddelBijToedieningsAfspraak::FarmaceutischProduct,,ZIB-911,In engelse vertaling overal Farmaceutical vervangen door Pharmaceutical (7X),CONCEPT NAME CHANGED (EN),low,CONCEPT NAME CHANGED (EN): _::FarmaceuticalProduct-> _::PharmaceuticalProduct ,low,CONCEPT NAME CHANGED (EN): _::PharmaceuticalProduct -> _::FarmaceuticalProduct
 Toedieningsafspraak,NL-CM:9.8.22097,Verstrekker::Zorgaanbieder,,groen: geen wijzigingen,NL-CM:9.8.22097,Verstrekker::Zorgaanbieder,,,,,,,,
@@ -678,8 +658,8 @@ Toedieningsafspraak,NL-CM:9.8.22098,Gebruiksinstructie,,groen: geen wijzigingen,
 Toedieningsafspraak,NL-CM:9.8.22275,Toelichting,,groen: geen wijzigingen,NL-CM:9.8.22275,Toelichting,,,,,,,,
 Toedieningsafspraak,NL-CM:9.8.22394,Medicatieafspraak,,groen: geen wijzigingen,NL-CM:9.8.22394,Medicatieafspraak,,,,,,,,
 Toedieningsafspraak,NL-CM:9.8.22498,ToediengingsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.8.22498,ToedieningsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,ZIB-1006,Tekstuele aanpassing typefout: ToedieningsafspraakStopType ipv ToediengingsafspraakStopType,CONCEPT NAME CHANGED (NL),low,ToediengingsafspraakStopType->ToedieningsafspraakStopType,low,ToedieningsafspraakStopType->ToediengingsafspraakStopType
-Toedieningsafspraak,NL-CM:9.8.22498,ToediengingsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.8.22498,ToedieningsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,ZIB-1454,De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.,VALUESET CHANGES,medium,,medium,
-Toedieningsafspraak,NL-CM:9.8.22499,RedenAfspraak,,oranje: minor change,NL-CM:9.8.22499,RedenAfspraak,,ZIB-888,SNOMED coderingen met medicatieproces gelijk getrokken,TERMINOLOGY MAPPING CONCEPT CHANGE,low,SCT DefintionCode [blank] -> [112231000146109 Reden van toedieningsinstructies],low,SCT DefintionCode [112231000146109 Reden van toedieningsinstructies] -> [blank]
+Toedieningsafspraak,NL-CM:9.8.22498,ToediengingsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,oranje: minor change,NL-CM:9.8.22498,ToedieningsafspraakStopType,ToedieningsafspraakStopTypeCodelijst,ZIB-1454,De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Toedieningsafspraak,NL-CM:9.8.22499,RedenAfspraak,,oranje: minor change,NL-CM:9.8.22499,RedenAfspraak,,ZIB-888,SNOMED coderingen met medicatieproces gelijk getrokken,TERMINOLOGY MAPPING CONCEPT CHANGE,medium,SCT DefintionCode [blank] -> [112231000146109 Reden van toedieningsinstructies],medium,SCT DefintionCode [112231000146109 Reden van toedieningsinstructies] -> [blank]
 Toedieningsafspraak,NL-CM:9.8.22660,Gebruiksperiode::TijdsInterval,,groen: geen wijzigingen,NL-CM:9.8.22660,Gebruiksperiode::TijdsInterval,,,,,,,,
 Toedieningsafspraak,NL-CM:9.8.23034,GeannuleerdIndicator,,groen: geen wijzigingen,NL-CM:9.8.23034,GeannuleerdIndicator,,,,,,,,
 Toedieningsafspraak,NL-CM:9.8.23284,ToedieningsafspraakAanvullendeInformatie,ToedieningsafspraakAanvullendeInformatieCodelijst,groen: geen wijzigingen,NL-CM:9.8.23284,ToedieningsafspraakAanvullendeInformatie,ToedieningsafspraakAanvullendeInformatieCodelijst,,,,,,,
@@ -690,15 +670,15 @@ UitkomstVanZorg,NL-CM:13.4.4,Interventie::VerpleegkundigeInterventie,,rood: majo
 UitkomstVanZorg,NL-CM:13.4.5,Zorgresultaat,,oranje: minor change,NL-CM:13.4.5,Zorgresultaat,,ZIB-1158,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefintionCode [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] -> [blank],Medium,LOINC DefintionCode [blank] ->  [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] 
 Vaccinatie,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-821,Tekst definitie aangepast voor ingeplande vaccinaties,SIMPLE PATCH CHANGE,Low,,Low,
 Vaccinatie,NL-CM:11.1.1,Vaccination,,geel: patch wijziging,NL-CM:11.1.1,Vaccination,,ZIB-821,Tekst definitie aangepast voor vaccinatie datum in toekomst,SIMPLE PATCH CHANGE,Low,,Low,
-Vaccinatie,NL-CM:11.1.2,ProductCode,,groen: geen wijzigingen,NL-CM:11.1.2,ProductCode,,,,NO CHANGE,,,,
+Vaccinatie,NL-CM:11.1.2,ProductCode,,groen: geen wijzigingen,NL-CM:11.1.2,ProductCode,,,,,,,,
 Vaccinatie,NL-CM:11.1.3,VaccinationDate,,oranje: minor change,NL-CM:11.1.3,VaccinationDate,,"ZIB-685;ZIB-664
 ",Kardinaliteit van VaccinatieDatum is gewijzigd naar 0..1.,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
 Vaccinatie,NL-CM:11.1.3,VaccinatieDatum,,oranje: minor change,NL-CM:11.1.3,VaccinatieDatum,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Vaccinatie,NL-CM:11.1.3,VaccinationDate,,geel: patch wijziging,NL-CM:11.1.3,VaccinationDate,,ZIB-821,Tekst definitie aangepast voor datum in toekomst zodat deze gebruikt kan worden voor een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden).,SIMPLE PATCH CHANGE,Low,,Low,
-Vaccinatie,NL-CM:11.1.4,Dose,,groen: geen wijzigingen,NL-CM:11.1.4,Dose,,,,NO CHANGE,,,,
+Vaccinatie,NL-CM:11.1.4,Dose,,groen: geen wijzigingen,NL-CM:11.1.4,Dose,,,,,,,,
 Vaccinatie,NL-CM:11.1.5,PreferedDateForRevaccination,,rood: major change,NL-CM:11.1.5,**concept verwijderd in 2020**,,ZIB-821,Om een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden) moet VaccinatieDatum worden gebruikt.  ‘GewensteDatumHervacciniatie’ is verwijderd.,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,niet mogelijk
-Vaccinatie,NL-CM:11.1.6,Administrator::Healthprofessional,,groen: geen wijzigingen,NL-CM:11.1.6,Administrator::Healthprofessional,,,,NO CHANGE,,,,
-Vaccinatie,NL-CM:11.1.7,Comment,,groen: geen wijzigingen,NL-CM:11.1.7,Comment,,,,NO CHANGE,,,,
+Vaccinatie,NL-CM:11.1.6,Administrator::Healthprofessional,,groen: geen wijzigingen,NL-CM:11.1.6,Administrator::Healthprofessional,,,,,,,,
+Vaccinatie,NL-CM:11.1.7,Comment,,groen: geen wijzigingen,NL-CM:11.1.7,Comment,,,,,,,,
 VermogenTotDrinken,NL-CM:4.8.1,VermogenTotDrinken,,groen: geen wijzigingen,NL-CM:4.8.1,VermogenTotDrinken,,,,,,,,
 VermogenTotDrinken,NL-CM:4.8.3,Drinken,DrinkenCodelijst,oranje: minor change,NL-CM:4.8.3,Drinken,DrinkenCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
 VermogenTotDrinken,NL-CM:4.8.4,DrinkBeperkingen,DrinkBeperkingenCodelijst,groen: geen wijzigingen,NL-CM:4.8.4,DrinkBeperkingen,DrinkBeperkingenCodelijst,,,,,,,
@@ -713,7 +693,7 @@ VermogenTotToiletgang,NL-CM:4.22.1,VermogenTotToiletgang,,groen: geen wijziginge
 VermogenTotToiletgang,NL-CM:4.22.1,VermogenTotToiletgang,,groen: geen wijzigingen,NL-CM:4.22.1,VermogenTotToiletgang,,,,,,,,
 VermogenTotToiletgang,NL-CM:4.22.4,ZorgBijMenstruatie,ZorgBijMenstruatieCodelijst,oranje: minor change,NL-CM:4.22.4,ZorgBijMenstruatie,ZorgBijMenstruatieCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
 VermogenTotToiletgang,NL-CM:4.22.6,Toiletgebruik,ToiletgebruikCodelijst,oranje: minor change,NL-CM:4.22.6,Toiletgebruik,ToiletgebruikCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
-VermogenTotUiterlijkeVerzorging,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,oranje: minor change,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,ZIB-1577,Engelse naam concept gewijzigd,CONCEPT NAME CHANGED (EN),Medium,,Medium,
+VermogenTotUiterlijkeVerzorging,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,oranje: minor change,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,ZIB-1577,Engelse naam concept gewijzigd,CONCEPT NAME CHANGED (EN),Low,,Medium,
 VermogenTotUiterlijkeVerzorging,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,geel: patch wijziging,NL-CM:4.33.1,VermogenTotUiterlijkeVerzorging,,ZIB-1213,"Tekstuele wijziging: AbilityToGroome aanpassen naar AbilityToGroom (Let op, maar half doorgevoerd alleen in omschrijving concept. ",SIMPLE PATCH CHANGE (EN),Low,,Low,
 VermogenTotUiterlijkeVerzorging,NL-CM:4.33.2,UiterlijkeVerzorging,UiterlijkeVerzorgingCodelijst,oranje: minor change,NL-CM:4.33.2,UiterlijkeVerzorging,UiterlijkeVerzorgingCodelijst,ZIB-1115,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
 VermogenTotVerpleegtechnischeHandelingen,NL-CM:4.34.1,VermogenTotVerpleegtechnischeHandelingen,,groen: geen wijzigingen,NL-CM:4.34.1,VermogenTotVerpleegtechnischeHandelingen,,,,,,,,
@@ -731,40 +711,40 @@ VermogenTotZichWassen,NL-CM:4.10.1,VermogenTotZichWassen,,groen: geen wijziginge
 VermogenTotZichWassen,NL-CM:4.10.2,ZichWassen,ZichWassenCodelijst,oranje: minor change,NL-CM:4.10.2,ZichWassen,ZichWassenCodelijst,ZIB-111,Datatype CO gewijzigd in CD,DATATYPE CHANGE,Low,valueset datatype CO -> valueset datatype CD,Low,valueset datatype CD -> valueset datatype CO
 VermogenTotZichWassen,NL-CM:4.10.3,TeWassenLichaamsdeel,TeWassenLichaamsdeelCodelijst,groen: geen wijzigingen,NL-CM:4.10.3,TeWassenLichaamsdeel,TeWassenLichaamsdeelCodelijst,,,,,,,
 VerpleegkundigeInterventie,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-728,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
-VerpleegkundigeInterventie,NL-CM:14.2.1,VerpleegkundigeInterventie,,groen: geen wijzigingen,NL-CM:14.2.1,VerpleegkundigeInterventie,,,,NO CHANGE,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.1,VerpleegkundigeInterventie,,groen: geen wijzigingen,NL-CM:14.2.1,VerpleegkundigeInterventie,,,,,,,,
 VerpleegkundigeInterventie,NL-CM:14.2.2,Interventie,InterventieNICCodelijst ; InterventieSnomedCodelijst,oranje: minor change,NL-CM:14.2.2,Interventie,InterventieSnomedCodelijst,ZIB-728 ; ZIB-1252,beschrijving concept aangepast en NIC codelijst is vervallen,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-VerpleegkundigeInterventie,NL-CM:14.2.3,Interval,,groen: geen wijzigingen,NL-CM:14.2.3,Interval,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.4,Frequentie,,groen: geen wijzigingen,NL-CM:14.2.4,Frequentie,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.5,Toelichting,,groen: geen wijzigingen,NL-CM:14.2.5,Toelichting,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.6,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:14.2.6,Indicatie::Probleem,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.7,Zorgverlener,,groen: geen wijzigingen,NL-CM:14.2.7,Zorgverlener,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.8,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.2.8,Aanvrager::Zorgverlener,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.9,VerpleegkundigeActie,,rood: major change,NL-CM:14.2.9,**concept verwijderd in 2020**,,ZIB-728,Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. ,CONCEPT REMOVED,High,,Low,
-VerpleegkundigeInterventie,NL-CM:14.2.10,Activiteit,,rood: major change,NL-CM:14.2.10,**concept verwijderd in 2020**,,ZIB-728,Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. ,CONCEPT REMOVED,High,,Low,
+VerpleegkundigeInterventie,NL-CM:14.2.3,Interval,,groen: geen wijzigingen,NL-CM:14.2.3,Interval,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.4,Frequentie,,groen: geen wijzigingen,NL-CM:14.2.4,Frequentie,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.5,Toelichting,,groen: geen wijzigingen,NL-CM:14.2.5,Toelichting,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.6,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:14.2.6,Indicatie::Probleem,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.7,Zorgverlener,,groen: geen wijzigingen,NL-CM:14.2.7,Zorgverlener,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.8,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.2.8,Aanvrager::Zorgverlener,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.9,VerpleegkundigeActie,,rood: major change,NL-CM:14.2.9,**concept verwijderd in 2020**,,ZIB-728,Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. ,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,
+VerpleegkundigeInterventie,NL-CM:14.2.10,Activiteit,,rood: major change,NL-CM:14.2.10,**concept verwijderd in 2020**,,ZIB-728,Het tussenliggende VerpleegkundigeActie niveau (container) met bijbehorende omschrijving (Activiteit) is verwijderd en alle overige data-elementen die aan VerpleegkundigeActie verbonden waren zijn nu direct gekoppeld aan het rootconcept VerpleegkundigeInterventie. ,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,
 VerpleegkundigeInterventie,NL-CM:14.2.11,ActieStartDatumTijd,,oranje: minor change,NL-CM:14.2.11,ActieStartDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 VerpleegkundigeInterventie,NL-CM:14.2.12,ActieEindDatumTijd,,oranje: minor change,NL-CM:14.2.12,ActieEindDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
-VerpleegkundigeInterventie,NL-CM:14.2.13,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:14.2.13,MedischHulpmiddel,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.14,Behandeldoel,,groen: geen wijzigingen,NL-CM:14.2.14,Behandeldoel,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.15,Uitvoerder,,groen: geen wijzigingen,NL-CM:14.2.15,Uitvoerder,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.16,Verzorger::ContactPersoon,,groen: geen wijzigingen,NL-CM:14.2.16,Verzorger::ContactPersoon,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.17,Patient,,groen: geen wijzigingen,NL-CM:14.2.17,Patient,,,,NO CHANGE,,,,
-VerpleegkundigeInterventie,NL-CM:14.2.18,Instructie,,groen: geen wijzigingen,NL-CM:14.2.18,Instructie,,,,NO CHANGE,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.13,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:14.2.13,MedischHulpmiddel,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.14,Behandeldoel,,groen: geen wijzigingen,NL-CM:14.2.14,Behandeldoel,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.15,Uitvoerder,,groen: geen wijzigingen,NL-CM:14.2.15,Uitvoerder,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.16,Verzorger::ContactPersoon,,groen: geen wijzigingen,NL-CM:14.2.16,Verzorger::ContactPersoon,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.17,Patient,,groen: geen wijzigingen,NL-CM:14.2.17,Patient,,,,,,,,
+VerpleegkundigeInterventie,NL-CM:14.2.18,Instructie,,groen: geen wijzigingen,NL-CM:14.2.18,Instructie,,,,,,,,
 Verrichting,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-1095 ; ZIB-1087,Tekstwijzging defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
-Verrichting,NL-CM:14.1.1,Verrichting,,groen: geen wijzigingen,NL-CM:14.1.1,Verrichting,,,,NO CHANGE,,,,SCT DefinitionCode [blank] -> [365470003 Bevinding betreffende gegevens over gezin en gezinssamenstelling]
+Verrichting,NL-CM:14.1.1,Verrichting,,groen: geen wijzigingen,NL-CM:14.1.1,Verrichting,,,,,,,,
 Verrichting,NL-CM:14.1.2,VerrichtingStartDatum,,oranje: minor change,NL-CM:14.1.2,VerrichtingStartDatum,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Verrichting,NL-CM:14.1.3,VerrichtingEindDatum,,oranje: minor change,NL-CM:14.1.3,VerrichtingEindDatum,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Verrichting,NL-CM:14.1.3,VerrichtingEindDatum,,geel: patch wijziging,NL-CM:14.1.3,VerrichtingEindDatum,,ZIB-993,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 Verrichting,NL-CM:14.1.4,VerrichtingType,VerrichtingTypeCodelijst = Verrichtingenthesaurus DHD,geel: patch wijziging,NL-CM:14.1.4,VerrichtingType,VerrichtingTypeCBVCodelijst ; VerrichtingTypeDHDCodelijst ; VerrichtingTypeGGZCodelijst ; VerrichtingTypeNHGCodelijst ; VerrichtingTypeNZaCodelijst,ZIB-954 ; ZIB-1087,Omschrijving VerrichtingType rondom de DHD verrichtingenthesaurus geactualiseerd en aangepast.,SIMPLE PATCH CHANGE,Low,,Low,
 Verrichting,NL-CM:14.1.4,VerrichtingType,VerrichtingTypeCodelijst = Verrichtingenthesaurus DHD,oranje: minor change,NL-CM:14.1.4,VerrichtingType,VerrichtingTypeCBVCodelijst ; VerrichtingTypeDHDCodelijst ; VerrichtingTypeGGZCodelijst ; VerrichtingTypeNHGCodelijst ; VerrichtingTypeNZaCodelijst,ZIB-908 ; ZIB-633 ; ZIB-1088 ; ZIB-666 ; ZIB-675 ; ZIB-625 ; ZIB-624,"Er zijn NHG, CBV, NZA en GGZ codelijsten bijgekomen voor vastleggen van verrichtingen",VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Verrichting,NL-CM:14.1.5,Locatie::Zorgaanbieder,,geel: patch wijziging,NL-CM:14.1.5,Locatie::Zorgaanbieder,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
-Verrichting,NL-CM:14.1.6,Uitvoerder::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.1.6,Uitvoerder::Zorgverlener,,,,NO CHANGE,,,,
-Verrichting,NL-CM:14.1.7,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:14.1.7,MedischHulpmiddel,,,,NO CHANGE,,,,SCT DefintionCode [blank] -> [308552006 Status van verslag]
-Verrichting,NL-CM:14.1.8,VerrichtingAnatomischeLocatie::AnatomischeLocatie,VerrichtingAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:14.1.13,VerrichtingAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [VerrichtingAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[VerrichtingAnatomischeLocatieCodelijst]
-Verrichting,NL-CM:14.1.9,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:14.1.9,Indicatie::Probleem,,,,NO CHANGE,,,,SCT DefintionCode [27574-3 Skilled nursing treatment plan Progress note and attainment of goals (narrative)] -> [423100009 Results section]
-Verrichting,NL-CM:14.1.10,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.1.10,Aanvrager::Zorgverlener,,,,NO CHANGE,,,,
-Verrichting,NL-CM:14.1.11,VerrichtingAnatomischeLocatie::AnatomischeLocatie,VerrichtingLateraliteitCodelijst,oranje: minor change,NL-CM:14.1.13,VerrichtingAnatomischeLocatie::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [VerrichtingLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[VerrichtingLateraliteitCodelijst]
+Verrichting,NL-CM:14.1.6,Uitvoerder::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.1.6,Uitvoerder::Zorgverlener,,,,,,,,
+Verrichting,NL-CM:14.1.7,MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:14.1.7,MedischHulpmiddel,,,,,,,,
+Verrichting,NL-CM:14.1.8,VerrichtingAnatomischeLocatie::AnatomischeLocatie,VerrichtingAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:14.1.13,VerrichtingAnatomischeLocatie::AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Verrichting,NL-CM:14.1.9,Indicatie::Probleem,,groen: geen wijzigingen,NL-CM:14.1.9,Indicatie::Probleem,,,,,,,,
+Verrichting,NL-CM:14.1.10,Aanvrager::Zorgverlener,,groen: geen wijzigingen,NL-CM:14.1.10,Aanvrager::Zorgverlener,,,,,,,,
+Verrichting,NL-CM:14.1.11,VerrichtingAnatomischeLocatie::AnatomischeLocatie,VerrichtingLateraliteitCodelijst,oranje: minor change,NL-CM:14.1.13,VerrichtingAnatomischeLocatie::AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Verrichting,NL-CM:14.1.12,VerrichtingMethode,VerrichtingMethodeCodelijst,groen: geen wijzigingen,NL-CM:14.1.12,VerrichtingMethode,"VerrichtingMethodeCodelijst
-Binding: Required",,,NO CHANGE,,,,
+Binding: Required",,,,,,,
 Verstrekkingsverzoek,Medicatie zibs momenteel on hold,,,,Medicatie zibs momenteel on hold,,,,,,,,,
 Visus,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 Vochtbalans,NL-CM:12.15.1,Vochtbalans,,oranje: minor change,NL-CM:12.15.1,Vochtbalans,,"
@@ -776,16 +756,16 @@ ZIB-1188",SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT 
 Vochtbalans,NL-CM:12.15.4,VochtTotaalIn,,groen: geen wijzigingen,NL-CM:12.15.4,VochtTotaalIn,,,,,,,,
 Vochtbalans,NL-CM:12.15.5,VochtTotaalUit,,groen: geen wijzigingen,NL-CM:12.15.5,VochtTotaalUit,,,,,,,,
 Vochtbalans,NL-CM:12.15.6,Toelichting,,groen: geen wijzigingen,NL-CM:12.15.6,Toelichting,,,,,,,,
-Voedingsadvies,NL-CM:7.11.1,Voedingsadvies,,groen: geen wijzigingen,NL-CM:7.11.1,Voedingsadvies,,,,NO CHANGE,,,,
-Voedingsadvies,NL-CM:7.11.2,DieetType,,groen: geen wijzigingen,NL-CM:7.11.2,DieetType,,,,NO CHANGE,,,,
-Voedingsadvies,NL-CM:7.11.3,Consistentie,,groen: geen wijzigingen,NL-CM:7.11.3,Consistentie,,,,NO CHANGE,,,,
-Voedingsadvies,NL-CM:7.11.4,Toelichting,,groen: geen wijzigingen,NL-CM:7.11.4,Toelichting,,,,NO CHANGE,,,,
+Voedingsadvies,NL-CM:7.11.1,Voedingsadvies,,groen: geen wijzigingen,NL-CM:7.11.1,Voedingsadvies,,,,,,,,
+Voedingsadvies,NL-CM:7.11.2,DieetType,,groen: geen wijzigingen,NL-CM:7.11.2,DieetType,,,,,,,,
+Voedingsadvies,NL-CM:7.11.3,Consistentie,,groen: geen wijzigingen,NL-CM:7.11.3,Consistentie,,,,,,,,
+Voedingsadvies,NL-CM:7.11.4,Toelichting,,groen: geen wijzigingen,NL-CM:7.11.4,Toelichting,,,,,,,,
 Voedingsadvies,NL-CM:7.11.5,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.11.5,Indicatie::Probleem,,ZIB_707,Verwijzing naar zib probleem toegeveogd,CONCEPT ADDITION,Low,,High,IF [blank] source->target ELSE [toon en stuur de relatie tussen het voedings advies en het probleem naar een 2017 ontvanger. Maak eventueel een probleem instance aan als deze nog niet bestaat ]
 VoedingspatroonZuigeling,NL-CM:4.31.1,VoedingspatroonZuigeling,,oranje: minor change,NL-CM:4.31.1,VoedingspatroonZuigeling,,ZIB-921,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,"SCT DefinitionCode [blank] -> [
 289145007 Bevinding betreffende voedingspatroon van zuigeling]",Medium,SCT DefinitionCode  [289145007 Bevinding betreffende voedingspatroon van zuigeling]-> [blank]
 VoedingspatroonZuigeling,NL-CM:4.31.2,Voeding,,oranje: minor change,NL-CM:4.31.2,Voeding,,ZIB-921,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [230126006 Bevinding betreffende voeden van zuigeling],Medium,SCT DefinitionCode  [230126006 Bevinding betreffende voeden van zuigeling]-> [blank]
 VoedingspatroonZuigeling,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,oranje: minor change,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,ZIB-933,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [109021000146107 Infant food type],Medium,SCT DefinitionCode  [109021000146107 Infant food type]-> [blank]
-VoedingspatroonZuigeling,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,oranje: minor change,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,ZIB-933,Codelijst aangepast,VALUESET CHANGES,Medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+VoedingspatroonZuigeling,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,oranje: minor change,NL-CM:4.31.3,VoedingSoort,VoedingSoortCodelijst,ZIB-933,Codelijst aangepast,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Low,valuesets 2017 <- valueset 2020 regel
 VoedingspatroonZuigeling,NL-CM:4.31.4,VoedingMethode,VoedingMethodeCodelijst,oranje: minor change,NL-CM:4.31.4,VoedingMethode,VoedingMethodeCodelijst,ZIB-933,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefinitionCode [blank] -> [169740003 Wijze van voeden van zuigeling],Medium,SCT DefinitionCode  [169740003 Wijze van voeden van zuigeling]-> [blank]
 VoedingspatroonZuigeling,NL-CM:4.31.5,VoedingFrequentie,,groen: geen wijzigingen,NL-CM:4.31.5,VoedingFrequentie,,,,,,,,
 VoedingspatroonZuigeling,NL-CM:4.31.6,VoedingspatroonZuigelingDatumTijd,,groen: geen wijzigingen,NL-CM:4.31.6,VoedingspatroonZuigelingDatumTijd,,,,,,,,
@@ -810,17 +790,20 @@ Wond,NL-CM:19.2.4,WondWeefsel,WondWeefselOncoUlcerCodelijst; WondWeefselWCSCodel
 Wond,NL-CM:19.2.5,WondSoort,WondSoortCodelijst,groen: geen wijzigingen,NL-CM:19.2.5,WondSoort,WondSoortCodelijst,,,,,,,
 Wond,NL-CM:19.2.6,WondVochtigheid,WondVochtigheidCodelijst,groen: geen wijzigingen,NL-CM:19.2.6,WondVochtigheid,WondVochtigheidCodelijst,,,,,,,
 Wond,NL-CM:19.2.7,WondInfectie,,groen: geen wijzigingen,NL-CM:19.2.7,WondInfectie,,,,,,,,
-Wond,NL-CM:19.2.8,AnatomischeLocatie,WondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.2.19,AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [WondAnatomischeLocatieCodelijst]->[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)],Medium,codelist [LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]->[WondAnatomischeLocatieCodelijst]
+Wond,NL-CM:19.2.8,AnatomischeLocatie,WondAnatomischeLocatieCodelijst,oranje: minor change,NL-CM:19.2.19,AnatomischeLocatie,LocatieCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [WondAnatomischeLocatieCodelijst]->[LocatieCodelijst],Medium,codelist [LocatieCodelijst]->[WondAnatomischeLocatieCodelijst]
 Wond,NL-CM:19.2.9,Toelichting,,groen: geen wijzigingen,NL-CM:19.2.9,Toelichting,,,,,,,,
 Wond,NL-CM:19.2.11,WondRand,WondRandCodelijst,groen: geen wijzigingen,NL-CM:19.2.11,WondRand,WondRandCodelijst,,,,,,,
-Wond,NL-CM:19.2.12,Wondlengte,,oranje: minor change,NL-CM:19.2.12,Wondlengte,,ZIB-903,SNOMED CT en LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [401238003 Length of wound] -> [blank];LOINC DefinitionCode [blank] -> [39126-8 Duur [lengte] in wond],Medium,SCT DefintionCode [blank] -> [401238003 Length of wound];[@[TRANSLATIE_specificatie_2020>2017]]
-Wond,NL-CM:19.2.13,Wondbreedte,,oranje: minor change,NL-CM:19.2.13,Wondbreedte,,ZIB-903,SNOMED CT en LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [401239006 Width of wound] -> [blank];LOINC DefinitionCode [blank] -> [39125-0 Breedte [lengte] in wond],Medium,SCT DefintionCode [blank] -> [401239006 Width of wound];[@[TRANSLATIE_specificatie_2020>2017]]
-Wond,NL-CM:19.2.14,Wonddiepte,,oranje: minor change,NL-CM:19.2.14,Wonddiepte,,ZIB-903,SNOMED CT en LOINC DefintionCodes concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [425094009 Depth of wound] -> [blank];LOINC DefinitionCode [blank] -> [39127-6 Diepte [lengte] in wond],Medium,SCT DefintionCode [blank] -> [425094009 Depth of wound];[@[TRANSLATIE_specificatie_2020>2017]]
+Wond,NL-CM:19.2.12,Wondlengte,,oranje: minor change,NL-CM:19.2.12,Wondlengte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [401238003 Length of wound] -> [blank],Medium,SCT DefintionCode [blank] -> [401238003 Length of wound]
+Wond,NL-CM:19.2.13,Wondbreedte,,oranje: minor change,NL-CM:19.2.13,Wondbreedte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [401239006 Width of wound] -> [blank],Medium,SCT DefintionCode [blank] -> [401239006 Width of wound]
+Wond,NL-CM:19.2.14,Wonddiepte,,oranje: minor change,NL-CM:19.2.14,Wonddiepte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [425094009 Depth of wound] -> [blank],Medium,SCT DefintionCode [blank] -> [425094009 Depth of wound]
+Wond,NL-CM:19.2.12,Wondlengte,,oranje: minor change,NL-CM:19.2.12,Wondlengte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefinitionCode [blank] -> [39126-8 Duur [lengte] in wond],Medium,LOINC DefinitionCode[39126-8 Duur [lengte] in wond]-> [blank]
+Wond,NL-CM:19.2.13,Wondbreedte,,oranje: minor change,NL-CM:19.2.13,Wondbreedte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefinitionCode [blank] -> [39125-0 Breedte [lengte] in wond],Medium,LOINC  [39125-0 Breedte [lengte] in wond]->DefinitionCode [blank]
+Wond,NL-CM:19.2.14,Wonddiepte,,oranje: minor change,NL-CM:19.2.14,Wonddiepte,,ZIB-903,"De codes voor wondlengte, -breedte en -diepte zijn gewijzigd van SNOMED CT naar LOINC codes in lijn met het advies van het Terminologie centrum en voor consistentie met de zib DecubitusWond",TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,LOINC DefinitionCode [blank] -> [39127-6 Diepte [lengte] in wond],Medium,LOINC [39127-6 Diepte [lengte] in wond]->DefinitionCode [blank]
 Wond,NL-CM:19.2.15,WondFoto,,groen: geen wijzigingen,NL-CM:19.2.15,WondFoto,,,,,,,,
 Wond,NL-CM:19.2.17,Drain::MedischHulpmiddel,,groen: geen wijzigingen,NL-CM:19.2.17,Drain::MedischHulpmiddel,,,,,,,,
-Wond,NL-CM:19.2.18,Lateraliteit,WondLateraliteitCodelijst,oranje: minor change,NL-CM:19.2.19,AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [WondLateraliteitCodelijst]->[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)],Medium,codelist [LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]->[WondLateraliteitCodelijst]
-Woonsituatie,NL-CM:7.8.1,Woonsituatie,,groen: geen wijzigingen,NL-CM:7.8.1,Woonsituatie,,,,NO CHANGE,,,,
-Woonsituatie,NL-CM:7.8.2,Toelichting,,groen: geen wijzigingen,NL-CM:7.8.2,Toelichting,,,,NO CHANGE,,,,
+Wond,NL-CM:19.2.18,Lateraliteit,WondLateraliteitCodelijst,oranje: minor change,NL-CM:19.2.19,AnatomischeLocatie,LateraliteitCodelijst,ZIB-1116,nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie,CHANGE TO SUB HCIM,Medium,codelist [WondLateraliteitCodelijst]->[LateraliteitCodelijst],Medium,codelist [LateraliteitCodelijst]->[WondLateraliteitCodelijst]
+Woonsituatie,NL-CM:7.8.1,Woonsituatie,,groen: geen wijzigingen,NL-CM:7.8.1,Woonsituatie,,,,,,,,
+Woonsituatie,NL-CM:7.8.2,Toelichting,,groen: geen wijzigingen,NL-CM:7.8.2,Toelichting,,,,,,,,
 Woonsituatie,NL-CM:7.8.3,WoningType,WoningTypeCodelijst,oranje: minor change,NL-CM:7.8.3,WoningType,WoningTypeCodelijst,ZIB-653 ; ZIB-1100 ; ZIB-810 ; ZIB769,Codelijst aangepast met meerdere aanpassingen,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Woonsituatie,NL-CM:7.8.4,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.8.4,WoonOmstandigheid,WoonOmstandigheidCodelijst,ZIB-694,"Aan het model twee elementen toegevoegd, WoningAanpassing en WoonOmstandigheid.",CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Woonsituatie,NL-CM:7.8.5,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.8.5,WoningAanpassing,WoningAanpassingCodelijst,ZIB-694,"Aan het model twee elementen toegevoegd, WoningAanpassing en WoonOmstandigheid.",CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
@@ -829,14 +812,14 @@ Ziektebeleving,NL-CM:18.5.3,ZiekteInzichtVanPatiënt,,groen: geen wijzigingen,NL
 Ziektebeleving,NL-CM:18.5.4,OmgaanMetZiekteprocesDoorPatiënt,,groen: geen wijzigingen,NL-CM:18.5.4,OmgaanMetZiekteprocesDoorPatiënt,,,,,,,,
 Ziektebeleving,NL-CM:18.5.5,OmgaanMetZiekteprocesDoorNaasten,,groen: geen wijzigingen,NL-CM:18.5.5,OmgaanMetZiekteprocesDoorNaasten,,,,,,,,
 Zorgaanbieder,NL-CM:17.2.1,Zorgaanbieder,,oranje: minor change,NL-CM:17.2.1,Zorgaanbieder,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [257622000 Zorginstelling],Medium,SCT DefintionCode  [257622000 Zorginstelling] -> [blank]
-Zorgaanbieder,NL-CM:17.2.2,ZorgaanbiederIdentificatienummer,,groen: geen wijzigingen,NL-CM:17.2.2,ZorgaanbiederIdentificatienummer,,,,NO CHANGE,,,,
-Zorgaanbieder,NL-CM:17.2.3,OrganisatieNaam,,groen: geen wijzigingen,NL-CM:17.2.3,OrganisatieNaam,,,,NO CHANGE,,,,
+Zorgaanbieder,NL-CM:17.2.2,ZorgaanbiederIdentificatienummer,,groen: geen wijzigingen,NL-CM:17.2.2,ZorgaanbiederIdentificatienummer,,,,,,,,
+Zorgaanbieder,NL-CM:17.2.3,OrganisatieNaam,,groen: geen wijzigingen,NL-CM:17.2.3,OrganisatieNaam,,,,,,,,
 Zorgaanbieder,NL-CM:17.2.4,OrganisatieType,OrganisatieTypeCodelijst,oranje: minor change,NL-CM:17.2.4,OrganisatieType,OrganisatieTypeCodelijst,ZIB-678 ; ZIB-1171,Toevoegingen aan codeijst,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
 Zorgaanbieder,NL-CM:17.2.5,Adresgegevens,,rood: major change,NL-CM:17.2.5,Adresgegevens,,ZIB-960,"Cardinaliteit adresgegevens in de zib's Zorgverlener, Zorgaanbieder en Contactpersoon verruimt van 0..1 naar 0..*",CARDINALITY CHANGE,Low,ZERO-TO-ONE TO ZERO-TO-MANY,High,ZERO-TO-MANY TO ZERO-TO-ONE
-Zorgaanbieder,NL-CM:17.2.6,Contactgegevens,,groen: geen wijzigingen,NL-CM:17.2.6,Contactgegevens,,,,NO CHANGE,,,,
-Zorgaanbieder,NL-CM:17.2.7,AfdelingSpecialisme,AfdelingSpecialismeCodelijst,groen: geen wijzigingen,NL-CM:17.2.7,AfdelingSpecialisme,AfdelingSpecialismeCodelijst,,,NO CHANGE,,,,
-Zorgaanbieder,NL-CM:17.2.8,OrganisatieLocatie,,oranje: minor change,NL-CM:17.2.8,LocatieNaam,,ZIB-894,OrganisatieLocatie is hernoemd naar LocatieNaam. OrganisatieLocatie is in 2020 een NIEUWE container (NL-CM:17.2.9),CONCEPT NAME CHANGED (NL),Medium,,Medium,
-Zorgaanbieder,NL-CM:17.2.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:17.2.9,OrganisatieLocatie,,ZIB-894,nieuwe container voor elementen LocatieNaam en LocatieNummer,CONCEPT ADDITION,Low,,High,
+Zorgaanbieder,NL-CM:17.2.6,Contactgegevens,,groen: geen wijzigingen,NL-CM:17.2.6,Contactgegevens,,,,,,,,
+Zorgaanbieder,NL-CM:17.2.7,AfdelingSpecialisme,AfdelingSpecialismeCodelijst,groen: geen wijzigingen,NL-CM:17.2.7,AfdelingSpecialisme,AfdelingSpecialismeCodelijst,,,,,,,
+Zorgaanbieder,NL-CM:17.2.8,OrganisatieLocatie,,oranje: minor change,NL-CM:17.2.8,LocatieNaam,,ZIB-894,OrganisatieLocatie is hernoemd naar LocatieNaam. OrganisatieLocatie is in 2020 een NIEUWE container (NL-CM:17.2.9),CONCEPT NAME CHANGED (NL),Low,OrganisatieLocatie ->LocatieNaam,Low,LocatieNaam->OrganisatieLocatie
+Zorgaanbieder,NL-CM:17.2.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:17.2.9,OrganisatieLocatie,,ZIB-894,nieuwe container voor elementen LocatieNaam en LocatieNummer,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
 Zorgaanbieder,NL-CM:17.2.10,**concept toegevoegd in 2020**,,rood: major change,NL-CM:17.2.10,LocatieNummer,,ZIB-894,Nieuw element LocatieNummer,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger] of misschien locatienaam+nummer concatenate doen op terugweg?
 ZorgAfspraak,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 ZorgEpisode,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
@@ -844,11 +827,11 @@ ZorgTeam,**zib toegevoegd in 2020**,,,,**zib toegevoegd in 2020**,,,,,,,,,
 Zorgverlener,DCM::EvidenceBase,Evidence Base,,geel: patch wijziging,DCM::EvidenceBase,Evidence Base,,ZIB-899,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Zorgverlener,NL-CM:17.1.1,Zorgverlener,,oranje: minor change,NL-CM:17.1.1,Zorgverlener,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [223366009 Gezondheidszorgpersoneel],Medium,SCT DefintionCode [223366009 Gezondheidszorgpersoneel] -> [blank]
 Zorgverlener,NL-CM:17.1.2,ZorgverlenerIdentificatienummer,,geel: patch wijziging,NL-CM:17.1.2,ZorgverlenerIdentificatienummer,,ZIB-899,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
-Zorgverlener,NL-CM:17.1.3,Naamgegevens,,groen: geen wijzigingen,NL-CM:17.1.3,Interventie,,,,NO CHANGE,,,,
-Zorgverlener,NL-CM:17.1.4,Specialisme,,groen: geen wijzigingen,NL-CM:17.1.4,Specialisme,,,,NO CHANGE,,,,
-Zorgverlener,NL-CM:17.1.5,ZorgverlenerRol,,oranje: minor change,NL-CM:17.1.5,ZorgverlenerRol,,ZIB-704,Naam van het dataelement ZorgverlenersRol is gewijzigd in ZorgverlenerRol,CONCEPT NAME CHANGED (NL),Medium,ZorgverlenersRol->ZorgverlenerRol,Medium,ZorgverlenerRol->ZorgverlenersRol
-Zorgverlener,NL-CM:17.1.5,ZorgverlenerRol,,oranje: minor change,NL-CM:17.1.5,ZorgverlenerRol,,ZIB-759,Codelijst is uitgebreid met rol 'casemanager' ,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
-Zorgverlener,NL-CM:17.1.6,Zorgaanbieder,,groen: geen wijzigingen,NL-CM:17.1.6,Zorgaanbieder,,,,NO CHANGE,,,,
+Zorgverlener,NL-CM:17.1.3,Naamgegevens,,groen: geen wijzigingen,NL-CM:17.1.3,Interventie,,,,,,,,
+Zorgverlener,NL-CM:17.1.4,Specialisme,,groen: geen wijzigingen,NL-CM:17.1.4,Specialisme,,,,,,,,
+Zorgverlener,NL-CM:17.1.5,ZorgverlenersRol,,oranje: minor change,NL-CM:17.1.5,ZorgverlenerRol,,ZIB-704,Naam van het dataelement ZorgverlenersRol is gewijzigd in ZorgverlenerRol,CONCEPT NAME CHANGED (NL),Low,ZorgverlenersRol->ZorgverlenerRol,low,ZorgverlenerRol->ZorgverlenersRol
+Zorgverlener,NL-CM:17.1.5,ZorgverlenerRol,,oranje: minor change,NL-CM:17.1.5,ZorgverlenerRol,,ZIB-759,Codelijst is uitgebreid met rol 'casemanager' ,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,medium,valuesets 2017 <- valueset 2020 regel
+Zorgverlener,NL-CM:17.1.6,Zorgaanbieder,,groen: geen wijzigingen,NL-CM:17.1.6,Zorgaanbieder,,,,,,,,
 Zorgverlener,NL-CM:17.1.7,Adresgegevens,,rood: major change,NL-CM:17.1.7,Adresgegevens,,ZIB-960,"Kardinaliteit adresgegevens in de zib's Zorgverlener, Zorgaanbieder en Contactpersoon verruimt van 0..1 naar 0..*",CARDINALITY CHANGE,Low,ZERO-TO-ONE TO ZERO-TO-MANY,High,ZERO-TO-MANY TO ZERO-TO-ONE
 Zorgverlener,NL-CM:17.1.8,Contactgegevens,,rood: major change,NL-CM:17.1.8,Contactgegevens,,ZIB-952,"Kardinaliteit element Contactgegevens gewijzigd van 0..*, naar 0..1",CARDINALITY CHANGE,High,ZERO-TO-MANY TO ZERO-TO-ONE,Low,ZERO-TO-ONE TO ZERO-TO-MANY
 Zorgverlener,NL-CM:17.1.9,**concept toegevoegd in 2020**,,rood: major change,NL-CM:17.1.9,Geslacht,,ZIB-1142,Element Geslacht toegevoegd aan de zib Zorgverlener met een waardelijst die overeenkomt met de Geslachtcodeljst van de zib Patiënt.,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]

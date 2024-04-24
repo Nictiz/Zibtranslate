@@ -1,19 +1,19 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 Contact,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.1,Contact,,oranje: minor change,NL-CM:15.1.1,Contact,,ZIB-1189,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode  [blank] -> [308335008 Patiëntcontact],Medium,SCT DefintionCode  [308335008 Patiëntcontact] -> [blank]
-Contact,NL-CM:15.1.2,ContactType,ContactTypeCodelijst,groen: geen wijzigingen,NL-CM:15.1.2,Concept,ContactTypeCodelijst,,,NO CHANGE,,,,SCT DefintionCode [blank] -> [308552006 Status van verslag]
+Contact,NL-CM:15.1.2,ContactType,ContactTypeCodelijst,groen: geen wijzigingen,NL-CM:15.1.2,Concept,ContactTypeCodelijst,,,,,,,
 Contact,NL-CM:15.1.3,BeginDatumTijd,,oranje: minor change,NL-CM:15.1.3,BeginDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Contact,NL-CM:15.1.3,BeginDatumTijd,,geel: patch wijziging,NL-CM:15.1.3,BeginDatumTijd,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.4,EindDatumTijd,,oranje: minor change,NL-CM:15.1.4,EindDatumTijd,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Contact,NL-CM:15.1.4,EindDatumTijd,,geel: patch wijziging,NL-CM:15.1.4,EindDatumTijd,,ZIB-821,Tekstwijziging defintie van concept. ,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.6,probleem,,oranje: minor change,NL-CM:15.1.6,Probleem,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.6,Probleem,,geel: patch wijziging,NL-CM:15.1.6,Probleem,,ZIB-1089,tekstwijziging definitie concept,SIMPLE PATCH CHANGE,Low,,Low,
-Contact,NL-CM:15.1.7,ContactMet::Zorgverlener,,groen: geen wijzigingen,NL-CM:15.1.7,VerpleegkundigeActie,,,,NO CHANGE,,,,
-Contact,NL-CM:15.1.8,Locatie::Zorgaanbieder,,groen: geen wijzigingen,NL-CM:15.1.8,Activiteit,,,,NO CHANGE,,,,
+Contact,NL-CM:15.1.7,ContactMet::Zorgverlener,,groen: geen wijzigingen,NL-CM:15.1.7,VerpleegkundigeActie,,,,,,,,
+Contact,NL-CM:15.1.8,Locatie::Zorgaanbieder,,groen: geen wijzigingen,NL-CM:15.1.8,Activiteit,,,,,,,,
 Contact,NL-CM:15.1.11,Verrichting,,oranje: minor change,NL-CM:15.1.11,Verrichting,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.11,Verrichting,,geel: patch wijziging,NL-CM:15.1.11,Verrichting,,ZIB-822 ; ZIB-701,Tekstwijziging aan defintie concept,SIMPLE PATCH CHANGE,Low,,Low,
 Contact,NL-CM:15.1.12,AfwijkendeUitslag,,oranje: minor change,NL-CM:15.1.12,AfwijkendeUitslag,,ZIB-822 ; ZIB-701,Kardinaliteit naar 0..1,CARDINALITY CHANGE,Medium,X TO ONE-TO-ONE,Low,TO CARDINALITY ONE ON PARENT CONTAINER
 Contact,NL-CM:15.1.13,RedenContact,,oranje: minor change,NL-CM:15.1.13,RedenContact,,ZIB-822 ; ZIB-701 ; ZIB-819 ; ZIB-1089,Kardinaliteit reden contact aangepast naar 0 ..*,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-MANY,Medium,ZERO-TO-MANY TO ONE
-Contact,NL-CM:15.1.14,Herkomst,HerkomstCodelijst,groen: geen wijzigingen,NL-CM:15.1.14,ActieStartDatumTijd,HerkomstCodelijst,,,NO CHANGE,,,,
-Contact,NL-CM:15.1.16,Bestemming,BestemmingCodelijst,groen: geen wijzigingen,NL-CM:15.1.16,ActieEindDatumTijd,BestemmingCodelijst,,,NO CHANGE,,,,
+Contact,NL-CM:15.1.14,Herkomst,HerkomstCodelijst,groen: geen wijzigingen,NL-CM:15.1.14,ActieStartDatumTijd,HerkomstCodelijst,,,,,,,
+Contact,NL-CM:15.1.16,Bestemming,BestemmingCodelijst,groen: geen wijzigingen,NL-CM:15.1.16,ActieEindDatumTijd,BestemmingCodelijst,,,,,,,
 Contact,NL-CM:15.1.17,**concept toegevoegd in 2020**,,rood: major change,NL-CM:15.1.17,ToelichtingRedenContact,,ZIB-701 ; ZIB-822,Extra element 'Toelichting(ST)' toegevoegd aan 'RedenContact',CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]

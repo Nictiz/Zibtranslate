@@ -49,7 +49,7 @@
     <Impact_heen>low</Impact_heen>
     <TRANSLATIE_spec_heen>CONCEPT NAME CHANGED (EN): AgreedMedicine::FarmaceuticalProduct -&gt; AgreedMedicine::PharmaceuticalProduct </TRANSLATIE_spec_heen>
     <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>CONCEPT NAME CHANGED (EN): AgreedMedicine::PharmaceuticalProduct -&gt; AgreedMedicine::FarmaceuticalProduct</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>AgreedMedicine::PharmaceuticalProduct -&gt; AgreedMedicine::FarmaceuticalProduct</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Medicatieafspraak</ZibName>
@@ -80,10 +80,10 @@
     <Bits>ZIB-888</Bits>
     <Omschrijving>DCM::DefinitionCodes van de medicatie zibs gelijk getrokken aan de wijzigingen reeds doorgevoerd in MedicatieProces(MP). </Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [274512008 Behandeling met geneesmiddel stopgezet]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>SCT DefintionCode [274512008 Behandeling met geneesmiddel stopgezet] -&gt; [blank] </TRANSLATIE_spec_terug>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>SCT DefintionCode [274512008 Behandeling met geneesmiddel stopgezet]-&gt;[blank]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Medicatieafspraak</ZibName>
@@ -111,16 +111,14 @@
     <ConceptID_2020>NL-CM:9.6.19954</ConceptID_2020>
     <ConceptName_2020>MedicatieafspraakStopType</ConceptName_2020>
     <Codelists_2020>MedicatieafspraakStopTypeCodelijst</Codelists_2020>
-    <Bits>ZIB-888|ZIB-1454</Bits>
-    <Omschrijving>DefinitionCode toegevoegd aan concept
+    <Bits>ZIB-1454</Bits>
+    <Omschrijving>De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.
 Erratum. SCT codes in codelijst zijn vervangen. Klopten niet mee. Uiteindelijke lijst heeft 2 items (met 2 deprecated)</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>medium</Impact_heen>
-    <TRANSLATIE_spec_heen>
-VALUESET CHANGES</TRANSLATIE_spec_heen>
-    <Impact_terug>medium</Impact_terug>
-    <TRANSLATIE_spec_terug>
-VALUESET CHANGES</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Medicatieafspraak</ZibName>
@@ -168,9 +166,9 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <Bits>ZIB-888</Bits>
     <Omschrijving>DefinitionCode toegevoegd aan concept</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [112241000146101 Reden voor voorschrift]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
+    <Impact_terug>Medium</Impact_terug>
     <TRANSLATIE_spec_terug>SCT DefintionCode [112241000146101 Reden voor voorschrift] -&gt; [blank] </TRANSLATIE_spec_terug>
   </row>
   <row>
@@ -185,9 +183,9 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <Bits>ZIB-888</Bits>
     <Omschrijving>DefinitionCode toegevoegd aan concept</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [112201000146104 Medische reden van voorschrijven]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
+    <Impact_terug>Medium</Impact_terug>
     <TRANSLATIE_spec_terug>SCT DefintionCode [112201000146104 Medische reden van voorschrijven] -&gt; [blank] </TRANSLATIE_spec_terug>
   </row>
   <row>
@@ -202,9 +200,9 @@ VALUESET CHANGES</TRANSLATIE_spec_terug>
     <Bits>ZIB-888</Bits>
     <Omschrijving>DefinitionCode toegevoegd aan rootconcept</Omschrijving>
     <TypeChange>TERMINOLOGY MAPPING CONCEPT CHANGE </TypeChange>
-    <Impact_heen>low</Impact_heen>
+    <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen>SCT DefintionCode [blank] -&gt; [16076005 Voorschrijven]</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
+    <Impact_terug>Medium</Impact_terug>
     <TRANSLATIE_spec_terug>SCT DefintionCode [16076005 Voorschrijven] -&gt; [blank] </TRANSLATIE_spec_terug>
   </row>
   <row>

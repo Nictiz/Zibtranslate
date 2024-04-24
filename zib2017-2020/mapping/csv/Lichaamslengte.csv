@@ -1,6 +1,6 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 Lichaamslengte,NL-CM:12.2.1,Lichaamslengte,,oranje: minor change,NL-CM:12.2.1,Lichaamslengte,,ZIB-1185,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [248327008 Algemene bevinding betreffende lichaamslengte],Medium,SCT DefintionCode  [248327008 Algemene bevinding betreffende lichaamslengte] -> [blank]
-Lichaamslengte,NL-CM:12.2.2,LengteWaarde,,groen: geen wijzigingen,NL-CM:12.2.2,LengteWaarde,,,,NO CHANGE,,,,
-Lichaamslengte,NL-CM:12.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.2.3,Toelichting,,,,NO CHANGE,,,,
-Lichaamslengte,NL-CM:12.2.4,LengteDatumTijd,,groen: geen wijzigingen,NL-CM:12.2.4,LengteDatumTijd,,,,NO CHANGE,,,,
+Lichaamslengte,NL-CM:12.2.2,LengteWaarde,,groen: geen wijzigingen,NL-CM:12.2.2,LengteWaarde,,,,,,,,
+Lichaamslengte,NL-CM:12.2.3,Toelichting,,groen: geen wijzigingen,NL-CM:12.2.3,Toelichting,,,,,,,,
+Lichaamslengte,NL-CM:12.2.4,LengteDatumTijd,,groen: geen wijzigingen,NL-CM:12.2.4,LengteDatumTijd,,,,,,,,
 Lichaamslengte,NL-CM:12.2.5,Positie,PositieCodelijst,oranje: minor change,NL-CM:12.2.5,Positie,PositieCodelijst,ZIB-1185,SNOMED CT DefintionCode concept aangepast,TERMINOLOGY MAPPING CONCEPT CHANGE ,Medium,SCT DefintionCode [blank] -> [425260001 Lichaamshouding voor bepalen van lengte],Medium,SCT DefintionCode  [425260001 Lichaamshouding voor bepalen van lengte] -> [blank]
