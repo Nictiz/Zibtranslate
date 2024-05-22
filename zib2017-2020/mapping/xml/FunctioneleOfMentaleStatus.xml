@@ -30,9 +30,9 @@
     <Omschrijving>NOC en OMAHA codelijsten deprecated</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>FunctioneleOfMentaleStatus</ZibName>
@@ -70,9 +70,9 @@ StatusWaardeSnomedCodelijst</Codelists_2020>
     <Omschrijving>NOC en OMAHA codelijsten deprecated. Defintie van concept gewijzigd. </Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>FunctioneleOfMentaleStatus</ZibName>

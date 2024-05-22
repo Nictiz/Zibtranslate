@@ -81,9 +81,9 @@
     <Omschrijving>Waarden voor 'geen' toevoegen aan ProductTypeCodelist, OTH toegestaan bij ‘Required Binding'</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>MedischHulpmiddel</ZibName>
@@ -117,9 +117,9 @@ HIBCProductIDCodelijst</Codelists_2020>
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [HulpmiddelAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst ]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[HulpmiddelAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>MedischHulpmiddel</ZibName>
@@ -219,9 +219,9 @@ HIBCProductIDCodelijst</Codelists_2020>
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [MedischHulpmiddelLateraliteitCodelijst ]-&gt;[LateraliteitCodelijst ]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[MedischHulpmiddelLateraliteitCodelijst ]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>MedischHulpmiddel</ZibName>
@@ -255,6 +255,6 @@ HIBCProductIDCodelijst</Codelists_2020>
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>IF source &lt;&gt; [blank] THEN source -&gt; target=[non-zib item]</TRANSLATIE_spec_terug>
   </row>
 </data>

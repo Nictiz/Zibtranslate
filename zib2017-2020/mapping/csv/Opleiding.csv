@@ -1,4 +1,4 @@
 ZibName,ConceptID_2017,ConceptName_2017,Codelists_2017,Change,ConceptID_2020,ConceptName_2020,Codelists_2020,Bits,Omschrijving,TypeChange,Impact_heen,TRANSLATIE_spec_heen,Impact_terug,TRANSLATIE_spec_terug
 Opleiding,NL-CM:7.10.1,Opleiding,,groen: geen wijzigingen,NL-CM:7.10.1,Opleiding,,,,,,,,
-Opleiding,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,oranje: minor change,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,ZIB-957; ZIB-1096,Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen,VALUESET CHANGES,Medium,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Opleiding,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,oranje: minor change,NL-CM:7.10.2,Schooltype,SchooltypeCBSCodelijst;SchooltypeCodelijst,ZIB-957; ZIB-1096,Nieuwe waardelijst toegevoegd met codes die overeenkomen met de CBS coderingen,VALUESET ADDITION,high,new valueset [valueset name] added in [baseline 2020],Medium,new valueset [valueset name] added in [baseline 2020]
 Opleiding,NL-CM:7.10.3,Toelichting,,groen: geen wijzigingen,NL-CM:7.10.3,Toelichting,,,,,,,,

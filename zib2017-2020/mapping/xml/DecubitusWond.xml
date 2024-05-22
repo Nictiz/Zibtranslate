@@ -64,9 +64,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [DecubitusWondAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[DecubitusWondAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>DecubitusWond</ZibName>
@@ -183,8 +183,8 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [DecubitusWondLateraliteitCodelijst]-&gt;[LateraliteitCodelijst]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[DecubitusWondLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
 </data>

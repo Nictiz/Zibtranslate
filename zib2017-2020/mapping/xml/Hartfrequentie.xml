@@ -98,9 +98,9 @@
     <Omschrijving>Deprecated item in waardelijst vervangen</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Hartfrequentie</ZibName>
@@ -132,9 +132,9 @@
     <Omschrijving>Bij nl.zorg.Hartfrequentie is de meetmethode 'Palpatie' op deprecated gezet.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Hartfrequentie</ZibName>
@@ -151,6 +151,6 @@
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>IF source &lt;&gt; [blank] THEN source -&gt; target=[non-zib item]</TRANSLATIE_spec_terug>
   </row>
 </data>

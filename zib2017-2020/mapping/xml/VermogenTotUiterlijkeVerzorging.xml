@@ -13,9 +13,9 @@
     <Omschrijving>Engelse naam concept gewijzigd</Omschrijving>
     <TypeChange>CONCEPT NAME CHANGED (EN)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug/>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
+    <Impact_terug>low</Impact_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>VermogenTotUiterlijkeVerzorging</ZibName>
@@ -45,10 +45,10 @@
     <Codelists_2020>UiterlijkeVerzorgingCodelijst</Codelists_2020>
     <Bits>ZIB-1115</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
 </data>

@@ -47,9 +47,9 @@
     <Omschrijving>Diverse toevoegingen aan codelijst en erratum waarbij de codes onder de 10 een leading zero hebben gekregen zoals bij dit codesysteem hoort.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Contactpersoon</ZibName>
@@ -96,11 +96,11 @@
     <Codelists_2020/>
     <Bits>ZIB-960</Bits>
     <Omschrijving>Cardinaliteit adresgegevens in de zib Contactpersoon verruimt van 0..1 naar 0..*</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (0..1 to 0..*)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ZERO-TO-ONE TO ZERO-TO-MANY</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-MANY TO  ZERO-TO-ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Contactpersoon</ZibName>

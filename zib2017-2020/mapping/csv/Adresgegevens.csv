@@ -8,8 +8,8 @@ LandISOCodelijst",groen: geen wijzigingen,NL-CM:20.5.5,Land,"LandGBACodelijst
 LandISOCodelijst",,,,,,,
 Adresgegevens,NL-CM:20.5.6,Postcode,,groen: geen wijzigingen,NL-CM:20.5.6,Postcode,,,,,,,,
 Adresgegevens,NL-CM:20.5.7,AdditioneleInformatie,,groen: geen wijzigingen,NL-CM:20.5.7,AdditioneleInformatie,,,,,,,,
-Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-959,kardinatliteit van 1 naar 0..1,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
-Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-900,"Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. ""Tempory address"" moet zijn ""Temporary address""",VALUESET CHANGES,Low,,Low,
+Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-959,kardinatliteit van 1 naar 0..1,CARDINALITY CHANGES (1 to 0..1),Low,,High,ALS [aantal<>1] DAN [doe iets] ANDERS source -> target
+Adresgegevens,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,oranje: minor change,NL-CM:20.5.8,AdresSoort,AdresSoortCodelijst,ZIB-900,"Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. ""Tempory address"" moet zijn ""Temporary address""",VALUESET CHANGES,Low,existing valueset [valuesetname] changed in [baseline 2020],Medium,existing valueset [valuesetname] changed in [baseline 2020]
 Adresgegevens,NL-CM:20.5.9,AanduidingBijNummer,,groen: geen wijzigingen,NL-CM:20.5.9,AanduidingBijNummer,,,,,,,,
 Adresgegevens,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,groen: geen wijzigingen,NL-CM:20.5.10,Huisnummertoevoeging,AanduidingBijNummerCodelijst,,,,,,,
 Adresgegevens,NL-CM:20.5.11,Huisnummerletter,,groen: geen wijzigingen,NL-CM:20.5.11,Huisnummerletter,,,,,,,,

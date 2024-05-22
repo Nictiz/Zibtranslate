@@ -132,11 +132,11 @@ LandISOCodelijst</Codelists_2020>
     <Codelists_2020>AdresSoortCodelijst</Codelists_2020>
     <Bits>ZIB-959</Bits>
     <Omschrijving>kardinatliteit van 1 naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Adresgegevens</ZibName>
@@ -151,9 +151,9 @@ LandISOCodelijst</Codelists_2020>
     <Omschrijving>Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. "Tempory address" moet zijn "Temporary address"</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug/>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
+    <Impact_terug>Medium</Impact_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Adresgegevens</ZibName>

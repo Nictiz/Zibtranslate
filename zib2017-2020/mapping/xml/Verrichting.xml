@@ -113,11 +113,11 @@
     <Codelists_2020>VerrichtingTypeCBVCodelijst ; VerrichtingTypeDHDCodelijst ; VerrichtingTypeGGZCodelijst ; VerrichtingTypeNHGCodelijst ; VerrichtingTypeNZaCodelijst</Codelists_2020>
     <Bits>ZIB-908 ; ZIB-633 ; ZIB-1088 ; ZIB-666 ; ZIB-675 ; ZIB-625 ; ZIB-624</Bits>
     <Omschrijving>Er zijn NHG, CBV, NZA en GGZ codelijsten bijgekomen voor vastleggen van verrichtingen</Omschrijving>
-    <TypeChange>VALUESET CHANGES</TypeChange>
-    <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TypeChange>VALUESET ADDITION</TypeChange>
+    <Impact_heen>high</Impact_heen>
+    <TRANSLATIE_spec_heen>new valueset [valueset name] added in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>new valueset [valueset name] added in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Verrichting</ZibName>
@@ -183,9 +183,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Verrichting</ZibName>
@@ -234,9 +234,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Verrichting</ZibName>

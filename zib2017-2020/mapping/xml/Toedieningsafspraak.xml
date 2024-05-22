@@ -47,9 +47,9 @@
     <Omschrijving>In engelse vertaling overal Farmaceutical vervangen door Pharmaceutical (7X)</Omschrijving>
     <TypeChange>CONCEPT NAME CHANGED (EN)</TypeChange>
     <Impact_heen>low</Impact_heen>
-    <TRANSLATIE_spec_heen>CONCEPT NAME CHANGED (EN): _::FarmaceuticalProduct-&gt; _::PharmaceuticalProduct </TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>CONCEPT NAME CHANGED (EN): _::PharmaceuticalProduct -&gt; _::FarmaceuticalProduct</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Toedieningsafspraak</ZibName>
@@ -132,9 +132,9 @@
     <Omschrijving>Tekstuele aanpassing typefout: ToedieningsafspraakStopType ipv ToediengingsafspraakStopType</Omschrijving>
     <TypeChange>CONCEPT NAME CHANGED (NL)</TypeChange>
     <Impact_heen>low</Impact_heen>
-    <TRANSLATIE_spec_heen>ToediengingsafspraakStopType-&gt;ToedieningsafspraakStopType</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>ToedieningsafspraakStopType-&gt;ToediengingsafspraakStopType</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Toedieningsafspraak</ZibName>
@@ -149,9 +149,9 @@
     <Omschrijving>De deprecated codes Drug therapy temporarily stopped en Drug therapy definitively stopped zijn vervangen door: 113371000146109 |definitief gestopt met medicatie en 113381000146106 |tijdelijk gestopt met medicatie.</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Toedieningsafspraak</ZibName>

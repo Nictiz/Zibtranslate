@@ -64,9 +64,9 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [StomaAnatomischeLocatieCodelijst]-&gt;[LocatieCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.1--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LocatieCodelijst]-&gt;[StomaAnatomischeLocatieCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Stoma</ZibName>
@@ -115,8 +115,8 @@
     <Omschrijving>nieuwe verwijzing naar sub-bouwsteen anatomischeLocatie</Omschrijving>
     <TypeChange>CHANGE TO SUB HCIM</TypeChange>
     <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>codelist [StomaLateraliteitCodelijst]-&gt;[LateraliteitCodelijst (http://decor.nictiz.nl/fhir/ValueSet/2.16.840.1.113883.2.4.3.11.60.40.2.20.7.2--20200901000000)]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>codelist [LateraliteitCodelijst]-&gt;[StomaLateraliteitCodelijst]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
 </data>

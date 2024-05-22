@@ -30,19 +30,19 @@
     <Omschrijving>In engelse vertaling overal Farmaceutical vervangen door Pharmaceutical (7X)</Omschrijving>
     <TypeChange>CONCEPT NAME CHANGED (EN)</TypeChange>
     <Impact_heen>low</Impact_heen>
-    <TRANSLATIE_spec_heen>CONCEPT NAME CHANGED (EN): AgreedMedicine::FarmaceuticalProduct -&gt; AgreedMedicine::PharmaceuticalProduct </TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>CONCEPT NAME CHANGED (EN): AgreedMedicine::PharmaceuticalProduct -&gt; AgreedMedicine::FarmaceuticalProduct</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23159</ConceptID_2017>
-    <ConceptName_2017>Toedieningssnelheid::Bereik</ConceptName_2017>
-    <Codelists_2017/>
+    <ConceptID_2017>NL-CM:9.13.21191</ConceptID_2017>
+    <ConceptName_2017>MedicatieToedieningStatus</ConceptName_2017>
+    <Codelists_2017>MedicatieToedieningStatusCodelijst</Codelists_2017>
     <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23159</ConceptID_2020>
-    <ConceptName_2020>Toedieningssnelheid::Bereik</ConceptName_2020>
-    <Codelists_2020/>
+    <ConceptID_2020>NL-CM:9.13.21191</ConceptID_2020>
+    <ConceptName_2020>MedicatieToedieningStatus</ConceptName_2020>
+    <Codelists_2020>MedicatieToedieningStatusCodelijst</Codelists_2020>
     <Bits/>
     <Omschrijving/>
     <TypeChange/>
@@ -70,23 +70,6 @@
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23171</ConceptID_2017>
-    <ConceptName_2017>AfgesprokenDatumTijd</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23171</ConceptID_2020>
-    <ConceptName_2020>AfgesprokenDatumTijd</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
     <ConceptID_2017>NL-CM:9.13.21194</ConceptID_2017>
     <ConceptName_2017>ToegediendeHoeveelheid</ConceptName_2017>
     <Codelists_2017/>
@@ -96,28 +79,11 @@
     <Codelists_2020/>
     <Bits>ZIB-812</Bits>
     <Omschrijving>Kardinaliteit van element 'ToegediendeHoeveelheid'  gewijzigd van 1 naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
-    <Impact_terug>low</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23167</ConceptID_2017>
-    <ConceptName_2017>AfwijkendeToediening</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23167</ConceptID_2020>
-    <ConceptName_2020>AfwijkendeToediening</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
     <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
@@ -128,74 +94,6 @@
     <ConceptID_2020>NL-CM:9.13.21195</ConceptID_2020>
     <ConceptName_2020>Toedieningsweg</ConceptName_2020>
     <Codelists_2020>MedicatieToedieningToedieningswegCodelijst</Codelists_2020>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23168</ConceptID_2017>
-    <ConceptName_2017>DubbeleControleUitgevoerd</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23168</ConceptID_2020>
-    <ConceptName_2020>DubbeleControleUitgevoerd</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23170</ConceptID_2017>
-    <ConceptName_2017>Medicatieafspraak</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23170</ConceptID_2020>
-    <ConceptName_2020>Medicatieafspraak</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23237</ConceptID_2017>
-    <ConceptName_2017>Toedieningsafspraak</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23237</ConceptID_2020>
-    <ConceptName_2020>Toedieningsafspraak</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23169</ConceptID_2017>
-    <ConceptName_2017>GerelateerdeAfspraak</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23169</ConceptID_2020>
-    <ConceptName_2020>GerelateerdeAfspraak</ConceptName_2020>
-    <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
     <TypeChange/>
@@ -223,12 +121,12 @@
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23380</ConceptID_2017>
-    <ConceptName_2017>Patiënt</ConceptName_2017>
+    <ConceptID_2017>NL-CM:9.13.21337</ConceptID_2017>
+    <ConceptName_2017>Toelichting</ConceptName_2017>
     <Codelists_2017/>
     <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23380</ConceptID_2020>
-    <ConceptName_2020>Patiënt</ConceptName_2020>
+    <ConceptID_2020>NL-CM:9.13.21337</ConceptID_2020>
+    <ConceptName_2020>Toelichting</ConceptName_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
@@ -240,29 +138,12 @@
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23172</ConceptID_2017>
-    <ConceptName_2017>Zorgverlener</ConceptName_2017>
+    <ConceptID_2017>NL-CM:9.13.23159</ConceptID_2017>
+    <ConceptName_2017>Toedieningssnelheid::Bereik</ConceptName_2017>
     <Codelists_2017/>
     <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23172</ConceptID_2020>
-    <ConceptName_2020>Zorgverlener</ConceptName_2020>
-    <Codelists_2020/>
-    <Bits/>
-    <Omschrijving/>
-    <TypeChange/>
-    <Impact_heen/>
-    <TRANSLATIE_spec_heen/>
-    <Impact_terug/>
-    <TRANSLATIE_spec_terug/>
-  </row>
-  <row>
-    <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.23355</ConceptID_2017>
-    <ConceptName_2017>Mantelzorger::Contactpersoon</ConceptName_2017>
-    <Codelists_2017/>
-    <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.23355</ConceptID_2020>
-    <ConceptName_2020>Mantelzorger::Contactpersoon</ConceptName_2020>
+    <ConceptID_2020>NL-CM:9.13.23159</ConceptID_2020>
+    <ConceptName_2020>Toedieningssnelheid::Bereik</ConceptName_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
@@ -291,13 +172,13 @@
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.21191</ConceptID_2017>
-    <ConceptName_2017>MedicatieToedieningStatus</ConceptName_2017>
-    <Codelists_2017>MedicatieToedieningStatusCodelijst</Codelists_2017>
+    <ConceptID_2017>NL-CM:9.13.23167</ConceptID_2017>
+    <ConceptName_2017>AfwijkendeToediening</ConceptName_2017>
+    <Codelists_2017/>
     <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.21191</ConceptID_2020>
-    <ConceptName_2020>MedicatieToedieningStatus</ConceptName_2020>
-    <Codelists_2020>MedicatieToedieningStatusCodelijst</Codelists_2020>
+    <ConceptID_2020>NL-CM:9.13.23167</ConceptID_2020>
+    <ConceptName_2020>AfwijkendeToediening</ConceptName_2020>
+    <Codelists_2020/>
     <Bits/>
     <Omschrijving/>
     <TypeChange/>
@@ -308,12 +189,131 @@
   </row>
   <row>
     <ZibName>MedicatieToediening2</ZibName>
-    <ConceptID_2017>NL-CM:9.13.21337</ConceptID_2017>
-    <ConceptName_2017>Toelichting</ConceptName_2017>
+    <ConceptID_2017>NL-CM:9.13.23168</ConceptID_2017>
+    <ConceptName_2017>DubbeleControleUitgevoerd</ConceptName_2017>
     <Codelists_2017/>
     <Change>groen: geen wijzigingen</Change>
-    <ConceptID_2020>NL-CM:9.13.21337</ConceptID_2020>
-    <ConceptName_2020>Toelichting</ConceptName_2020>
+    <ConceptID_2020>NL-CM:9.13.23168</ConceptID_2020>
+    <ConceptName_2020>DubbeleControleUitgevoerd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23169</ConceptID_2017>
+    <ConceptName_2017>GerelateerdeAfspraak</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23169</ConceptID_2020>
+    <ConceptName_2020>GerelateerdeAfspraak</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23170</ConceptID_2017>
+    <ConceptName_2017>Medicatieafspraak</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23170</ConceptID_2020>
+    <ConceptName_2020>Medicatieafspraak</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23171</ConceptID_2017>
+    <ConceptName_2017>AfgesprokenDatumTijd</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23171</ConceptID_2020>
+    <ConceptName_2020>AfgesprokenDatumTijd</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23172</ConceptID_2017>
+    <ConceptName_2017>Zorgverlener</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23172</ConceptID_2020>
+    <ConceptName_2020>Zorgverlener</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23237</ConceptID_2017>
+    <ConceptName_2017>Toedieningsafspraak</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23237</ConceptID_2020>
+    <ConceptName_2020>Toedieningsafspraak</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23355</ConceptID_2017>
+    <ConceptName_2017>Mantelzorger::Contactpersoon</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23355</ConceptID_2020>
+    <ConceptName_2020>Mantelzorger::Contactpersoon</ConceptName_2020>
+    <Codelists_2020/>
+    <Bits/>
+    <Omschrijving/>
+    <TypeChange/>
+    <Impact_heen/>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug/>
+    <TRANSLATIE_spec_terug/>
+  </row>
+  <row>
+    <ZibName>MedicatieToediening2</ZibName>
+    <ConceptID_2017>NL-CM:9.13.23380</ConceptID_2017>
+    <ConceptName_2017>Patiënt</ConceptName_2017>
+    <Codelists_2017/>
+    <Change>groen: geen wijzigingen</Change>
+    <ConceptID_2020>NL-CM:9.13.23380</ConceptID_2020>
+    <ConceptName_2020>Patiënt</ConceptName_2020>
     <Codelists_2020/>
     <Bits/>
     <Omschrijving/>

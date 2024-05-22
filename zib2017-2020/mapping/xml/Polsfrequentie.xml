@@ -28,11 +28,11 @@
     <Codelists_2020/>
     <Bits>ZIB-705</Bits>
     <Omschrijving>De cardinaliteit van het element Polsfrequentiewaarde  (0..1) en Hartfrequentiewaarde uit zib Hartfrequentie (1) waren niet consistent. Dit is verbeterd, beiden zijn nu 1.</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
-    <Impact_heen>Medium</Impact_heen>
-    <TRANSLATIE_spec_heen>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_heen>
+    <TypeChange>CARDINALITY CHANGES (0..1 to 1)</TypeChange>
+    <Impact_heen>High</Impact_heen>
+    <TRANSLATIE_spec_heen>ALS [aantal=0] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_heen>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Polsfrequentie</ZibName>

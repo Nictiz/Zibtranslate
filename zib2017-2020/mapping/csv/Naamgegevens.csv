@@ -10,4 +10,4 @@ Naamgegevens,NL-CM:20.4.8,AchternaamPartner,,groen: geen wijzigingen,NL-CM:20.4.
 Naamgegevens,NL-CM:20.4.9,VoorvoegselsPartner,,groen: geen wijzigingen,NL-CM:20.4.9,VoorvoegselsPartner,,,,,,,,
 Naamgegevens,NL-CM:20.4.10,Achternaam,,groen: geen wijzigingen,NL-CM:20.4.10,Achternaam,,,,,,,,
 Naamgegevens,NL-CM:20.4.11,Voorvoegsels,,groen: geen wijzigingen,NL-CM:20.4.11,Voorvoegsels,,,,,,,,
-Naamgegevens,NL-CM:20.4.12,**concept toegevoegd in 2020**,,rood: major change,NL-CM:20.4.12,Titels,,ZIB-1067,element titels toegevoegd aan informatiemodel,CONCEPT ADDITION,Low,,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]
+Naamgegevens,NL-CM:20.4.12,**concept toegevoegd in 2020**,,rood: major change,NL-CM:20.4.12,Titels,,ZIB-1067,element titels toegevoegd aan informatiemodel,CONCEPT ADDITION,Low,,High,IF source <> [blank] THEN source -> target=[non-zib item]

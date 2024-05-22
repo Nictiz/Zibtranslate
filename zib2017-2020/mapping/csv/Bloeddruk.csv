@@ -7,7 +7,7 @@ Bloeddruk,NL-CM:12.4.3,DiastolischeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4
 Bloeddruk,NL-CM:12.4.4,GemiddeldeBloeddruk,,groen: geen wijzigingen,NL-CM:12.4.4,GemiddeldeBloeddruk,,,,,,,,
 Bloeddruk,NL-CM:12.4.5,BloeddrukDatumTijd,,groen: geen wijzigingen,NL-CM:12.4.5,BloeddrukDatumTijd,,,,,,,,
 Bloeddruk,NL-CM:12.4.6,Toelichting,,groen: geen wijzigingen,NL-CM:12.4.6,Toelichting,,,,,,,,
-Bloeddruk,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,oranje: minor change,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,ZIB-962,2 extra items toegevoegd aan MeetmethodeCodelijst.,VALUESET CHANGES,Low,valuesets 2017 -> valueset 2020 regel,Medium,valuesets 2017 <- valueset 2020 regel
+Bloeddruk,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,oranje: minor change,NL-CM:12.4.7,Meetmethode,MeetmethodeCodelijst,ZIB-962,2 extra items toegevoegd aan MeetmethodeCodelijst.,VALUESET CHANGES,Low,existing valueset [valuesetname] changed in [baseline 2020],Medium,existing valueset [valuesetname] changed in [baseline 2020]
 Bloeddruk,NL-CM:12.4.8,DiastolischEindpunt,,groen: geen wijzigingen,NL-CM:12.4.8,DiastolischEindpunt,,,,,,,,
 Bloeddruk,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,groen: geen wijzigingen,NL-CM:12.4.9,ManchetType,ManchetTypeCodelijst,,,,,,,
 Bloeddruk,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,groen: geen wijzigingen,NL-CM:12.4.10,MeetLocatie,MeetLocatieCodelijst,,,,,,,

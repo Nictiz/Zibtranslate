@@ -3,4 +3,4 @@ Voedingsadvies,NL-CM:7.11.1,Voedingsadvies,,groen: geen wijzigingen,NL-CM:7.11.1
 Voedingsadvies,NL-CM:7.11.2,DieetType,,groen: geen wijzigingen,NL-CM:7.11.2,DieetType,,,,,,,,
 Voedingsadvies,NL-CM:7.11.3,Consistentie,,groen: geen wijzigingen,NL-CM:7.11.3,Consistentie,,,,,,,,
 Voedingsadvies,NL-CM:7.11.4,Toelichting,,groen: geen wijzigingen,NL-CM:7.11.4,Toelichting,,,,,,,,
-Voedingsadvies,NL-CM:7.11.5,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.11.5,Indicatie::Probleem,,ZIB_707,Verwijzing naar zib probleem toegeveogd,CONCEPT ADDITION,Low,,High,IF [blank] source->target ELSE [toon en stuur de relatie tussen het voedings advies en het probleem naar een 2017 ontvanger. Maak eventueel een probleem instance aan als deze nog niet bestaat ]
+Voedingsadvies,NL-CM:7.11.5,**concept toegevoegd in 2020**,,rood: major change,NL-CM:7.11.5,Indicatie::Probleem,,ZIB_707,Verwijzing naar zib probleem toegeveogd,CONCEPT ADDITION,Low,,High,IF source <> [blank] THEN source -> target=[non-zib item]

@@ -49,6 +49,6 @@
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>IF source &lt;&gt; [blank] THEN source -&gt; target=[non-zib item]</TRANSLATIE_spec_terug>
   </row>
 </data>

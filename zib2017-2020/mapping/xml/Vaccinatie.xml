@@ -63,11 +63,11 @@
     <Bits>ZIB-685;ZIB-664
 </Bits>
     <Omschrijving>Kardinaliteit van VaccinatieDatum is gewijzigd naar 0..1.</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Vaccinatie</ZibName>
@@ -133,7 +133,7 @@
     <Omschrijving>Om een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden) moet VaccinatieDatum worden gebruikt.  ‘GewensteDatumHervacciniatie’ is verwijderd.</Omschrijving>
     <TypeChange>CONCEPT REMOVED</TypeChange>
     <Impact_heen>High</Impact_heen>
-    <TRANSLATIE_spec_heen>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger]</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>IF source &lt;&gt; [blank] THEN source -&gt; target=[non-zib item]</TRANSLATIE_spec_heen>
     <Impact_terug>Low</Impact_terug>
     <TRANSLATIE_spec_terug>niet mogelijk</TRANSLATIE_spec_terug>
   </row>

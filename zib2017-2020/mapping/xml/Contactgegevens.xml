@@ -79,11 +79,11 @@
     <Codelists_2020>TelecomTypeCodelijst</Codelists_2020>
     <Bits>ZIB-958</Bits>
     <Omschrijving>Kardinaliteit TelecomType aangepast van 1 naar 0..1.</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
-    <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_heen/>
+    <Impact_terug>High</Impact_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Contactgegevens</ZibName>
@@ -149,9 +149,9 @@
     <Omschrijving>Typo in engelse tekst in waarde binnen AdresTypeCodelijst aangepast. "Tempory address" moet zijn "Temporary address"</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Contactgegevens</ZibName>
@@ -168,6 +168,6 @@
     <Impact_heen>Low</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>High</Impact_terug>
-    <TRANSLATIE_spec_terug>IF [blank]source-&gt;target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2017 ontvanger]</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>IF source &lt;&gt; [blank] THEN source -&gt; target=[non-zib item]</TRANSLATIE_spec_terug>
   </row>
 </data>

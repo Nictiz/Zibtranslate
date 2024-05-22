@@ -12,7 +12,7 @@
     <Bits>ZIB-805</Bits>
     <Omschrijving>Bereik invariant toegevoegd in UML modellering (Of een nominale waarde OF een minimale EN een maximale)
 waarde moet gekozen worden)</Omschrijving>
-    <TypeChange>OTHER INFORMATIONMODEL CHANGE</TypeChange>
+    <TypeChange>CONSTRAINT CHANGE</TypeChange>
     <Impact_heen>Medium</Impact_heen>
     <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>

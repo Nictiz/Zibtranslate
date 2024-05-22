@@ -96,11 +96,11 @@
     <Codelists_2020/>
     <Bits>ZIB-961</Bits>
     <Omschrijving>Kardinaliteit van het element Naamgegevens gewijzigd van 1 naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE </TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Patient</ZibName>
@@ -130,11 +130,11 @@
     <Codelists_2020/>
     <Bits>ZIB-1029</Bits>
     <Omschrijving>Kardinaliteit Geslacht gewijzigd van 1 naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Patient</ZibName>
@@ -147,11 +147,11 @@
     <Codelists_2020/>
     <Bits>ZIB-1029</Bits>
     <Omschrijving>Kardinaliteit Geboortedatum gewijzigd van 1 naar 0..1</Omschrijving>
-    <TypeChange>CARDINALITY CHANGE</TypeChange>
+    <TypeChange>CARDINALITY CHANGES (1 to 0..1)</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>ONE TO ZERO-TO-ONE</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>ZERO-TO-ONE TO ONE</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>ALS [aantal&lt;&gt;1] DAN [doe iets] ANDERS source -&gt; target</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Patient</ZibName>

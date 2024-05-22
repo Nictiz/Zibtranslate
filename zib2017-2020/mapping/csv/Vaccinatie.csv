@@ -3,10 +3,10 @@ Vaccinatie,DCM::Concept,Concept,,geel: patch wijziging,DCM::Concept,Concept,,ZIB
 Vaccinatie,NL-CM:11.1.1,Vaccination,,geel: patch wijziging,NL-CM:11.1.1,Vaccination,,ZIB-821,Tekst definitie aangepast voor vaccinatie datum in toekomst,SIMPLE PATCH CHANGE,Low,,Low,
 Vaccinatie,NL-CM:11.1.2,ProductCode,,groen: geen wijzigingen,NL-CM:11.1.2,ProductCode,,,,,,,,
 Vaccinatie,NL-CM:11.1.3,VaccinationDate,,oranje: minor change,NL-CM:11.1.3,VaccinationDate,,"ZIB-685;ZIB-664
-",Kardinaliteit van VaccinatieDatum is gewijzigd naar 0..1.,CARDINALITY CHANGE,Low,ONE TO ZERO-TO-ONE,Medium,ZERO-TO-ONE TO ONE
+",Kardinaliteit van VaccinatieDatum is gewijzigd naar 0..1.,CARDINALITY CHANGES (1 to 0..1),Low,,High,ALS [aantal<>1] DAN [doe iets] ANDERS source -> target
 Vaccinatie,NL-CM:11.1.3,VaccinatieDatum,,oranje: minor change,NL-CM:11.1.3,VaccinatieDatum,,ZIB-821,datum in toekomst nu toegestaan,DATETIME IN FUTURE ALLOWED,Low,,Medium,IF [datetime]> TODAY> remove check for dates in future on 2017 zib
 Vaccinatie,NL-CM:11.1.3,VaccinationDate,,geel: patch wijziging,NL-CM:11.1.3,VaccinationDate,,ZIB-821,Tekst definitie aangepast voor datum in toekomst zodat deze gebruikt kan worden voor een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden).,SIMPLE PATCH CHANGE,Low,,Low,
 Vaccinatie,NL-CM:11.1.4,Dose,,groen: geen wijzigingen,NL-CM:11.1.4,Dose,,,,,,,,
-Vaccinatie,NL-CM:11.1.5,PreferedDateForRevaccination,,rood: major change,NL-CM:11.1.5,**concept verwijderd in 2020**,,ZIB-821,Om een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden) moet VaccinatieDatum worden gebruikt.  ‘GewensteDatumHervacciniatie’ is verwijderd.,CONCEPT REMOVED,High,IF [blank]source->target ELSE [toon en stuur de inhoud van dit data item als vrije tekst naar een 2020 ontvanger],Low,niet mogelijk
+Vaccinatie,NL-CM:11.1.5,PreferedDateForRevaccination,,rood: major change,NL-CM:11.1.5,**concept verwijderd in 2020**,,ZIB-821,Om een clinical reminder (vaccinatie over y maanden maar niet eerder dan x maanden) moet VaccinatieDatum worden gebruikt.  ‘GewensteDatumHervacciniatie’ is verwijderd.,CONCEPT REMOVED,High,IF source <> [blank] THEN source -> target=[non-zib item],Low,niet mogelijk
 Vaccinatie,NL-CM:11.1.6,Administrator::Healthprofessional,,groen: geen wijzigingen,NL-CM:11.1.6,Administrator::Healthprofessional,,,,,,,,
 Vaccinatie,NL-CM:11.1.7,Comment,,groen: geen wijzigingen,NL-CM:11.1.7,Comment,,,,,,,,

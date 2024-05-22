@@ -28,11 +28,11 @@
     <Codelists_2020>LopenCodelijst</Codelists_2020>
     <Bits>ZIB-1113</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Mobiliteit</ZibName>
@@ -62,11 +62,11 @@
     <Codelists_2020>UitvoerenTransferCodelijst</Codelists_2020>
     <Bits>ZIB-1113</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Mobiliteit</ZibName>
@@ -81,9 +81,9 @@
     <Omschrijving>Deprecated code in codelijst</Omschrijving>
     <TypeChange>VALUESET CHANGES</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valuesets 2017 -&gt; valueset 2020 regel</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_heen>
     <Impact_terug>Medium</Impact_terug>
-    <TRANSLATIE_spec_terug>valuesets 2017 &lt;- valueset 2020 regel</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug>existing valueset [valuesetname] changed in [baseline 2020]</TRANSLATIE_spec_terug>
   </row>
   <row>
     <ZibName>Mobiliteit</ZibName>
@@ -96,11 +96,11 @@
     <Codelists_2020>HoudingVeranderenCodelijst</Codelists_2020>
     <Bits>ZIB-1113</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Mobiliteit</ZibName>
@@ -113,11 +113,11 @@
     <Codelists_2020>HoudingHandhavenCodelijst</Codelists_2020>
     <Bits>ZIB-1113</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
   <row>
     <ZibName>Mobiliteit</ZibName>
@@ -147,10 +147,10 @@
     <Codelists_2020>TraplopenCodelijst</Codelists_2020>
     <Bits>ZIB-1113</Bits>
     <Omschrijving>Datatype CO gewijzigd in CD</Omschrijving>
-    <TypeChange>DATATYPE CHANGE</TypeChange>
+    <TypeChange>DATATYPE CO TO CD</TypeChange>
     <Impact_heen>Low</Impact_heen>
-    <TRANSLATIE_spec_heen>valueset datatype CO -&gt; valueset datatype CD</TRANSLATIE_spec_heen>
+    <TRANSLATIE_spec_heen/>
     <Impact_terug>Low</Impact_terug>
-    <TRANSLATIE_spec_terug>valueset datatype CD -&gt; valueset datatype CO</TRANSLATIE_spec_terug>
+    <TRANSLATIE_spec_terug/>
   </row>
 </data>
