@@ -1,6 +1,6 @@
  # Generieke translatiespecificaties zibs (CONCEPT)
 
-Bij het opstellen van deze translatiespecificaties is gekeken naar de wijzigingen en mogelijkheden voor translaties per zib-element. Een zib-element is een dataconcept van het het informatiemodel, een codelijst of een andere zib-sectie (zie ook https://zibs.nl/wiki/Zib_secties) 
+Bij het opstellen van deze translatiespecificaties is gekeken naar de wijzigingen en mogelijkheden voor translaties per zib-element. Een zib-element is een concept van het het informatiemodel, een codelijst of een andere zib-sectie (zie ook https://zibs.nl/wiki/Zib_secties) 
 
 ## Aanleiding
 De aanleiding en achtergrond bij dit verzoek en het nut van deze semantische translatiespecificaties is te lezen in de memo over de implementatie FHIR https://www.rijksoverheid.nl/documenten/publicaties/2022/10/21/implementatie-fhir
