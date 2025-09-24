@@ -1,0 +1,33 @@
+ZibName 2017,ConceptID_2017,ConceptName_2017,Codelists_2017,Relation,Zibname 2020,ConceptID_2020,ConceptName_2020,Codelists_2020,TRANSLATIE_2017_naar_2020,TRANSLATIE_2020_naar_2017,Opmerkingen
+BehandelAanwijzing,NL-CM:2.1.1,BehandelAanwijzing,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.1,BehandelAanwijzing2,,,,
+BehandelAanwijzing,NL-CM:2.1.8,Verificatie,,,,,**concept verwijderd in 2020**,,Zie stroomdiagram Verificatie,nvt,
+BehandelAanwijzing,NL-CM:2.1.9,Geverifieerd,,,,,**concept verwijderd in 2020**,,,nvt,
+BehandelAanwijzing,NL-CM:2.1.11,GeverifieerdBij,GeverifieerdBijCodelijst,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.9,AfspraakPartij,,"Als GeverifieerdBij == Patient dan AfspraakPartij = verwijzing naar Patient
+Als GeverifeerdBij == Ouder dan AfspraakPartij = verwijzing naar Contactpersoon met relatie == PRN
+Als GeverifeerdBij == Voogd  dan AfspraakPartij = verwijzing naar Contactpersoon met rol == Voogd
+Als GeverifieerdBij == Gevolmachtigde dan AfspraakPartij = verwijzing naar Contactpersoon met rol == Wettelijke vertegenwoordiger
+Als GeverifieerdBij == OTH dan AfspraakPartij = verwijzing naar Contactpersoon; rol en relatie Contactpersoon afleiden uit vrije tekst behorend bij OTH
+Zie Verificatie voor de situatie met meerdere voorkomens van Verificatie.","Als AfspraakPartij == verwijzing naar Patient dan GeverifieerdBij = Patient
+Als AfspraakPartij == verwijzing naar Contactpersoon dan: 
+-maak voor ieder voorkomen van rol == Voogd een voorkomen van GeverifieerdBij == Voogd 
+-maak voor ieder voorkomen van rol == Wettelijke vertegenwoordiger een voorkomen van GeverifieerdBij == Gevolmachtigde 
+-maak voor ieder voorkomen van relatie == Moeder en Relatie == vader een voorkomen van GeverifeerdBij = Ouder
+-maak voor ieder voorkomen van Contactpersoon met andere rol en/of relatie een voorkomen van GeverifieerdBij == OTHER met rol en relatie in vrije tekst 
+Als AfspraakPartij == verwijzing naar Zorgverlener dan ZorgverlenerAlsAuteur (BasisElementen) = verwijzing naar Zorgverlener 
+",
+BehandelAanwijzing,NL-CM:2.1.10,VerificatieDatum,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.5,MeestRecenteBespreekdatum,,"MeestRecenteBespreekdatum = VerificatieDatum.  Indien niet beschikbaar, dan is de mapping van Behandelaanwijzing(2017) op Behandelaanwijzing2(2020) niet mogelijk.
+Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verificatie.",VerificatieDatum = MeestRecenteBespreekdatum,
+BehandelAanwijzing,NL-CM:0.0.14,DatumTijd (Basiselementen),,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.5,MeestRecenteBespreekdatum,,zie Verificatiedatum,,
+BehandelAanwijzing,NL-CM:2.1.3,Behandeling,BehandelingCodelijst,is equal to,BehandelAanwijzing2,NL-CM:2.2.3,Behandeling,BehandelingCodelijst,overnemen,overnemen,
+BehandelAanwijzing,NL-CM:2.1.4,BehandelingToegestaan,BehandelingToegestaanCodelijst,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.2,BehandelBesluit,BehandelBesluitCodelijst,"Als BehandelingToegestaan == Ja dan Behandelbesluit = Wel uitvoeren
+Als BehandelingToegestaan == Nee dan Behandelbesluit = Niet uitvoeren
+Als BehandelingToegestaan == Ja, maar met beperkingen  dan Behandelbesluit = Anders, en in Toelichting opnemen: ""BehandelingToegestaan =  ""Ja, maar met beperkingen"" is omgezet in Behandelbesluit = ""Anders"".""","Als Behandelbesluit == Wel uitvoeren dan BehandelingToegestaan = Ja 
+Als Behandelbesluit == Niet uitvoeren dsan BehandelingToegestaan = Nee
+Als  Behandelbesluit == Anders dan BehandelingToegestaan = Ja, maar met beperkingen,  en in Toelichting opnemen: ""Behandelbesluit = ""Anders"" is omgezet in BehandelingToegestaan = ""Ja, maar met beperkingen""."" ",
+BehandelAanwijzing,NL-CM:2.1.5,Beperkingen,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.4,SpecificatieAnders,,"overnemen, voorafgegaan door de tekst ""Ja, maar met beperkingen: """,overnemen,
+BehandelAanwijzing,NL-CM:2.1.6,BeginDatum,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.5,MeestRecenteBespreekdatum,,zie Verificatiedatum,,
+BehandelAanwijzing,NL-CM:2.1.7,EindDatum,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.6,DatumBeeindigd,,"overnemen
+Opmerking: Een EindDatum mag in BehandelAanwijzing2 niet in de toekomst liggen. In de Toelichting wordt een foutmelding opgenomen: ""Einddatum ligt na huidige datum [datum van mapping]."".",overnemen,
+BehandelAanwijzing,NL-CM:2.1.15,Toelichting,,is equal to,BehandelAanwijzing2,NL-CM:2.2.13,Toelichting,,overnemen,overnemen,
+BehandelAanwijzing,NL-CM:2.1.14,Wilsverklaring,,is equal to,BehandelAanwijzing2,NL-CM:2.2.8,Wilsverklaring,,overnemen,overnemen,
+BehandelAanwijzing,NL-CM:0.0.9,ZorgverlenerAlsAuteur::Zorgverlener (BasisElementen),,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.12,Zorgverlener,,"AfspraakPartij = BasisElementen.ZorgverlenerAlsAuteur van de versie van Behandelaanwijzing waarin de meest recente verificatie is toegegevoegd. Als deze niet beschikbaar is, dan is mapping van Behandelaanwijzing(2017) naar Behandelaanwijzing2(2020) niet mogelijk.",zie AfspraakPartij,
