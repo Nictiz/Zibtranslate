@@ -1,3 +1,10 @@
+## Version information
+
+|  |  |
+|---|---|
+| Versie |  |
+| Volwassenheidsniveau |  |
+
 # BehandelAanwijzing
 ## File formats
 
