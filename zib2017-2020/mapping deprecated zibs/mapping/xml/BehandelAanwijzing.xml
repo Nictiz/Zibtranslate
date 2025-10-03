@@ -6,7 +6,7 @@
     <ConceptName_2017>BehandelAanwijzing</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.1</ConceptID_2020>
     <ConceptName_2020>BehandelAanwijzing2</ConceptName_2020>
     <Codelists_2020/>
@@ -20,7 +20,7 @@
     <ConceptName_2017>Verificatie</ConceptName_2017>
     <Codelists_2017/>
     <Relation/>
-    <Zibname_2020/>
+    <ZibName_2020/>
     <ConceptID_2020/>
     <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
     <Codelists_2020/>
@@ -34,7 +34,7 @@
     <ConceptName_2017>Geverifieerd</ConceptName_2017>
     <Codelists_2017/>
     <Relation/>
-    <Zibname_2020/>
+    <ZibName_2020/>
     <ConceptID_2020/>
     <ConceptName_2020>**concept verwijderd in 2020**</ConceptName_2020>
     <Codelists_2020/>
@@ -48,7 +48,7 @@
     <ConceptName_2017>GeverifieerdBij</ConceptName_2017>
     <Codelists_2017>GeverifieerdBijCodelijst</Codelists_2017>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.9</ConceptID_2020>
     <ConceptName_2020>AfspraakPartij</ConceptName_2020>
     <Codelists_2020/>
@@ -74,7 +74,7 @@ Als AfspraakPartij == verwijzing naar Zorgverlener dan ZorgverlenerAlsAuteur (Ba
     <ConceptName_2017>VerificatieDatum</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.5</ConceptID_2020>
     <ConceptName_2020>MeestRecenteBespreekdatum</ConceptName_2020>
     <Codelists_2020/>
@@ -89,7 +89,7 @@ Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verif
     <ConceptName_2017>DatumTijd (Basiselementen)</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.5</ConceptID_2020>
     <ConceptName_2020>MeestRecenteBespreekdatum</ConceptName_2020>
     <Codelists_2020/>
@@ -103,7 +103,7 @@ Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verif
     <ConceptName_2017>Behandeling</ConceptName_2017>
     <Codelists_2017>BehandelingCodelijst</Codelists_2017>
     <Relation>is equal to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.3</ConceptID_2020>
     <ConceptName_2020>Behandeling</ConceptName_2020>
     <Codelists_2020>BehandelingCodelijst</Codelists_2020>
@@ -117,7 +117,7 @@ Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verif
     <ConceptName_2017>BehandelingToegestaan</ConceptName_2017>
     <Codelists_2017>BehandelingToegestaanCodelijst</Codelists_2017>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.2</ConceptID_2020>
     <ConceptName_2020>BehandelBesluit</ConceptName_2020>
     <Codelists_2020>BehandelBesluitCodelijst</Codelists_2020>
@@ -135,7 +135,7 @@ Als  Behandelbesluit == Anders dan BehandelingToegestaan = Ja, maar met beperkin
     <ConceptName_2017>Beperkingen</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.4</ConceptID_2020>
     <ConceptName_2020>SpecificatieAnders</ConceptName_2020>
     <Codelists_2020/>
@@ -149,7 +149,7 @@ Als  Behandelbesluit == Anders dan BehandelingToegestaan = Ja, maar met beperkin
     <ConceptName_2017>BeginDatum</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.5</ConceptID_2020>
     <ConceptName_2020>MeestRecenteBespreekdatum</ConceptName_2020>
     <Codelists_2020/>
@@ -163,7 +163,7 @@ Als  Behandelbesluit == Anders dan BehandelingToegestaan = Ja, maar met beperkin
     <ConceptName_2017>EindDatum</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.6</ConceptID_2020>
     <ConceptName_2020>DatumBeeindigd</ConceptName_2020>
     <Codelists_2020/>
@@ -178,7 +178,7 @@ Opmerking: Een EindDatum mag in BehandelAanwijzing2 niet in de toekomst liggen. 
     <ConceptName_2017>Toelichting</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equal to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.13</ConceptID_2020>
     <ConceptName_2020>Toelichting</ConceptName_2020>
     <Codelists_2020/>
@@ -192,7 +192,7 @@ Opmerking: Een EindDatum mag in BehandelAanwijzing2 niet in de toekomst liggen. 
     <ConceptName_2017>Wilsverklaring</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equal to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.8</ConceptID_2020>
     <ConceptName_2020>Wilsverklaring</ConceptName_2020>
     <Codelists_2020/>
@@ -206,7 +206,7 @@ Opmerking: Een EindDatum mag in BehandelAanwijzing2 niet in de toekomst liggen. 
     <ConceptName_2017>ZorgverlenerAlsAuteur::Zorgverlener (BasisElementen)</ConceptName_2017>
     <Codelists_2017/>
     <Relation>is equivalent to</Relation>
-    <Zibname_2020>BehandelAanwijzing2</Zibname_2020>
+    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
     <ConceptID_2020>NL-CM:2.2.12</ConceptID_2020>
     <ConceptName_2020>Zorgverlener</ConceptName_2020>
     <Codelists_2020/>

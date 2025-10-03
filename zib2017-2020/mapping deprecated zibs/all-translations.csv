@@ -30,4 +30,7 @@ BehandelAanwijzing,NL-CM:2.1.7,EindDatum,,is equivalent to,BehandelAanwijzing2,N
 Opmerking: Een EindDatum mag in BehandelAanwijzing2 niet in de toekomst liggen. In de Toelichting wordt een foutmelding opgenomen: ""Einddatum ligt na huidige datum [datum van mapping]."".",overnemen,
 BehandelAanwijzing,NL-CM:2.1.15,Toelichting,,is equal to,BehandelAanwijzing2,NL-CM:2.2.13,Toelichting,,overnemen,overnemen,
 BehandelAanwijzing,NL-CM:2.1.14,Wilsverklaring,,is equal to,BehandelAanwijzing2,NL-CM:2.2.8,Wilsverklaring,,overnemen,overnemen,
+,,**concept toegevoegd in 2020**,,,BehandelAanwijzing2,NL-CM:2.2.7,RedenBeeindigd,,nvt,"Toevoegen aan Toelichting: ""Reden beeindigd"" en inhoud RedenBeeindigd ",
+,,**concept toegevoegd in 2020**,,,BehandelAanwijzing2,NL-CM:2.2.10,Patient,,nvt,zie AfspraakPartij,
+,,**concept toegevoegd in 2020**,,,BehandelAanwijzing2,NL-CM:2.2.11,Vertegenwoordiger::Contactpersoon,,nvt,zie AfspraakPartij,
 BehandelAanwijzing,NL-CM:0.0.9,ZorgverlenerAlsAuteur::Zorgverlener (BasisElementen),,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.12,Zorgverlener,,"AfspraakPartij = BasisElementen.ZorgverlenerAlsAuteur van de versie van Behandelaanwijzing waarin de meest recente verificatie is toegegevoegd. Als deze niet beschikbaar is, dan is mapping van Behandelaanwijzing(2017) naar Behandelaanwijzing2(2020) niet mogelijk.",zie AfspraakPartij,
