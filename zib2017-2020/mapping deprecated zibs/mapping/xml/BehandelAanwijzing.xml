@@ -85,20 +85,6 @@ Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verif
   </row>
   <row>
     <ZibName_2017>BehandelAanwijzing</ZibName_2017>
-    <ConceptID_2017>NL-CM:0.0.14</ConceptID_2017>
-    <ConceptName_2017>DatumTijd (Basiselementen)</ConceptName_2017>
-    <Codelists_2017/>
-    <Relation>is equivalent to</Relation>
-    <ZibName_2020>BehandelAanwijzing2</ZibName_2020>
-    <ConceptID_2020>NL-CM:2.2.5</ConceptID_2020>
-    <ConceptName_2020>MeestRecenteBespreekdatum</ConceptName_2020>
-    <Codelists_2020/>
-    <TRANSLATIE_2017_naar_2020>zie Verificatiedatum</TRANSLATIE_2017_naar_2020>
-    <TRANSLATIE_2020_naar_2017/>
-    <Opmerkingen/>
-  </row>
-  <row>
-    <ZibName_2017>BehandelAanwijzing</ZibName_2017>
     <ConceptID_2017>NL-CM:2.1.3</ConceptID_2017>
     <ConceptName_2017>Behandeling</ConceptName_2017>
     <Codelists_2017>BehandelingCodelijst</Codelists_2017>

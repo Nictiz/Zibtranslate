@@ -17,7 +17,6 @@ Als AfspraakPartij == verwijzing naar Zorgverlener dan ZorgverlenerAlsAuteur (Ba
 ",
 BehandelAanwijzing,NL-CM:2.1.10,VerificatieDatum,,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.5,MeestRecenteBespreekdatum,,"MeestRecenteBespreekdatum = VerificatieDatum.  Indien niet beschikbaar, dan is de mapping van Behandelaanwijzing(2017) op Behandelaanwijzing2(2020) niet mogelijk.
 Zie stroomdiagram Verificatie voor de situatie met meerdere voorkomens van Verificatie.",VerificatieDatum = MeestRecenteBespreekdatum,
-BehandelAanwijzing,NL-CM:0.0.14,DatumTijd (Basiselementen),,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.5,MeestRecenteBespreekdatum,,zie Verificatiedatum,,
 BehandelAanwijzing,NL-CM:2.1.3,Behandeling,BehandelingCodelijst,is equal to,BehandelAanwijzing2,NL-CM:2.2.3,Behandeling,BehandelingCodelijst,overnemen,overnemen,
 BehandelAanwijzing,NL-CM:2.1.4,BehandelingToegestaan,BehandelingToegestaanCodelijst,is equivalent to,BehandelAanwijzing2,NL-CM:2.2.2,BehandelBesluit,BehandelBesluitCodelijst,"Als BehandelingToegestaan == Ja dan Behandelbesluit = Wel uitvoeren
 Als BehandelingToegestaan == Nee dan Behandelbesluit = Niet uitvoeren
